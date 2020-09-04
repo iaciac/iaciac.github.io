@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Iacopo Iacopini</title>
+    <link>https://iaciac.github.io/publication-type/2/</link>
+      <atom:link href="https://iaciac.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iacopo Iacopini</copyright><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://iaciac.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Networks beyond pairwise interactions: structure and dynamics</title>
+      <link>https://iaciac.github.io/publication/beyond/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/publication/beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilayer modeling of adoption dynamics in energy demand management</title>
+      <link>https://iaciac.github.io/publication/complexrecovery/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://iaciac.github.io/publication/complexrecovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The brokerage role of small states and territories in global corporate networks</title>
+      <link>https://iaciac.github.io/publication/brokerage/</link>
+      <pubDate>Wed, 23 Oct 2019 09:01:43 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/brokerage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplicial models of social contagion</title>
+      <link>https://iaciac.github.io/publication/simplagion/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/publication/simplagion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of tax havens and offshore financial centres in shaping corporate geographies: an industry sector perspective</title>
+      <link>https://iaciac.github.io/publication/thofc_rs/</link>
+      <pubDate>Tue, 28 May 2019 09:01:43 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/thofc_rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of tax havens and offshore financial centers in Asia-Pacific networks: evidence from firm-subsidiary connections</title>
+      <link>https://iaciac.github.io/publication/firmsubabm/</link>
+      <pubDate>Fri, 14 Dec 2018 09:01:43 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/firmsubabm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network dynamics of innovation processes</title>
+      <link>https://iaciac.github.io/publication/netdynnovation/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://iaciac.github.io/publication/netdynnovation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

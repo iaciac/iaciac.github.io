@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iacopo Iacopini</title>
+    <link>https://iaciac.github.io/</link>
+      <atom:link href="https://iaciac.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iacopo Iacopini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iacopo Iacopini</copyright><lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Iacopo Iacopini</title>
+      <link>https://iaciac.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Out in Physics Reports!</title>
+      <link>https://iaciac.github.io/post/beyond_physrep/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/beyond_physrep/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/beyond_physrep/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Check out the full review 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0370157320302489&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;For a short summary have a look at 
+&lt;a href=&#34;https://iaciac.github.io/post/beyond&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt; instead.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Networks beyond pairwise interactions: structure and dynamics</title>
+      <link>https://iaciac.github.io/post/beyond/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/beyond/</guid>
+      <description>&lt;p&gt;Our &lt;strong&gt;review&lt;/strong&gt; on the structure and dynamics of higher-order interactions is out in &lt;em&gt;Physics Reports&lt;/em&gt;! &amp;mdash;-&amp;gt; [
+&lt;a href=&#34;https://doi.org/10.1016/j.physrep.2020.05.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link to arXiv&lt;/a&gt;] - [
+&lt;a href=&#34;https://doi.org/10.1016/j.physrep.2020.05.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link to journal pre-proof&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Any significant understanding of a complex system must rely on system level descriptions. After many years of reductionism, networks have emerged as a reference modeling tool for complex systems, triggering thousands of contributions over the last twenty years and leading to the formation of the new multidisciplinary field of &lt;em&gt;Network Science&lt;/em&gt;. However, the fundamental limit of networks is that they capture pairwise interactions only, while many systems display group interactions. Indeed, in social systems, ecology and biology among other examples, many connections and relationships do not take place in pairs, but rather are collective actions at the level of groups.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2006.01764&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;, together with 
+&lt;a href=&#34;http://www.personal.ceu.edu/staff/Federico_Battiston/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;F. Battiston&lt;/a&gt;, 
+&lt;a href=&#34;https://scholar.google.com/citations?user=s8tIOXYAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Cencetti&lt;/a&gt;, 
+&lt;a href=&#34;http://www.maths.qmul.ac.uk/~latora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Latora&lt;/a&gt;, 
+&lt;a href=&#34;https://scholar.google.co.uk/citations?user=0Wr7HGIAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Lucas&lt;/a&gt;, 
+&lt;a href=&#34;https://alpatania.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Patania&lt;/a&gt;, 
+&lt;a href=&#34;https://www.jgyoung.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J.-G. Young&lt;/a&gt; and 
+&lt;a href=&#34;https://lordgrilo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Petri&lt;/a&gt;, we give a complete overview of the emerging field of &lt;em&gt;networks beyond pairwise interactions&lt;/em&gt; focusing on both structure and dynamics.
+
+&lt;a href=&#34;featured.png&#34;&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+We first discuss the methods to represent higher-order interactions and give a unified presentation of the different frameworks used to describe higher-order systems, highlighting the links between the existing concepts and representations.
+
+&lt;a href=&#34;featured2.png&#34;&gt;&lt;img src=&#34;featured2.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+We discuss the most common measures currently used to characterize and quantify the structural properties of systems with many-body interactions, at each level of their description.
+
+&lt;a href=&#34;featured3.png&#34;&gt;&lt;img src=&#34;featured3.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+For example, in the case of cliques, hyperedges, sets, or simplices, many common notions developed for ordinary graphs have been generalized to their higher-order counterparts.
+
+&lt;a href=&#34;featured4.png&#34;&gt;&lt;img src=&#34;featured4.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+We also review the models proposed in the literature to generate synthetic structures, such as random and growing simplicial complexes, bipartite graphs and hypergraphs, and how they are used to make statical inferences.&lt;/p&gt;
+&lt;p&gt;In the second part of the review, we introduce and discuss the rapidly growing research on higher-order dynamical systems and on dynamical topology, with a particular focus on novel emergent phenomena characterizing landmark dynamical processes.
+
+&lt;a href=&#34;featured5.png&#34;&gt;&lt;img src=&#34;featured5.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+We start from models of higher-order diffusion and continuous-time random walks on simplicial complexes and hypergraphs.
+
+&lt;a href=&#34;featured6.png&#34;&gt;&lt;img src=&#34;featured6.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+We also discuss how coupled dynamical systems can be extended to higher-order structures, and how the presence of high-order interactions can affect synchronization in both phase oscillators and nonlinear dynamical systems.
+
+&lt;a href=&#34;featured7.png&#34;&gt;&lt;img src=&#34;featured7.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+We review a broad variety of models of social dynamics that account for non-pairwise social interactions, going from spreading processes and social contagions to models of opinions formation and consensus.
+
+&lt;a href=&#34;featured8.png&#34;&gt;&lt;img src=&#34;featured8.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+We then move to evolutionary games, often studied in a simple dyadic setting, but recently extended to investigate competition and cooperation among multiple agents.
+
+&lt;a href=&#34;featured9.png&#34;&gt;&lt;img src=&#34;featured9.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+Finally, we give an overview of real-world applications to systems with higher-order interactions such as social systems, neuroscience and brain networks, ecology and other biological systems.&lt;/p&gt;
+&lt;p&gt;We conclude with an outlook on current modeling and conceptual frontiers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Networks beyond pairwise interactions: structure and dynamics</title>
+      <link>https://iaciac.github.io/publication/beyond/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/publication/beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TopoNets 2020 @ NetSci!</title>
+      <link>https://iaciac.github.io/post/toponets2020/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://iaciac.github.io/post/toponets2020/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/toponets2020/featured.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Together with 
+&lt;a href=&#34;http://www.personal.ceu.edu/staff/Federico_Battiston/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;F. Battiston&lt;/a&gt;, 
+&lt;a href=&#34;https://lordgrilo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Petri&lt;/a&gt;, and 
+&lt;a href=&#34;https://scholar.google.com/citations?user=4XfzoZQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;F. Vaccarino&lt;/a&gt;, we are organizing 
+&lt;a href=&#34;https://sites.google.com/view/toponets2020/home-page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;TopoNets: Networks Beyond Pairwise Interactions&lt;/em&gt;&lt;/a&gt; - satellite @ NetSci 2020 (Rome, September 2020).&lt;/p&gt;
+&lt;p&gt;Send us your work on higher order interactions &amp;ndash;&amp;gt; 
+&lt;a href=&#34;https://sites.google.com/view/toponets2020/home-page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multilayer modeling of adoption dynamics in energy demand management</title>
+      <link>https://iaciac.github.io/publication/complexrecovery/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://iaciac.github.io/publication/complexrecovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out in Chaos!</title>
+      <link>https://iaciac.github.io/post/complexrecovery_chaos/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://iaciac.github.io/post/complexrecovery_chaos/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/complexrecovery_chaos/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;New paper with 
+&lt;a href=&#34;http://www.nld.ds.mpg.de/people/schafer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B. Schäfer&lt;/a&gt;, 
+&lt;a href=&#34;https://www.ucl.ac.uk/bartlett/casa/dr-elsa-arcaute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E. Arcaute&lt;/a&gt;, 
+&lt;a href=&#34;http://www.maths.qmul.ac.uk/~cbeck/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C. Beck&lt;/a&gt; and 
+&lt;a href=&#34;http://www.maths.qmul.ac.uk/~latora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Latora&lt;/a&gt; entitled &amp;ldquo;Multilayer modeling of adoption dynamics in energy demand management&amp;rdquo; finally 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-019-10431-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt; in &lt;em&gt;Chaos: An Interdisciplinary Journal of Nonlinear Science&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We study a multilayer model of &lt;strong&gt;social contagion&lt;/strong&gt; on spatial networks &lt;strong&gt;with a twist&lt;/strong&gt;: time- and node-dependent recovery probability. Check it out 
+&lt;a href=&#34;https://doi.org/10.1063/1.5122313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The brokerage role of small states and territories in global corporate networks</title>
+      <link>https://iaciac.github.io/publication/brokerage/</link>
+      <pubDate>Wed, 23 Oct 2019 09:01:43 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/brokerage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New one out</title>
+      <link>https://iaciac.github.io/post/brokerage/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/brokerage/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The brokerage role of small states and territories in global corporate networks&amp;rdquo; is now published on &lt;strong&gt;Growth and Change: A Journal of Urban and Regional Policy&lt;/strong&gt;. Another &lt;em&gt;interdisciplinary&lt;/em&gt; collaboration with 
+&lt;a href=&#34;https://research-repository.uwa.edu.au/en/persons/kirsten-martinus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K. Martinus&lt;/a&gt;, 
+&lt;a href=&#34;https://sees.uq.edu.au/profile/9602/thomas-sigler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T. Sigler&lt;/a&gt; and 
+&lt;a href=&#34;https://www.lboro.ac.uk/gawc/Derudder.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B. Derudder&lt;/a&gt;. Online version 
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/grow.12336&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;motifs.png&#34;&gt;&lt;img src=&#34;motifs.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our &#39;Simplicial models of social contagion&#39; featured on Le Monde!</title>
+      <link>https://iaciac.github.io/post/simplagion_lemonde/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/simplagion_lemonde/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/simplagion_lemonde/featured.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Mama, I need to learn French -&amp;gt; our 
+&lt;a href=&#34;http://nature.com/articles/s41467-019-10431-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simplicial models of social contagion&lt;/a&gt; got featured yesterday on 
+&lt;a href=&#34;https://www.lemonde.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Le Monde&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creative Connectivity Project - A network based approach to understand correlations between interdisciplinary group dynamics and creative performance</title>
+      <link>https://iaciac.github.io/publication/creative/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/publication/creative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper with The Royal College of Art</title>
+      <link>https://iaciac.github.io/post/creative/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/creative/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/creative/featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Creative Connectivity Project - A network based approach to understand correlations between interdisciplinary group dynamics and creative performance&amp;rdquo; is now published on &lt;strong&gt;E&amp;amp;PDE 2019&lt;/strong&gt;, Proceedings of the 21st International Conference on Engineering and Product Design Education, University of Strathclyde, Glasgow. 12th -13th September 2019.&lt;/p&gt;
+&lt;p&gt;An &lt;em&gt;interdisciplinary&lt;/em&gt; collaboration with the 
+&lt;a href=&#34;https://www.rca.ac.uk/schools/school-of-design/innovation-design-engineering/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Innovation Design Engineering&lt;/a&gt; programme at 
+&lt;a href=&#34;https://www.rca.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Royal College of Arts&lt;/a&gt;, together with 
+&lt;a href=&#34;https://www.rca.ac.uk/more/staff/savina-torrisi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S. Torrisi&lt;/a&gt;, 
+&lt;a href=&#34;https://www.docenti.unina.it/#!/professor/53414241544f4d414e46524544494d4e465342543734503235463833394d/riferimenti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S. Manfredi&lt;/a&gt; and 
+&lt;a href=&#34;http://www.maths.qmul.ac.uk/~latora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Latora&lt;/a&gt;, where we look at teamwork and performance during the student projects.&lt;/p&gt;
+&lt;p&gt;The first case study shows that high self-reported team productivity is associated with low final marks. Online version 
+&lt;a href=&#34;https://www.designsociety.org/publication/42241/CREATIVE&amp;#43;CONNECTIVITY&amp;#43;PROJECT&amp;#43;%E2%80%93&amp;#43;A&amp;#43;NETWORK&amp;#43;BASED&amp;#43;APPROACH&amp;#43;TO&amp;#43;UNDERSTAND&amp;#43;CORRELATIONS&amp;#43;BETWEEN&amp;#43;INTERDISCIPLINARY&amp;#43;GROUP&amp;#43;DYNAMICS&amp;#43;AND&amp;#43;CREATIVE&amp;#43;PERFORMANCE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Foursquare data to reveal spatial and temporal patterns in London</title>
+      <link>https://iaciac.github.io/publication/4slondon/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/publication/4slondon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilayer contagion with &#39;complex&#39; recovery</title>
+      <link>https://iaciac.github.io/post/complexrecovery/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/complexrecovery/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/complexrecovery/featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;New preprint (
+&lt;a href=&#34;https://arxiv.org/pdf/1907.13096.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt;) with 
+&lt;a href=&#34;http://www.nld.ds.mpg.de/people/schafer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B. Schäfer&lt;/a&gt;, 
+&lt;a href=&#34;https://www.ucl.ac.uk/bartlett/casa/dr-elsa-arcaute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E. Arcaute&lt;/a&gt;, 
+&lt;a href=&#34;http://www.maths.qmul.ac.uk/~cbeck/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C. Beck&lt;/a&gt; and 
+&lt;a href=&#34;http://www.maths.qmul.ac.uk/~latora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Latora&lt;/a&gt; in which we study a multi-layered model of social contagion on spatial networks &lt;strong&gt;with a twist&lt;/strong&gt;: time- and node-dependent recovery probability. Have a look!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluating the impact of PrEP on HIV and gonorrhea on a networked population of female sex workers</title>
+      <link>https://iaciac.github.io/publication/prep/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/publication/prep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the arXiv after 72h!</title>
+      <link>https://iaciac.github.io/post/complexity72h/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/complexity72h/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/complexity72h/featured.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Fresh out the arXiv the pre-print we wrote during the 
+&lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity 72h&lt;/a&gt; with 
+&lt;a href=&#34;https://www.researchgate.net/profile/Alba_Bernini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Bernini&lt;/a&gt;, E. Blouzard, A. Bracci, P. Casanova, B. Steinegger, 
+&lt;a href=&#34;https://andreiasofiateixeira.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. S. Teixeira&lt;/a&gt;, 
+&lt;a href=&#34;https://sites.google.com/site/antonionialberto/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Antonioni&lt;/a&gt; and 
+&lt;a href=&#34;https://eugenio-valdano.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E. Valdano&lt;/a&gt; entitled &amp;ldquo;Evaluating the impact of PrEP on HIV and gonorrhea on a networked population of female sex workers&amp;rdquo;! Have a look 
+&lt;a href=&#34;https://arxiv.org/abs/1906.09085&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Out in Nature Communications!</title>
+      <link>https://iaciac.github.io/post/simplagion_natcomm/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/simplagion_natcomm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/simplagion_natcomm/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;New paper with 
+&lt;a href=&#34;https://lordgrilo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Petri&lt;/a&gt;, 
+&lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt; and 
+&lt;a href=&#34;http://www.maths.qmul.ac.uk/~latora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Latora&lt;/a&gt; entitled &amp;ldquo;Simplicial models of social contagion&amp;rdquo; finally 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-019-10431-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt; in &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Networks have been extensively used to describe the connectivity patterns of complex systems of various nature. In particular, they have been used to represent the social structure on which dynamical processes, such as the spreading of diseases or the formation of opinions, occur in a population. However, recent empirical results have shown that the dynamics of social contagion may significantly differ from the those describing the spreading of biological diseases. In fact, the transmission of a biological virus happens through pairwise interactions between the individuals of a population, so it can be well modelled as a spreading process over the links of the underlying network. Contrarily, pairwise interactions are often not enough to characterize the mechanisms behind social contagion processes such as, for instance, the diffusion of opinions or the adoption of norms, where more complex dynamics of peer influence and social reinforcement take place.&lt;/p&gt;
+&lt;p&gt;In this work, we introduce the &lt;strong&gt;Simplicial Contagion Model&lt;/strong&gt; (SCM), a novel higher-order modelling framework of social contagion. In the SCM, the structure of a social system is represented as a &lt;strong&gt;simplicial complex&lt;/strong&gt;, and different channels of infections, with different transmission rates, are considered depending on the fact that a contagion can occur on a link (two-body interaction) or is due to a group interaction. Differently from standard networks, simplicial complexes are indeed able to describe in a unified manner not only pairwise but also group interactions of higher-order, by extending the network concept of links between two units to the one of simplices, encoding relations between any number of units. By taking into account these high order interactions between individuals, our model extends the idea of complex contagion by considering not only multiple but also collective exposures.&lt;/p&gt;
+&lt;p&gt;We find that the inclusion of the lowest higer-order interactions is already enough to change the nature of the spreading process from continuous to discontinuous. Through extensive numerical simulations on both 
+&lt;a href=&#34;http://www.sociopatterns.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;empirical data&lt;/a&gt; and synthetic simplicial complexes we identify the regions of the parameter space where we observe bi-stability in the asymptotic density of infectious, with a co-existence of an healthy and an endemic state. We further investigate this phenomena by deriving a mean field equation for the evolution of density of infected nodes, showing that the steady-state dynamics, the position, and the nature of the transition can be predicted analytically.&lt;/p&gt;
+&lt;p&gt;Check it out 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-019-10431-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simplicial models of social contagion</title>
+      <link>https://iaciac.github.io/publication/simplagion/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/publication/simplagion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of tax havens and offshore financial centres in shaping corporate geographies: an industry sector perspective</title>
+      <link>https://iaciac.github.io/publication/thofc_rs/</link>
+      <pubDate>Tue, 28 May 2019 09:01:43 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/thofc_rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper out!</title>
+      <link>https://iaciac.github.io/post/thofc_rs/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/thofc_rs/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The role of tax havens and offshore financial centres in shaping corporate geographies: an industry sector perspective&amp;rdquo; is now published on &lt;strong&gt;Regional Studies&lt;/strong&gt;. Nice &lt;em&gt;interdisciplinary&lt;/em&gt; collaboration with 
+&lt;a href=&#34;https://sees.uq.edu.au/profile/9602/thomas-sigler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T. Sigler&lt;/a&gt;, 
+&lt;a href=&#34;https://research-repository.uwa.edu.au/en/persons/kirsten-martinus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K. Martinus&lt;/a&gt; and 
+&lt;a href=&#34;https://www.lboro.ac.uk/gawc/Derudder.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B. Derudder&lt;/a&gt;. Online version 
+&lt;a href=&#34;https://www.tandfonline.com/eprint/QxMpJB8cSUr8vRKwwvZQ/full?target=10.1080/00343404.2019.1602257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Pharma.png&#34; &gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Pharma_hu39d6644e0e81fb29b6769d5b6d6aff47_137524_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Retailing.png&#34; &gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Retailing_hu9640c6c1b0d8fb3d3034fce8080ca1c2_45701_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Tech.png&#34; &gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Tech_huaa32f91ce2f7716b1608a3bd3238dd42_108887_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Utilities.png&#34; &gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Utilities_hu09c56daca2f97b4df38a5b7efe71d0c0_48273_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simplagion 2.0</title>
+      <link>https://iaciac.github.io/post/simplagion_2_arxiv/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://iaciac.github.io/post/simplagion_2_arxiv/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/simplagion_2_arxiv/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;New version (
+&lt;a href=&#34;https://arxiv.org/pdf/1810.07031v5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt;) of our &lt;em&gt;Simplicial models of social contagion&lt;/em&gt; - Now we observe a similar phenomenology in both empirical and synthetic simplicial complexes when high-order interactions are considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The role of tax havens and offshore financial centers in Asia-Pacific networks: evidence from firm-subsidiary connections</title>
+      <link>https://iaciac.github.io/publication/firmsubabm/</link>
+      <pubDate>Fri, 14 Dec 2018 09:01:43 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/firmsubabm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network dynamics of innovation processes</title>
+      <link>https://iaciac.github.io/publication/netdynnovation/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://iaciac.github.io/publication/netdynnovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>https://iaciac.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
+&lt;p&gt;Follow our easy 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;step by step guide&lt;/a&gt; to learn how to build your own free website with Academic. 
+&lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the personal demo&lt;/a&gt; or the 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;business demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Updating? View the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support development of Academic:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
+&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Write in 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with 
+&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, 
+&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, and 
+&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
+&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
+&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
+&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
+&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Academic with Netlify&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
+&lt;li&gt;Read the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown content&lt;/a&gt; which powers the 
+&lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Initialize the theme:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; cd My_Website
+ git submodule update --init --recursive
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; hugo server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now visit 
+&lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Read the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown content&lt;/a&gt; which powers the 
+&lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then 
+&lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
+&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
+&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
+&lt;h2 id=&#34;feedback--contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
+&lt;p&gt;Please use the 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
+&lt;p&gt;For support, head over to the 
+&lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present 
+&lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
