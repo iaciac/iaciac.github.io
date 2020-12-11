@@ -33,14 +33,14 @@
 &lt;p&gt;👉👉👉👉👉
 &lt;a href=&#34;https://doi.org/10.1103/PhysRevLett.125.248301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Have a look!&lt;/a&gt; 👈👈👈👈👈&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;abstract.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Discoveries are essential milestones for the progress of our societies. Recently, different mathematical approaches have been proposed to investigate and model the hidden mechanisms behind leading to the emergence of the new. Among these, of particular interest are random processes with reinforcement, such as urn models and biased random walks:&lt;/p&gt;
+&lt;p&gt;Discoveries are essential milestones for the progress of our societies. Recently, different mathematical approaches have been proposed to investigate and model the hidden mechanisms behind to the emergence of the new. Among these, of particular interest are random processes with reinforcement, such as urn models and biased random walks:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;F. Tria et al. 
 &lt;a href=&#34;https://www.nature.com/articles/srep05890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&amp;ldquo;The dynamics of correlated novelties&amp;rdquo;&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;I. Iacopini et al. 
 &lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.048301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&amp;ldquo;Network Dynamics of Innovation Processes&amp;rdquo;&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;These models could successfully replicate the basic signatures of real-world innovation processes, such as the Heaps’ law, a sub-linear growth of the number of distinct elements $D(t)\sim t^\beta$ with the number of elements $t$, which governs the rate at which novelties grow. However, they neglect the effects of social interactions. In particular, by considering the exploration dynamics as the one of a single entity and thus neglecting the multi-agent nature of the process, these models&lt;/p&gt;
+&lt;p&gt;These models could successfully replicate the basic signatures of real-world discovery and innovation processes, such as the Heaps’ law, a sub-linear growth of the number of distinct elements $D(t)\sim t^\beta$ with the number of elements $t$, which governs the rate at which novelties grow. However, they neglect the effects of social interactions. In particular, by considering the exploration dynamics as the one of a single entity and thus neglecting the multi-agent nature of the process, these models&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;do not capture the &lt;strong&gt;heterogeneity&lt;/strong&gt; of the pace of the individual explorers;&lt;/li&gt;
 &lt;li&gt;do not include the benefits brought by &lt;strong&gt;social interactions&lt;/strong&gt; and collaborations.&lt;/li&gt;
@@ -89,7 +89,8 @@
 &lt;/figure&gt;
 
 &lt;p&gt;In this Letter, we propose a model of interacting discovery processes in which each explorer is associated with a node of a complex network, and an 
-&lt;a href=&#34;https://www.nature.com/articles/srep05890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;urn model with triggering&lt;/a&gt; (UMT) governs its dynamics. In this framework, the appearance of a novelty opens up the possibilities of further discoveries. Urns are then coupled through the links of a network so that each exploration process is also subjected to interactions with the processes of the neighboring nodes, and explorers can exploit opportunities (possible discoveries) coming from their social contacts.&lt;/p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/srep05890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;urn model with triggering&lt;/a&gt; (UMT) governs its dynamics. In this framework, the appearance of a novelty opens up the possibility of further discoveries through an expansion into the 
+&lt;a href=&#34;https://www.ted.com/talks/vittorio_loreto_need_a_new_idea_start_at_the_edge_of_what_is_known&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;adjacent possible&lt;/a&gt;. Urns are then coupled through the links of a network so that each exploration process is also subjected to interactions with the processes of the neighboring nodes, and explorers can exploit opportunities (possible discoveries) coming from their social contacts.&lt;/p&gt;
 
 
 
