@@ -5,12 +5,129 @@
     <link>https://iaciac.github.io/</link>
       <atom:link href="https://iaciac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Iacopo Iacopini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iacopo Iacopini</copyright><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iacopo Iacopini</copyright><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Iacopo Iacopini</title>
       <link>https://iaciac.github.io/</link>
     </image>
+    
+    <item>
+      <title>New perspective article on adoption processes!</title>
+      <link>https://iaciac.github.io/post/dual/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/post/dual/</guid>
+      <description>&lt;p&gt;Our new mini-review/perspective paper, written with 
+&lt;a href=&#34;http://www.maths.qmul.ac.uk/~latora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Latora&lt;/a&gt;, just got published in &lt;strong&gt;Frontiers in Physics&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;👉👉👉
+&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fphy.2021.604102/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;On the dual nature of adoption processes in complex networks&amp;rdquo;&lt;/strong&gt;&lt;/a&gt; 👈👈👈&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;abstract.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Adoption processes in socio-technological systems have been widely studied both empirically and theoretically. In this paper, we focus on network approaches that aim at capturing and modeling the fundamental mechanisms behind the social dynamics of &lt;strong&gt;adoption&lt;/strong&gt;. The processes through which humans discover and adopt novel items–where by items we indicate not only artefacts or new technological or commercial products, but also concepts, ideas, social norms and behaviors–can be described in two radically different ways, both involving the presence of a complex network, whose nature is different in the two cases.&lt;/p&gt;
+&lt;p&gt;Indeed, on one hand item adoption can be seen as a &lt;strong&gt;contagion dynamics&lt;/strong&gt; over a social network of individuals influencing each others through their social connections. On the other hand it can be described as an &lt;strong&gt;exploration dynamics&lt;/strong&gt; over a network of similarities among the different possible items that an individual can adopt.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-illustration-of-a-contagion-process-the-adoption-of-norms-behaviors-ideas-technological-items-etc-is-typically-modeled-as-a-spreading-process-over-a-network-of-social-contacts-red-and-blue-nodes-of-the-social-network-denote-respectively-the-adopters-or-infected-individuals-and-the-non-adopters-or-susceptible-of-the-item-that-is-spreading-for-example-in-a-a-smoker-transmits-thebadhabit-to-its-neighboring-agents-which-in-turn-can-transmit-it-again-through-their-social-links-b&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Illustration of a contagion process. The adoption of norms, behaviors, ideas, technological items, etc., is typically modeled as a spreading process over a network of social contacts. Red and blue nodes of the social network denote respectively the adopters (or infected individuals) and the non-adopters (or susceptible) of the item that is spreading. For example, in (A) a smoker transmits the—bad—habit to its neighboring agents, which in turn can transmit it again through their social links (B).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;810&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Illustration of a contagion process. The adoption of norms, behaviors, ideas, technological items, etc., is typically modeled as a spreading process over a network of social contacts. Red and blue nodes of the social network denote respectively the adopters (or infected individuals) and the non-adopters (or susceptible) of the item that is spreading. For example, in (A) a smoker transmits the—bad—habit to its neighboring agents, which in turn can transmit it again through their social links (B).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the first case a single item (a single product, idea, or behavior) is considered at once, and the transmission from one individual to another over a social system is modeled as an 
+&lt;a href=&#34;https://www.nature.com/articles/204225a0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;epidemic-like spreading process&lt;/a&gt; across the links of a social network. Hence, the focus here is on the complex (and sometimes 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-019-10431-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;higher-order&lt;/a&gt;)structure of the underlying social network.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-illustration-of-an-exploration-processthe-cognitive-process-through-which-an-individual-agent-explores-the-space-of-possibilities-in-search-of-novel-items-novel-ideas-technological-discoveries-is-usually-modeled-as-a-walk-over-a-network-of-relations-similarities-or-proximity-among-items-for-example-in-a-the-agent-discovers-item-beta-and-then-continues-the-exploration-over-the-links-of-the-network-by-sequentially-moving-to-node-gamma-and-then-to-node-delta-in-b-three-items-have-been-discovered-and-the-exploratory-walk-can-be-seen-as-a-sequence-of-symbols-representing-the-visited-nodes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Illustration of an exploration process.The cognitive process through which an individual agent explores the space of possibilities in search of novel items (novel ideas, technological discoveries) is usually modeled as a walk over a network of relations similarities or proximity) among items. For example, in (A) the agent discovers item $\beta$ and then continues the exploration over the links of the network by sequentially moving to node $\gamma$ and then to node $\delta$. In (B) three items have been discovered, and the exploratory walk can be seen as a sequence of symbols representing the visited nodes.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;767&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Illustration of an exploration process.The cognitive process through which an individual agent explores the space of possibilities in search of novel items (novel ideas, technological discoveries) is usually modeled as a walk over a network of relations similarities or proximity) among items. For example, in (A) the agent discovers item $\beta$ and then continues the exploration over the links of the network by sequentially moving to node $\gamma$ and then to node $\delta$. In (B) three items have been discovered, and the exploratory walk can be seen as a sequence of symbols representing the visited nodes.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the second case, the main focus is instead on the network of existing relations between different items. Hence, the modeling attention is shifted towards the 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S235215462030142X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cognitive processes&lt;/a&gt; through which single individuals 
+&lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.048301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explore the space of different possibilities&lt;/a&gt; and produce sequences of explored items in search of 
+&lt;a href=&#34;https://www.nature.com/articles/srep05890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;novelties&lt;/a&gt;. In this latter way of interpreting adoption dynamics, different exploration (and innovation) models have been proposed to replicate the (sometimes 
+&lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multi-agent&lt;/a&gt;) processes of exploration according to which one idea, concept or item leads to another, and a discovery can trigger further ones.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fphy.2021.604102/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;, we provide a brief overview of the existing models of social spreading and exploration and of the latest advancements in both directions. We propose to look at them as two complementary aspects of the same adoption process: on one hand there are items spreading over a social network of individuals influencing each others, on the other hand individuals explore a network of similarities among items to adopt. The two-fold nature of the approach proposed opens up new stimulating challenges for the scientific community of network and data scientists. We conclude by outlining some possible directions that we believe may be relevant to explore in the coming years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the dual nature of adoption processes in complex networks</title>
+      <link>https://iaciac.github.io/publication/dual/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/publication/dual/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How can minorities of regular individuals overturn social conventions?</title>
