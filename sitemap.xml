@@ -3,13 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iaciac.github.io/publication-type/6/</loc>
-    <lastmod>2020-11-17T09:41:52+01:00</lastmod>
+    <loc>https://iaciac.github.io/publication-type/2/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/author/a.-kumar/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://iaciac.github.io/authors/</loc>
-    <lastmod>2021-05-18T00:00:00+02:00</lastmod>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/author/f.-battiston/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/author/g.-cencetti/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/tag/higher-order/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/publication_types/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/author/s.-chowdhary/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/tag/simplicial-complex/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/publication/simplicial-contagion-temporal-networks/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/tag/social-contagion/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/tags/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/tag/temporal-networks/</loc>
+    <lastmod>2021-07-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iaciac.github.io/publication-type/6/</loc>
+    <lastmod>2020-11-17T09:41:52+01:00</lastmod>
   </url>
   
   <url>
@@ -20,16 +95,6 @@
   <url>
     <loc>https://iaciac.github.io/tag/covid-19/</loc>
     <lastmod>2020-11-17T09:41:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
-    <lastmod>2021-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/</loc>
-    <lastmod>2021-05-18T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -63,11 +128,6 @@
   </url>
   
   <url>
-    <loc>https://iaciac.github.io/publication_types/</loc>
-    <lastmod>2021-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://iaciac.github.io/author/r.-milton/</loc>
     <lastmod>2020-11-17T09:41:52+01:00</lastmod>
   </url>
@@ -75,11 +135,6 @@
   <url>
     <loc>https://iaciac.github.io/author/r.-murcio/</loc>
     <lastmod>2020-11-17T09:41:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/tags/</loc>
-    <lastmod>2021-05-18T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -108,11 +163,6 @@
   </url>
   
   <url>
-    <loc>https://iaciac.github.io/tag/higher-order/</loc>
-    <lastmod>2021-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
     <lastmod>2021-05-18T00:00:00+02:00</lastmod>
   </url>
@@ -128,58 +178,8 @@
   </url>
   
   <url>
-    <loc>https://iaciac.github.io/tag/social-contagion/</loc>
-    <lastmod>2021-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
-    <lastmod>2021-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://iaciac.github.io/author/v.-latora/</loc>
     <lastmod>2021-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/author/a.-kumar/</loc>
-    <lastmod>2021-05-11T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/author/f.-battiston/</loc>
-    <lastmod>2021-05-11T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/author/g.-cencetti/</loc>
-    <lastmod>2021-05-11T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/author/s.-chowdhary/</loc>
-    <lastmod>2021-05-11T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/tag/simplicial-complex/</loc>
-    <lastmod>2021-05-11T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/publication/simplicial-contagion-temporal-networks/</loc>
-    <lastmod>2021-05-11T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/tag/temporal-networks/</loc>
-    <lastmod>2021-05-11T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iaciac.github.io/publication-type/2/</loc>
-    <lastmod>2021-04-19T00:00:00+02:00</lastmod>
   </url>
   
   <url>
