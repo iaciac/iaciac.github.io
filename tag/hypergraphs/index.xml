@@ -5,12 +5,20 @@
     <link>https://iaciac.github.io/tag/hypergraphs/</link>
       <atom:link href="https://iaciac.github.io/tag/hypergraphs/index.xml" rel="self" type="application/rss+xml" />
     <description>Hypergraphs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Tue, 18 May 2021 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hypergraphs</title>
       <link>https://iaciac.github.io/tag/hypergraphs/</link>
     </image>
+    
+    <item>
+      <title>The physics of higher-order interactions in complex systems</title>
+      <link>https://iaciac.github.io/publication/physics-higher-order-interactions/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0200</pubDate>
+      <guid>https://iaciac.github.io/publication/physics-higher-order-interactions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Influential groups for seeding and sustaining hypergraph contagions</title>
