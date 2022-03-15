@@ -7,7 +7,7 @@
     <description>News</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright>
     <image>
-      <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://iaciac.github.io/post/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>New perspective article beyond pairwise interactions!</title>
       <link>https://iaciac.github.io/post/higher-order-natphys/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/higher-order-natphys/</guid>
       <description>&lt;p&gt;Our perspective paper just got published in &lt;strong&gt;Nature Physics&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;👉👉👉
@@ -27,7 +27,7 @@
     <item>
       <title>New perspective article on adoption processes!</title>
       <link>https://iaciac.github.io/post/dual/</link>
-      <pubDate>Mon, 19 Apr 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/dual/</guid>
       <description>&lt;p&gt;Our new mini-review/perspective paper, written with 
 &lt;a href=&#34;http://www.maths.qmul.ac.uk/~latora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Latora&lt;/a&gt;, just got published in &lt;strong&gt;Frontiers in Physics&lt;/strong&gt;:&lt;/p&gt;
@@ -62,10 +62,10 @@
 &lt;figure id=&#34;figure-illustration-of-a-contagion-process-the-adoption-of-norms-behaviors-ideas-technological-items-etc-is-typically-modeled-as-a-spreading-process-over-a-network-of-social-contacts-red-and-blue-nodes-of-the-social-network-denote-respectively-the-adopters-or-infected-individuals-and-the-non-adopters-or-susceptible-of-the-item-that-is-spreading-for-example-in-a-a-smoker-transmits-thebadhabit-to-its-neighboring-agents-which-in-turn-can-transmit-it-again-through-their-social-links-b&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Illustration of a contagion process. The adoption of norms, behaviors, ideas, technological items, etc., is typically modeled as a spreading process over a network of social contacts. Red and blue nodes of the social network denote respectively the adopters (or infected individuals) and the non-adopters (or susceptible) of the item that is spreading. For example, in (A) a smoker transmits the—bad—habit to its neighboring agents, which in turn can transmit it again through their social links (B).&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Illustration of a contagion process. The adoption of norms, behaviors, ideas, technological items, etc., is typically modeled as a spreading process over a network of social contacts. Red and blue nodes of the social network denote respectively the adopters (or infected individuals) and the non-adopters (or susceptible) of the item that is spreading. For example, in (A) a smoker transmits the—bad—habit to its neighboring agents, which in turn can transmit it again through their social links (B).&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;810&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;810&#34;&gt;
 &lt;/a&gt;
 
 
@@ -107,10 +107,10 @@
 &lt;figure id=&#34;figure-illustration-of-an-exploration-processthe-cognitive-process-through-which-an-individual-agent-explores-the-space-of-possibilities-in-search-of-novel-items-novel-ideas-technological-discoveries-is-usually-modeled-as-a-walk-over-a-network-of-relations-similarities-or-proximity-among-items-for-example-in-a-the-agent-discovers-item-beta-and-then-continues-the-exploration-over-the-links-of-the-network-by-sequentially-moving-to-node-gamma-and-then-to-node-delta-in-b-three-items-have-been-discovered-and-the-exploratory-walk-can-be-seen-as-a-sequence-of-symbols-representing-the-visited-nodes&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Illustration of an exploration process.The cognitive process through which an individual agent explores the space of possibilities in search of novel items (novel ideas, technological discoveries) is usually modeled as a walk over a network of relations similarities or proximity) among items. For example, in (A) the agent discovers item $\beta$ and then continues the exploration over the links of the network by sequentially moving to node $\gamma$ and then to node $\delta$. In (B) three items have been discovered, and the exploratory walk can be seen as a sequence of symbols representing the visited nodes.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Illustration of an exploration process.The cognitive process through which an individual agent explores the space of possibilities in search of novel items (novel ideas, technological discoveries) is usually modeled as a walk over a network of relations similarities or proximity) among items. For example, in (A) the agent discovers item $\beta$ and then continues the exploration over the links of the network by sequentially moving to node $\gamma$ and then to node $\delta$. In (B) three items have been discovered, and the exploratory walk can be seen as a sequence of symbols representing the visited nodes.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;767&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;767&#34;&gt;
 &lt;/a&gt;
 
 
@@ -135,10 +135,10 @@
     
     <item>
       <title>How can minorities of regular individuals overturn social conventions?</title>
-      <link>https://iaciac.github.io/post/vanishing/</link>
-      <pubDate>Fri, 19 Mar 2021 00:00:00 +0100</pubDate>
-      <guid>https://iaciac.github.io/post/vanishing/</guid>
-      <description>&lt;p&gt;Our new preprint &amp;ldquo;Vanishing size of critical mass for tipping points in social convention&amp;rdquo; is 
+      <link>https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</guid>
+      <description>&lt;p&gt;Our new preprint &amp;ldquo;Group interactions modulate critical mass dynamics in social convention&amp;rdquo; is 
 &lt;a href=&#34;https://arxiv.org/abs/2103.10411&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;out on the ArXiv&lt;/a&gt;!&lt;/p&gt;
 &lt;hr&gt;
 &lt;hr&gt;
@@ -170,10 +170,10 @@
 &lt;figure id=&#34;figure-ph-by-benedikt-geyer&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/vanishing/Fig00_hua215f935453cfa146ec16c4e9e9269d8_1581939_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Ph by Benedikt Geyer&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig00_hua215f935453cfa146ec16c4e9e9269d8_1581939_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Ph by Benedikt Geyer&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/vanishing/Fig00_hua215f935453cfa146ec16c4e9e9269d8_1581939_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;2424&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig00_hua215f935453cfa146ec16c4e9e9269d8_1581939_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;2424&#34;&gt;
 &lt;/a&gt;
 
 
@@ -219,10 +219,10 @@
 &lt;figure id=&#34;figure-ph-by-callum-shaw&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/vanishing/Fig0_huf208f4d71015d543cb3b5867382e2619_942816_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Ph by Callum Shaw&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig0_huf208f4d71015d543cb3b5867382e2619_942816_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Ph by Callum Shaw&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/vanishing/Fig0_huf208f4d71015d543cb3b5867382e2619_942816_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;2250&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig0_huf208f4d71015d543cb3b5867382e2619_942816_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;2250&#34;&gt;
 &lt;/a&gt;
 
 
@@ -270,10 +270,10 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;figure id=&#34;figure-dynamics-of-the-model-agents-are-represented-by-the-nodes-of-a-social-structure-composed-by-interacting-groups-of-different-sizes-the-vocabulary-of-the-agents--for-simplicity-containing-at-most-only-two-names-or-conventions-a-b--is-reflected-in-the-colours-of-the-nodes-as-shown-in-the-legend-at-each-interaction-a-group-is-chosen-at-random-highlighted-in-yellow-in-the-figure-together-with-a-speaker-node-1-while-the-remaining-nodes-act-as-hearers-a-the-speaker-chooses-a-name-at-random-from-its-vocabulary-here-a-and-communicates-it-to-the-rest-of-the-group-since-a-is-present-in-the-vocabularies-of-all-the-hearers-nodes-2-and-3-support-a-while-node-4-knows-both-names-the-group-can-reach-an-agreement-b-with-probability-beta-the-group-agrees-on-the-chosen-name-and-all-nodes-involved-immediately-update-their-vocabulary-to-a-erasing-b-with-probability-1-beta-instead-the-agreement-does-not-happen-c-in-this-case-the-speaker-selects-a-but-node-3-does-not-possess-a-in-its-vocabulary-d-thus-there-cannot-be-agreement-in-the-group-nevertheless-all-hearers-update-their-vocabularies-by-adding-the-heard-name-ie-node-3-switches-from-a-to-a-b&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/vanishing/Fig1_hu199b1c8b58425af174afff6822a91c87_78859_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Dynamics of the model. Agents are represented by the nodes of a social structure composed by interacting groups of different sizes. The vocabulary of the agents&amp;amp;ndash;for simplicity containing at most only two names (or conventions) ${A, B}$&amp;amp;ndash;is reflected in the colours of the nodes as shown in the legend. At each interaction a group is chosen at random (highlighted in yellow in the figure) together with a speaker (node 1), while the remaining nodes act as hearers. (&amp;lt;em&amp;gt;A&amp;lt;/em&amp;gt;) The speaker chooses a name at random from its vocabulary (here, $A$), and communicates it to the rest of the group. Since $A$ is present in the vocabularies of all the hearers (nodes 2 and 3 support $A$, while node 4 knows both names), the group can reach an agreement. (&amp;lt;em&amp;gt;B&amp;lt;/em&amp;gt;) With probability $\beta$ the group agrees on the chosen name, and all nodes involved immediately update their vocabulary to $A$, erasing $B$. With probability $1-\beta$ instead the agreement does not happen. (&amp;lt;em&amp;gt;C&amp;lt;/em&amp;gt;) In this case, the speaker selects $A$, but node 3 does not possess $A$ in its vocabulary. (&amp;lt;em&amp;gt;D&amp;lt;/em&amp;gt;) Thus, there cannot be agreement in the group. Nevertheless, all hearers update their vocabularies by adding the heard name, i.e., node 3 switches from $A$ to $A, B$.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig1_hu199b1c8b58425af174afff6822a91c87_78859_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Dynamics of the model. Agents are represented by the nodes of a social structure composed by interacting groups of different sizes. The vocabulary of the agents&amp;amp;ndash;for simplicity containing at most only two names (or conventions) ${A, B}$&amp;amp;ndash;is reflected in the colours of the nodes as shown in the legend. At each interaction a group is chosen at random (highlighted in yellow in the figure) together with a speaker (node 1), while the remaining nodes act as hearers. (&amp;lt;em&amp;gt;A&amp;lt;/em&amp;gt;) The speaker chooses a name at random from its vocabulary (here, $A$), and communicates it to the rest of the group. Since $A$ is present in the vocabularies of all the hearers (nodes 2 and 3 support $A$, while node 4 knows both names), the group can reach an agreement. (&amp;lt;em&amp;gt;B&amp;lt;/em&amp;gt;) With probability $\beta$ the group agrees on the chosen name, and all nodes involved immediately update their vocabulary to $A$, erasing $B$. With probability $1-\beta$ instead the agreement does not happen. (&amp;lt;em&amp;gt;C&amp;lt;/em&amp;gt;) In this case, the speaker selects $A$, but node 3 does not possess $A$ in its vocabulary. (&amp;lt;em&amp;gt;D&amp;lt;/em&amp;gt;) Thus, there cannot be agreement in the group. Nevertheless, all hearers update their vocabularies by adding the heard name, i.e., node 3 switches from $A$ to $A, B$.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/vanishing/Fig1_hu199b1c8b58425af174afff6822a91c87_78859_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;272&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig1_hu199b1c8b58425af174afff6822a91c87_78859_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;272&#34;&gt;
 &lt;/a&gt;
 
 
@@ -314,10 +314,10 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;figure id=&#34;figure-illustrative-example-of-a-simulation-on-an-empirical-social-structure-contacts-in-a-french-high-school-where-a-minority-of-one-single-committed-individual-supporting-a--consisting-of-03-of-the-population-of-327-individuals--overturns-the-stable-social-norms-and-reaches-global-consensus-under-imperfect-communication-f-temporal-evolution-of-the-fraction-n_xt-of-nodes-supporting-name-x-different-solid-lines-correspond-to-different-names-xaa_c-b-a-b-dashed-lines-are-reported-as-a-benchmark-representing-the-case-with-perfect-communication&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/vanishing/Fig2_hu0e213136bef9ba697ee84b76e606409e_301881_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Illustrative example of a simulation on an empirical social structure (contacts in a French high-school) where a minority of one single committed individual supporting $A$&amp;amp;ndash;&amp;lt;strong&amp;gt;consisting of 0.3% of the population of 327 individuals&amp;lt;/strong&amp;gt;&amp;amp;ndash;overturns the stable social norms and reaches global consensus (under imperfect communication). (&amp;lt;em&amp;gt;F&amp;lt;/em&amp;gt;) Temporal evolution of the fraction $n_x(t)$ of nodes supporting name $x$. Different solid lines correspond to different names, $x={A&amp;#43;A_c, B, (A, B)}$. Dashed lines are reported as a benchmark, representing the case with perfect communication.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig2_hu0e213136bef9ba697ee84b76e606409e_301881_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Illustrative example of a simulation on an empirical social structure (contacts in a French high-school) where a minority of one single committed individual supporting $A$&amp;amp;ndash;&amp;lt;strong&amp;gt;consisting of 0.3% of the population of 327 individuals&amp;lt;/strong&amp;gt;&amp;amp;ndash;overturns the stable social norms and reaches global consensus (under imperfect communication). (&amp;lt;em&amp;gt;F&amp;lt;/em&amp;gt;) Temporal evolution of the fraction $n_x(t)$ of nodes supporting name $x$. Different solid lines correspond to different names, $x={A&amp;#43;A_c, B, (A, B)}$. Dashed lines are reported as a benchmark, representing the case with perfect communication.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/vanishing/Fig2_hu0e213136bef9ba697ee84b76e606409e_301881_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;650&#34; height=&#34;556&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig2_hu0e213136bef9ba697ee84b76e606409e_301881_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;650&#34; height=&#34;556&#34;&gt;
 &lt;/a&gt;
 
 
@@ -358,10 +358,10 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;figure id=&#34;figure-higher-order-group-effects-in-naming-games-for-different-values-of-beta-we-consider-k-1-uniform-hypergraphs-ie-regular-structures-in-which-each-interaction-involves-exactly-k-agents-a-h-left-and-right-panels-correspond-to-simulations-initiated-with-a-different-size-of-committed-minority-supporting-opinion-a-namely-p001-and-p003-in-the-initial-state-all-the-other-agents-hold-norm-b-the-range-deltabeta-of-beta-values-for-which-n_a1-ie-the-committed-minority-manages-to-convert-the-whole-population-is-plotted-in-i-as-a-function-of-the-group-size-k-and-for-different-values-of-p-see-legend&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/vanishing/Fig3_hu867df1caaa7932f042850efcb65e250e_172074_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Higher-order (group) effects in naming games for different values of $\beta$. We consider $(k-1)-$uniform hypergraphs, i.e. regular structures in which each interaction involves exactly $k$ agents. (&amp;lt;em&amp;gt;A-H&amp;lt;/em&amp;gt;) Left and right panels correspond to simulations initiated with a different size of committed minority supporting opinion $A$, namely $p=0.01$ and $p=0.03$. In the initial state, all the other agents hold norm $B$. The range $\Delta\beta^&amp;lt;em&amp;gt;$ of $\beta$ values for which $n^&amp;lt;/em&amp;gt;_A=1$ (i.e., the committed minority manages to convert the whole population), is plotted in (&amp;lt;em&amp;gt;I&amp;lt;/em&amp;gt;) as a function of the group size $k$ and for different values of $p$ (see legend).&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig3_hu867df1caaa7932f042850efcb65e250e_172074_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Higher-order (group) effects in naming games for different values of $\beta$. We consider $(k-1)-$uniform hypergraphs, i.e. regular structures in which each interaction involves exactly $k$ agents. (&amp;lt;em&amp;gt;A-H&amp;lt;/em&amp;gt;) Left and right panels correspond to simulations initiated with a different size of committed minority supporting opinion $A$, namely $p=0.01$ and $p=0.03$. In the initial state, all the other agents hold norm $B$. The range $\Delta\beta^&amp;lt;em&amp;gt;$ of $\beta$ values for which $n^&amp;lt;/em&amp;gt;_A=1$ (i.e., the committed minority manages to convert the whole population), is plotted in (&amp;lt;em&amp;gt;I&amp;lt;/em&amp;gt;) as a function of the group size $k$ and for different values of $p$ (see legend).&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/vanishing/Fig3_hu867df1caaa7932f042850efcb65e250e_172074_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;709&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig3_hu867df1caaa7932f042850efcb65e250e_172074_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;709&#34;&gt;
 &lt;/a&gt;
 
 
@@ -401,10 +401,10 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;figure id=&#34;figure-mean-field-phase-diagram-of-the-ng-with-committed-minorities-on-2-uniform-hypergraphs-an-example-curve-with-p008-is-shown-with-a-solid-black-line-the-associated-results-of-stochastic-simulations-circles-for-homogeneous-systems-of-1000-agents-are-shown-for-comparison&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/vanishing/Fig4_hu96f32b982ceda499d2f820fee5783214_221745_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Mean field phase diagram of the NG with committed minorities on 2-uniform hypergraphs. An example curve with $p=0.08$ is shown with a solid black line. The associated results of stochastic simulations (circles) for homogeneous systems of $1000$ agents are shown for comparison.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig4_hu96f32b982ceda499d2f820fee5783214_221745_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Mean field phase diagram of the NG with committed minorities on 2-uniform hypergraphs. An example curve with $p=0.08$ is shown with a solid black line. The associated results of stochastic simulations (circles) for homogeneous systems of $1000$ agents are shown for comparison.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/vanishing/Fig4_hu96f32b982ceda499d2f820fee5783214_221745_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;478&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig4_hu96f32b982ceda499d2f820fee5783214_221745_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;478&#34;&gt;
 &lt;/a&gt;
 
 
@@ -451,10 +451,10 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;figure id=&#34;figure-ph-by--belinda-fewings&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/vanishing/Fig5_hub2373f1fbedd66063ea361b6299c19a4_3467022_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Ph by  Belinda Fewings&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig5_hub2373f1fbedd66063ea361b6299c19a4_3467022_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Ph by  Belinda Fewings&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/vanishing/Fig5_hub2373f1fbedd66063ea361b6299c19a4_3467022_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;3456&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/Fig5_hub2373f1fbedd66063ea361b6299c19a4_3467022_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;3456&#34;&gt;
 &lt;/a&gt;
 
 
@@ -473,7 +473,7 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
     <item>
       <title>Our &#39;Interacting discovery processes on complex networks&#39; featured on Nature Italy!</title>
       <link>https://iaciac.github.io/post/urnet_natureita/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/urnet_natureita/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Our 
@@ -488,7 +488,7 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
     <item>
       <title>Out in Physical Review Letters!</title>
       <link>https://iaciac.github.io/post/urnet/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/urnet/</guid>
       <description>&lt;p&gt;New paper &lt;strong&gt;&amp;ldquo;Interactive discovery processes on complex networks&amp;rdquo;&lt;/strong&gt; with 
 &lt;a href=&#34;https://www.qmul.ac.uk/maths/profiles/dibonag.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Di Bona&lt;/a&gt;, 
@@ -545,10 +545,10 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;figure id=&#34;figure-illustration-of-the-model-in-the-case-of-a-network-with-two-nodes-each-node-is-equipped-with-an-urn-obeying-to-the-umt-with-same-parameters-rho2-and-nu1-at-the-time-t-the-urns-start-with-two-balls-one-red-r-and-the-other-blue-b-then-each-node-extracts-a-ball-1r-2b-and-therefore-rho-additional-balls-of-the-same-colors-are-added-to-the-respective-urns-reinforcement-also-since-in-both-cases-the-extracted-balls-represent-a-novelty-for-the-respective-nodes-nu1-balls-of-new-colors-are-also-added-adjacent-possible-at-t1-node-1-has-access-to-all-its-balls-plus-two-extra-ones-coming-from-the-adjacent-possible-in-the-social-space-ie-the-set-of-balls-available-through-its-neighbor-dashed-borders&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/urnet/Fig1_hub0f4f576b19cd8d152f6a21fde904dd2_549875_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Illustration of the model in the case of a network with two nodes. Each node is equipped with an urn obeying to the UMT with same parameters $\rho=2$ and $\nu=1$. At the time $t$, the urns start with two balls, one red (R) and the other blue (B). Then, each node extracts a ball (1:R, 2:B), and therefore $\rho$ additional balls of the same colors are added to the respective urns (reinforcement). Also, since in both cases, the extracted balls represent a novelty for the respective nodes, $\nu&amp;#43;1$ balls of new colors are also added (adjacent possible). At $t&amp;#43;1$, node $1$ has access to all its balls plus two extra ones coming from the adjacent possible in the social space, i.e., the set of balls available through its neighbor (dashed borders).&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/urnet/Fig1_hub0f4f576b19cd8d152f6a21fde904dd2_549875_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Illustration of the model in the case of a network with two nodes. Each node is equipped with an urn obeying to the UMT with same parameters $\rho=2$ and $\nu=1$. At the time $t$, the urns start with two balls, one red (R) and the other blue (B). Then, each node extracts a ball (1:R, 2:B), and therefore $\rho$ additional balls of the same colors are added to the respective urns (reinforcement). Also, since in both cases, the extracted balls represent a novelty for the respective nodes, $\nu&amp;#43;1$ balls of new colors are also added (adjacent possible). At $t&amp;#43;1$, node $1$ has access to all its balls plus two extra ones coming from the adjacent possible in the social space, i.e., the set of balls available through its neighbor (dashed borders).&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/urnet/Fig1_hub0f4f576b19cd8d152f6a21fde904dd2_549875_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;1563&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/urnet/Fig1_hub0f4f576b19cd8d152f6a21fde904dd2_549875_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;1563&#34;&gt;
 &lt;/a&gt;
 
 
@@ -590,10 +590,10 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;figure id=&#34;figure-dynamics-of-the-interacting-urns-on-the-zachary-karate-club-network-whose-nodes-are-colored-according-to-the-resulting-heaps-exponent&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/urnet/Fig2_hud03808922160025e1f6277f739533687_258996_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Dynamics of the interacting urns on the Zachary Karate Club network, whose nodes are colored according to the resulting Heaps&amp;amp;rsquo; exponent.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/urnet/Fig2_hud03808922160025e1f6277f739533687_258996_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Dynamics of the interacting urns on the Zachary Karate Club network, whose nodes are colored according to the resulting Heaps&amp;amp;rsquo; exponent.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/urnet/Fig2_hud03808922160025e1f6277f739533687_258996_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;873&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/urnet/Fig2_hud03808922160025e1f6277f739533687_258996_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;873&#34;&gt;
 &lt;/a&gt;
 
 
@@ -634,10 +634,10 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;figure id=&#34;figure-heaps-dynamics-of-the-interacting-urns-on-five-directed-toy-graphs-different-symbols-correspond-to-different-nodes-each-node-is-equipped-with-a-umt-with-same-parameters-a-e-temporal-evolution-of-the-number-of-discoveries-d_it-for-each-node-i-associated-heaps-exponents-beta_i-in-the-legend-the-analytical-solutions-shown-as-continuous-black-lines-are-in-perfect-agreement-with-simulations-f-j-temporal-behavior-of-the-associated-heaps-exponents-extracted-at-different-times-the-grey-area-up-to-t104-corresponds-to-the-values-of-a-e&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/urnet/Fig3_huf0d4981ab0daa38aa9ce681c360fa19c_569531_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Heaps&amp;amp;rsquo; dynamics of the interacting urns on five directed toy graphs (different symbols correspond to different nodes). Each node is equipped with a UMT with same parameters. (a-e) Temporal evolution of the number of discoveries $D_i(t)$ for each node $i$ (associated Heaps&amp;amp;rsquo; exponents $\beta_{i}$ in the legend). The analytical solutions, shown as continuous black lines, are in perfect agreement with simulations. (f-j) Temporal behavior of the associated Heaps&amp;amp;rsquo; exponents extracted at different times. The grey area up to $T=10^4$ corresponds to the values of (a-e).&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/urnet/Fig3_huf0d4981ab0daa38aa9ce681c360fa19c_569531_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Heaps&amp;amp;rsquo; dynamics of the interacting urns on five directed toy graphs (different symbols correspond to different nodes). Each node is equipped with a UMT with same parameters. (a-e) Temporal evolution of the number of discoveries $D_i(t)$ for each node $i$ (associated Heaps&amp;amp;rsquo; exponents $\beta_{i}$ in the legend). The analytical solutions, shown as continuous black lines, are in perfect agreement with simulations. (f-j) Temporal behavior of the associated Heaps&amp;amp;rsquo; exponents extracted at different times. The grey area up to $T=10^4$ corresponds to the values of (a-e).&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/urnet/Fig3_huf0d4981ab0daa38aa9ce681c360fa19c_569531_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;1995&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/urnet/Fig3_huf0d4981ab0daa38aa9ce681c360fa19c_569531_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;1995&#34;&gt;
 &lt;/a&gt;
 
 
@@ -677,17 +677,17 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;figure id=&#34;figure-scatter-plot-and-spearmans-rank-correlation-coefficients-r_s-between-fitted-heaps-exponents-beta_i-and-normalized-alpha-centrality-calpha_icalpha_textmax-associated-to-the-i1dotsn-nodes-of-four-empirical-networks-a-the-zachary-karate-club-b-a-twitter-network-of-followers-c-a-co-authorship-network-in-network-science-and-d-a-collaboration-network-between-jazz-musicians&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/urnet/Fig4_huc59304f27140c9e9ab9ecf279b2a2faa_82862_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Scatter plot and Spearman&amp;amp;rsquo;s rank correlation coefficients $r_{S}$ between fitted Heaps&amp;amp;rsquo; exponents $\beta_i$ and normalized $\alpha$-centrality $c^{[\alpha]}_i/c^{[\alpha]}_{\text{max}}$ associated to the $i=1,\dots,N$ nodes of four empirical networks: (a) the Zachary Karate Club, (b) a Twitter network of followers, (c) a co-authorship network in network science and (d) a collaboration network between jazz musicians.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/urnet/Fig4_huc59304f27140c9e9ab9ecf279b2a2faa_82862_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Scatter plot and Spearman&amp;amp;rsquo;s rank correlation coefficients $r_{S}$ between fitted Heaps&amp;amp;rsquo; exponents $\beta_i$ and normalized $\alpha$-centrality $c^{[\alpha]}&amp;lt;em&amp;gt;i/c^{[\alpha]}&amp;lt;/em&amp;gt;{\text{max}}$ associated to the $i=1,\dots,N$ nodes of four empirical networks: (a) the Zachary Karate Club, (b) a Twitter network of followers, (c) a co-authorship network in network science and (d) a collaboration network between jazz musicians.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/urnet/Fig4_huc59304f27140c9e9ab9ecf279b2a2faa_82862_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;377&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/urnet/Fig4_huc59304f27140c9e9ab9ecf279b2a2faa_82862_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;377&#34;&gt;
 &lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Scatter plot and Spearman&amp;rsquo;s rank correlation coefficients $r_{S}$ between fitted Heaps&amp;rsquo; exponents $\beta_i$ and normalized $\alpha$-centrality $c^{[\alpha]}_i/c^{[\alpha]}_{\text{max}}$ associated to the $i=1,\dots,N$ nodes of four empirical networks: (a) the Zachary Karate Club, (b) a Twitter network of followers, (c) a co-authorship network in network science and (d) a collaboration network between jazz musicians.
+    Scatter plot and Spearman&amp;rsquo;s rank correlation coefficients $r_{S}$ between fitted Heaps&amp;rsquo; exponents $\beta_i$ and normalized $\alpha$-centrality $c^{[\alpha]}&lt;em&gt;i/c^{[\alpha]}&lt;/em&gt;{\text{max}}$ associated to the $i=1,\dots,N$ nodes of four empirical networks: (a) the Zachary Karate Club, (b) a Twitter network of followers, (c) a co-authorship network in network science and (d) a collaboration network between jazz musicians.
   &lt;/figcaption&gt;
 
 
@@ -700,7 +700,7 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
     <item>
       <title>Out in Physics Reports!</title>
       <link>https://iaciac.github.io/post/beyond_physrep/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/beyond_physrep/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/beyond_physrep/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Check out the full review 
@@ -713,7 +713,7 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
     <item>
       <title>Networks beyond pairwise interactions: structure and dynamics</title>
       <link>https://iaciac.github.io/post/beyond/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/beyond/</guid>
       <description>&lt;p&gt;Our &lt;strong&gt;review&lt;/strong&gt; on the structure and dynamics of higher-order interactions is out in &lt;em&gt;Physics Reports&lt;/em&gt;! &amp;mdash;-&amp;gt; [
 &lt;a href=&#34;https://doi.org/10.1016/j.physrep.2020.05.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link to arXiv&lt;/a&gt;] - [
@@ -763,7 +763,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>TopoNets 2020 @ NetSci!</title>
       <link>https://iaciac.github.io/post/toponets2020/</link>
-      <pubDate>Sun, 22 Mar 2020 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/toponets2020/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/toponets2020/featured.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Together with 
@@ -779,7 +779,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>Out in Chaos!</title>
       <link>https://iaciac.github.io/post/complexrecovery_chaos/</link>
-      <pubDate>Fri, 31 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/complexrecovery_chaos/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/complexrecovery_chaos/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;New paper with 
@@ -796,7 +796,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>New one out</title>
       <link>https://iaciac.github.io/post/brokerage/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/brokerage/</guid>
       <description>&lt;p&gt;&amp;ldquo;The brokerage role of small states and territories in global corporate networks&amp;rdquo; is now published on &lt;strong&gt;Growth and Change: A Journal of Urban and Regional Policy&lt;/strong&gt;. Another &lt;em&gt;interdisciplinary&lt;/em&gt; collaboration with 
 &lt;a href=&#34;https://research-repository.uwa.edu.au/en/persons/kirsten-martinus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K. Martinus&lt;/a&gt;, 
@@ -811,7 +811,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>Our &#39;Simplicial models of social contagion&#39; featured on Le Monde!</title>
       <link>https://iaciac.github.io/post/simplagion_lemonde/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/simplagion_lemonde/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/simplagion_lemonde/featured.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Mama, I need to learn French -&amp;gt; our 
@@ -823,7 +823,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>New paper with The Royal College of Art</title>
       <link>https://iaciac.github.io/post/creative/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/creative/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/creative/featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Creative Connectivity Project - A network based approach to understand correlations between interdisciplinary group dynamics and creative performance&amp;rdquo; is now published on &lt;strong&gt;E&amp;amp;PDE 2019&lt;/strong&gt;, Proceedings of the 21st International Conference on Engineering and Product Design Education, University of Strathclyde, Glasgow. 12th -13th September 2019.&lt;/p&gt;
@@ -841,7 +841,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>Multilayer contagion with &#39;complex&#39; recovery</title>
       <link>https://iaciac.github.io/post/complexrecovery/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/complexrecovery/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/complexrecovery/featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;New preprint (
@@ -856,7 +856,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>On the arXiv after 72h!</title>
       <link>https://iaciac.github.io/post/complexity72h/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/complexity72h/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/complexity72h/featured.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Fresh out the arXiv the pre-print we wrote during the 
@@ -872,7 +872,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>Out in Nature Communications!</title>
       <link>https://iaciac.github.io/post/simplagion_natcomm/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/simplagion_natcomm/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/simplagion_natcomm/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;New paper with 
@@ -892,7 +892,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>New paper out!</title>
       <link>https://iaciac.github.io/post/thofc_rs/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/thofc_rs/</guid>
       <description>&lt;p&gt;&amp;ldquo;The role of tax havens and offshore financial centres in shaping corporate geographies: an industry sector perspective&amp;rdquo; is now published on &lt;strong&gt;Regional Studies&lt;/strong&gt;. Nice &lt;em&gt;interdisciplinary&lt;/em&gt; collaboration with 
 &lt;a href=&#34;https://sees.uq.edu.au/profile/9602/thomas-sigler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T. Sigler&lt;/a&gt;, 
@@ -925,7 +925,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
       
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Pharma.png&#34; &gt;
-  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Pharma_hu39d6644e0e81fb29b6769d5b6d6aff47_137524_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Pharma_hu39d6644e0e81fb29b6769d5b6d6aff47_137524_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -936,7 +936,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
       
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Retailing.png&#34; &gt;
-  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Retailing_hu9640c6c1b0d8fb3d3034fce8080ca1c2_45701_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Retailing_hu9640c6c1b0d8fb3d3034fce8080ca1c2_45701_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -947,7 +947,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
       
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Tech.png&#34; &gt;
-  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Tech_huaa32f91ce2f7716b1608a3bd3238dd42_108887_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Tech_huaa32f91ce2f7716b1608a3bd3238dd42_108887_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -958,7 +958,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
       
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Utilities.png&#34; &gt;
-  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Utilities_hu09c56daca2f97b4df38a5b7efe71d0c0_48273_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Utilities_hu09c56daca2f97b4df38a5b7efe71d0c0_48273_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -970,7 +970,7 @@ Finally, we give an overview of real-world applications to systems with higher-o
     <item>
       <title>Simplagion 2.0</title>
       <link>https://iaciac.github.io/post/simplagion_2_arxiv/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/simplagion_2_arxiv/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/simplagion_2_arxiv/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;New version (
