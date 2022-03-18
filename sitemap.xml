@@ -2,10 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iaciac.github.io/publication-type/3/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
+    <loc>https://iaciac.github.io/publication-type/2/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/a.-baronchelli/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/a.-barrat/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/authors/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/g.-petri/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/publication/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/higher-order/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/naming-game/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/publication_types/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/social-convention/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tags/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/tipping-point/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/publication-type/3/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/b.-monechi/</loc>
@@ -23,28 +68,13 @@
     <loc>https://iaciac.github.io/tag/heaps/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/publication_types/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/tag/random-walk/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/social-contagion/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/publication/social-interactions-affect-discovery-processes/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tags/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/urns/</loc>
@@ -56,25 +86,10 @@
     <loc>https://iaciac.github.io/author/v.-loreto/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/publication-type/2/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/author/a.-allard/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/author/a.-barrat/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/author/g.-petri/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/author/g.-st-onge/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/higher-order/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/influential-groups-hypergraph-contagion/</loc>
@@ -215,29 +230,14 @@
     <loc>https://iaciac.github.io/tag/spreading/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/author/a.-baronchelli/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/tag/critical-mass/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/tag/naming-game/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/social-convention/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/tipping-point/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/tag/tipping-points/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/publication/vanishing/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication-type/7/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
