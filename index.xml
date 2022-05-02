@@ -5,12 +5,49 @@
     <link>https://iaciac.github.io/</link>
       <atom:link href="https://iaciac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Iacopo Iacopini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Iacopo Iacopini</title>
       <link>https://iaciac.github.io/</link>
     </image>
+    
+    <item>
+      <title>New Python package for higher-order interactions!</title>
+      <link>https://iaciac.github.io/post/xgi/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/post/xgi/</guid>
+      <description>&lt;p&gt;Comple(X) (G)roup (I)nteractions (XGI) is a new Python package for the representation, study and visualization of complex systems composed by units that interact in groups of arbitrary size (not necessarily in dyads). Strongly inspired by 
+&lt;a href=&#34;https://networkx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetworkX&lt;/a&gt;, 
+&lt;a href=&#34;https://xgi.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XGI&lt;/a&gt; allows the user to encode higher-order interactions into hypergraphs and simplicial complexes (see 
+&lt;a href=&#34;https://doi.org/10.1016/j.physrep.2020.05.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Phys. Rep. 2020]&lt;/a&gt; for a comprehensive review on the topic &amp;mdash;or a 
+&lt;a href=&#34;https://iaciac.github.io/post/beyond/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3 min&lt;/a&gt; summary).&lt;/p&gt;
+&lt;h2 id=&#34;quick-links&#34;&gt;Quick links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://xgi.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ComplexGroupInteractions/xgi/tree/main/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ComplexGroupInteractions/xgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contributing on GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;core-xgi-team-members&#34;&gt;Core XGI team members:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nwlandry.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicholas Landry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://leotrs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leo Torres&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://maximelucas.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maxime Lucas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://iaciac.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iacopo Iacopini&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lordgrilo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giovanni Petri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://alpatania.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alice Patania&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Social contagion on higher-order structures</title>

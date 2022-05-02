@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://iaciac.github.io/tag/higher-order/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/post/xgi/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/python/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/simplicial-complexes/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tags/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://iaciac.github.io/publication-type/6/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
@@ -14,16 +35,7 @@
     <loc>https://iaciac.github.io/author/g.f.-de-arruda/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/tag/higher-order/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication_types/</loc>
@@ -39,9 +51,6 @@
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tags/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/y.-moreno/</loc>
