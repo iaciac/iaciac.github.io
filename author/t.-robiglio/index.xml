@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Iacopo Iacopini</title>
-    <link>https://iaciac.github.io/publication-type/3/</link>
-      <atom:link href="https://iaciac.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>T. Robiglio | Iacopo Iacopini</title>
+    <link>https://iaciac.github.io/author/t.-robiglio/</link>
+      <atom:link href="https://iaciac.github.io/author/t.-robiglio/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Robiglio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>3</title>
-      <link>https://iaciac.github.io/publication-type/3/</link>
+      <title>T. Robiglio</title>
+      <link>https://iaciac.github.io/author/t.-robiglio/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social interactions affect discovery processes</title>
-      <link>https://iaciac.github.io/publication/social-interactions-affect-discovery-processes/</link>
-      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/social-interactions-affect-discovery-processes/</guid>
       <description></description>
     </item>
     

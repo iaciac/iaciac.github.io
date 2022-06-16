@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://iaciac.github.io/publication-type/3/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/a.-barrat/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/authors/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/g.-petri/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/higher-order/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/m.-lucas/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/publication_types/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/simplicial-complex/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/social-contagion/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/t.-robiglio/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tags/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://iaciac.github.io/publication-type/2/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +57,6 @@
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/a.-s.-teixeira/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/authors/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/b.-steinegger/</loc>
@@ -29,12 +71,6 @@
     <loc>https://iaciac.github.io/tag/hiv/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/publication/non-selective-distribution-of-infectious-disease-prevention-may-outperform-risk-based-targeting/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,20 +80,11 @@
     <loc>https://iaciac.github.io/tag/prep/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/publication_types/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/tag/spreading/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tags/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/vaccination/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/higher-order/</loc>
-    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
@@ -74,31 +101,16 @@
     <loc>https://iaciac.github.io/publication-type/6/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/author/a.-barrat/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/author/g.f.-de-arruda/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/simplicial-complex/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/social-contagion/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/social-contagion-higher-order-structures/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/author/y.-moreno/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/a.-baronchelli/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/author/g.-petri/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</loc>
@@ -112,9 +124,6 @@
   </url><url>
     <loc>https://iaciac.github.io/tag/tipping-point/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/publication-type/3/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/b.-monechi/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
@@ -324,9 +333,6 @@
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/j.-g.-young/</loc>
-    <lastmod>2020-09-04T11:16:12+02:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/author/m.-lucas/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/beyond/</loc>
