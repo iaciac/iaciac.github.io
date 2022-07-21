@@ -5,12 +5,20 @@
     <link>https://iaciac.github.io/publication-type/3/</link>
       <atom:link href="https://iaciac.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://iaciac.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Quantifying human performance in chess</title>
+      <link>https://iaciac.github.io/publication/chess/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/chess/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simplicially driven simple contagion</title>
