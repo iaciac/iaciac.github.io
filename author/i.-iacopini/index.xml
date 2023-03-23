@@ -5,12 +5,20 @@
     <link>https://iaciac.github.io/author/i.-iacopini/</link>
       <atom:link href="https://iaciac.github.io/author/i.-iacopini/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Iacopini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>I. Iacopini</title>
       <link>https://iaciac.github.io/author/i.-iacopini/</link>
     </image>
+    
+    <item>
+      <title>Simplicially driven simple contagion</title>
+      <link>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantifying human performance in chess</title>
@@ -25,14 +33,6 @@
       <link>https://iaciac.github.io/publication/hyper-cores/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/publication/hyper-cores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simplicially driven simple contagion</title>
-      <link>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</link>
-      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</guid>
       <description></description>
     </item>
     
