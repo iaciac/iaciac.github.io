@@ -5,12 +5,20 @@
     <link>https://iaciac.github.io/tag/complex-networks/</link>
       <atom:link href="https://iaciac.github.io/tag/complex-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Complex networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Complex networks</title>
       <link>https://iaciac.github.io/tag/complex-networks/</link>
     </image>
+    
+    <item>
+      <title>XGI: A Python package for higher-order interaction networks</title>
+      <link>https://iaciac.github.io/publication/xgi/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/xgi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The physics of higher-order interactions in complex systems</title>
