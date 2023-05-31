@@ -5,7 +5,7 @@
     <link>https://iaciac.github.io/tag/python/</link>
       <atom:link href="https://iaciac.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Python</title>
@@ -13,102 +13,9 @@
     </image>
     
     <item>
-      <title>I&#39;m joining the NU Network Science Institute!</title>
-      <link>https://iaciac.github.io/post/nul/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/nul/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Back to London&lt;/strong&gt;!&lt;/p&gt;
-&lt;p&gt;Extremely happy to share that I am joining the 
-&lt;a href=&#34;https://www.networkscienceinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Science Institute&lt;/a&gt; at 
-&lt;a href=&#34;https://www.nulondon.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University London&lt;/a&gt;.
-I will be an Assistant Professor at the 
-&lt;a href=&#34;https://www.networkscienceinstitute.org/hubs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;newly launched hub&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Announcements for &lt;strong&gt;PhD openings&lt;/strong&gt; coming soon&amp;hellip;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/nul/NetworkScienceInstitute_logo_hu1edcc1966aae37efe4acf96ee48d2b70_774242_2000x2000_fit_lanczos_3.png&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/nul/NetworkScienceInstitute_logo_hu1edcc1966aae37efe4acf96ee48d2b70_774242_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;570&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-view-from-devon-house&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/nul/NULondon_view_hu20634cc0e0311429885caabc810e5841_5784782_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;View from Devon House&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/nul/NULondon_view_hu20634cc0e0311429885caabc810e5841_5784782_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;4624&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    View from Devon House
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>New Python package for higher-order interactions!</title>
       <link>https://iaciac.github.io/post/xgi/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/xgi/</guid>
       <description>&lt;p&gt;Comple(X) (G)roup (I)nteractions (XGI) is a new Python package for the representation, study and visualization of complex systems composed by units that interact in groups of arbitrary size (not necessarily in dyads). Strongly inspired by 
 &lt;a href=&#34;https://networkx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetworkX&lt;/a&gt;, 
