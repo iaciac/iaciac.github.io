@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://iaciac.github.io/tag/group-dynamics/</loc>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://iaciac.github.io/tag/higher-order/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/post/nul/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/</loc>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tags/</loc>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/post/temporal-dynamics-group-interactions/</loc>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/temporal-networks/</loc>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/post/nul/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/python/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/simplicial-complexes/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tags/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication-type/2/</loc>
@@ -72,9 +84,6 @@
     <lastmod>2023-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/social-contagion/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
     <lastmod>2023-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/t.-robiglio/</loc>
@@ -279,9 +288,6 @@
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/simplicial-contagion-temporal-networks/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/temporal-networks/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/cities/</loc>

@@ -13,6 +13,364 @@
     </image>
     
     <item>
+      <title>Temporal group interactions in social systems</title>
+      <link>https://iaciac.github.io/post/temporal-dynamics-group-interactions/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/post/temporal-dynamics-group-interactions/</guid>
+      <description>&lt;p&gt;Our new preprint &lt;strong&gt;&amp;ldquo;The temporal dynamics of group interactions in higher-order social networks&amp;rdquo;&lt;/strong&gt;, together with 
+&lt;a href=&#34;https://www.martonkarsai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Karsai&lt;/a&gt; and 
+&lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt; is 
+&lt;a href=&#34;https://arxiv.org/abs/2306.09967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;out on the ArXiv&lt;/a&gt;!&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;The structure and behaviour of many social systems are shaped by the &lt;strong&gt;interactions among their individuals&lt;/strong&gt;. The typical approach in social network analysis consists in representing individuals as interacting in pairs, while &lt;strong&gt;many human interactions involve groups&lt;/strong&gt; of many different sizes.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ph-by-kier-in-sighthttpsunsplashcomkellysikkema&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/drinks_hu3d03a01dcc18bc5be0e67db3d8d209a6_2742782_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;Ph by 
+&amp;lt;a href=&amp;#34;https://unsplash.com/@kellysikkema&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;Kier in Sight&amp;lt;/a&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/drinks_hu3d03a01dcc18bc5be0e67db3d8d209a6_2742782_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;3596&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Ph by 
+&lt;a href=&#34;https://unsplash.com/@kellysikkema&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kier in Sight&lt;/a&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Our everyday social path is in fact a succession of these &lt;strong&gt;group events&lt;/strong&gt; that involve different numbers of peers, from walking alone or having a coffee with a friend, to engaging in meetings or group conversations at work or during social gatherings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why do we care about groups?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On the one hand, there is a &lt;strong&gt;foundational reason&lt;/strong&gt;. To obtain meaningful insights from a system, choosing an appropriate representation is a crucial step that cannot be overlooked.
+Since the building blocks of many &amp;mdash;not just social&amp;mdash; complex systems are intrinsically non-pairwise, there is often a need for higher-order approaches. Hypergraphs are thus natural candidates to 
+&lt;a href=&#34;https://doi.org/10.1016/j.physrep.2020.05.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;move system descriptions beyond dyadic relationships&lt;/a&gt; and effectively map relationships between any number of units (see also 
+&lt;a href=&#34;https://iaciac.github.io/post/beyond/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;On the other hand, letting individuals interact in complex groups can have &lt;strong&gt;phenomenological consequences&lt;/strong&gt;. Groups can lead to critical mass effects in 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-019-10431-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;social contagion&lt;/a&gt; and 
+&lt;a href=&#34;https://arxiv.org/abs/2303.11475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;social dilemmas&lt;/a&gt;, 
+&lt;a href=&#34;https://www.nature.com/articles/s42005-021-00788-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sustain epidemics&lt;/a&gt;, 
+&lt;a href=&#34;https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accelerate the formation of consensus&lt;/a&gt; and 
+&lt;a href=&#34;https://www.nature.com/articles/s42005-022-00845-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;help minorities of committed individuals to overturn the status quo&lt;/a&gt; (see also 
+&lt;a href=&#34;https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt;).&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ph-by-kier-in-sighthttpsunsplashcomkierinsight&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/grouping_hu3d03a01dcc18bc5be0e67db3d8d209a6_1844867_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;Ph by 
+&amp;lt;a href=&amp;#34;https://unsplash.com/@kierinsight&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;Kier in Sight&amp;lt;/a&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/grouping_hu3d03a01dcc18bc5be0e67db3d8d209a6_1844867_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;2500&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Ph by 
+&lt;a href=&#34;https://unsplash.com/@kierinsight&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kier in Sight&lt;/a&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Recent &lt;strong&gt;empirical studies&lt;/strong&gt; on 
+&lt;a href=&#34;https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-017-0114-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;co-authorship data&lt;/a&gt;, 
+&lt;a href=&#34;https://www.nature.com/articles/s41598-021-86469-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;face-to-face&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.1800683115&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; interactions have shown that groups may appear in heterogeneous size (order), can 
+&lt;a href=&#34;https://scholarship.richmond.edu/bookshelf/5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;change dynamically&lt;/a&gt;, or exhibit complex 
+&lt;a href=&#34;https://www.nature.com/articles/s42005-022-00858-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hierarchical&lt;/a&gt; and 
+&lt;a href=&#34;https://arxiv.org/abs/2301.04235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nested&lt;/a&gt; structures. &lt;strong&gt;Group size&lt;/strong&gt; is indeed a crucial factor that 
+&lt;a href=&#34;https://www.journals.uchicago.edu/doi/abs/10.1086/211115&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;determines a group&amp;rsquo;s sociological form&lt;/a&gt; and its ability to sustain a single conversation &amp;mdash;leading to the phenomenon known as 
+&lt;a href=&#34;https://psycnet.apa.org/record/1999-10015-001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;schisming&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Most studies on group formation and structure, however, do not take into account the temporal evolution of the underlying social systems, characterised by patterns of 
+&lt;a href=&#34;https://www.nature.com/articles/s41598-021-86469-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;memory&lt;/a&gt;, 
+&lt;a href=&#34;https://www.nature.com/articles/s41598-023-32253-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;burstiness&lt;/a&gt;, and 
+&lt;a href=&#34;https://arxiv.org/abs/2303.09316&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;temporal correlations&lt;/a&gt;.
+These complex patterns are &lt;strong&gt;the results of microscopic individual-level decisions&lt;/strong&gt;, ultimately shaping the emergence of collective behaviours.&lt;/p&gt;
+&lt;p&gt;Understanding these mechanisms &amp;mdash;&lt;strong&gt;how these groups form, evolve&lt;/strong&gt;, and &lt;strong&gt;how people move across groups&lt;/strong&gt;&amp;mdash; is essential to better characterise the emerging group dynamics and to better model biological contagion or transfer of social norms and information.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;In this 
+&lt;a href=&#34;https://arxiv.org/abs/2306.09967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new preprint&lt;/a&gt;, together with 
+&lt;a href=&#34;https://www.martonkarsai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Karsai&lt;/a&gt; and 
+&lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt;, we study the temporal dynamics of groups through empirical traces of social interactions. Leveraging two publicly-available data sets of temporally-resolved human interactions among 
+&lt;a href=&#34;https://www.nature.com/articles/s41597-022-01756-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preschool children&lt;/a&gt; and 
+&lt;a href=&#34;https://www.nature.com/articles/s41597-019-0325-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;university students&lt;/a&gt;, we highlight complex mechanisms of group dynamics both at the node and at the group level.&lt;/p&gt;
+&lt;p&gt;At the &lt;strong&gt;node leve&lt;/strong&gt;, we follow how individuals move across groups of different sizes, finding that the main dynamical patterns of group-change are &lt;strong&gt;independent from the nature and context of interactions&lt;/strong&gt; (due to age and setting constraints).&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-group-size-distributions-a-b-and-node-transition-matrices-c-g-for-university-and-preschool-interactions-that-take-place-in-class-out-of-class-or-during-the-weekend-in-c-g-the-elements-of-each-matrix-represent-the-conditional-probability-pn_it1kprimen_itk-of-finding-a-node-i-in-a-group-of-size-kprime-at-time-t1-given-that-at-time-t-it-belonged-to-a-different-group-of-size-k-probability-values-are-given-by-the-height-of-each-element-normalized-by-row-note-that-the-scales-on-the-y-axes--one-for-each-matrix-row--vary-for-visualization-purposes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/Fig1_hu1368a01cf699ec744e7a1a9c052174bd_182199_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Group size distributions (&amp;lt;em&amp;gt;A&amp;lt;/em&amp;gt;-&amp;lt;em&amp;gt;B&amp;lt;/em&amp;gt;) and node transition matrices (&amp;lt;em&amp;gt;C&amp;lt;/em&amp;gt;-&amp;lt;em&amp;gt;G&amp;lt;/em&amp;gt;) for University and Preschool interactions that take place in-class, out-of-class, or during the weekend. In (&amp;lt;em&amp;gt;C&amp;lt;/em&amp;gt;-&amp;lt;em&amp;gt;G&amp;lt;/em&amp;gt;) the elements of each matrix represent the conditional probability $P(n_i^{t&amp;#43;1}=k^{\prime}|n_i^t=k)$ of finding a node $i$ in a group of size $k^{\prime}$ at time $t&amp;#43;1$ given that at time $t$ it belonged to a different group of size $k$. Probability values are given by the height of each element (normalized by row). Note that the scales on the y-axes&amp;amp;ndash;one for each matrix row&amp;amp;ndash;vary for visualization purposes.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/Fig1_hu1368a01cf699ec744e7a1a9c052174bd_182199_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;1095&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Group size distributions (&lt;em&gt;A&lt;/em&gt;-&lt;em&gt;B&lt;/em&gt;) and node transition matrices (&lt;em&gt;C&lt;/em&gt;-&lt;em&gt;G&lt;/em&gt;) for University and Preschool interactions that take place in-class, out-of-class, or during the weekend. In (&lt;em&gt;C&lt;/em&gt;-&lt;em&gt;G&lt;/em&gt;) the elements of each matrix represent the conditional probability $P(n_i^{t+1}=k^{\prime}|n_i^t=k)$ of finding a node $i$ in a group of size $k^{\prime}$ at time $t+1$ given that at time $t$ it belonged to a different group of size $k$. Probability values are given by the height of each element (normalized by row). Note that the scales on the y-axes&amp;ndash;one for each matrix row&amp;ndash;vary for visualization purposes.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Shifting the focus to the groups, we analyze the statistics of &lt;strong&gt;group duration&lt;/strong&gt;. Whether students interact during classes, in the other spaces of the university, or
+elsewhere during the weekend, the distributions of their group interactions depend on the group size in a similar way, with &lt;em&gt;long-gets-longer&lt;/em&gt; effects.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-distributions-of-group-durations-tau-for-the-university-a-c-and-the-preschool-d-e-data-sets-in-different-contexts-different-symbols-correspond-to-different-group-sizes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/Fig2_hu73c65dd3d6380f05a7a843aa223fd7a3_196302_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Distributions of group durations $\tau$ for the University (&amp;lt;em&amp;gt;A&amp;lt;/em&amp;gt;-&amp;lt;em&amp;gt;C&amp;lt;/em&amp;gt;) and the Preschool (&amp;lt;em&amp;gt;D&amp;lt;/em&amp;gt;-&amp;lt;em&amp;gt;E&amp;lt;/em&amp;gt;) data sets in different contexts. Different symbols correspond to different group sizes.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/Fig2_hu73c65dd3d6380f05a7a843aa223fd7a3_196302_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;650&#34; height=&#34;566&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Distributions of group durations $\tau$ for the University (&lt;em&gt;A&lt;/em&gt;-&lt;em&gt;C&lt;/em&gt;) and the Preschool (&lt;em&gt;D&lt;/em&gt;-&lt;em&gt;E&lt;/em&gt;) data sets in different contexts. Different symbols correspond to different group sizes.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;While the individual point of view adopted is useful to understand how people move between group sizes, we still need to understand the impact of these individual changes on the sizes of the groups. For instance, large groups tend to have shorter lives, but &lt;strong&gt;how do they break up?&lt;/strong&gt; Similarly, &lt;strong&gt;how do they grow?&lt;/strong&gt; Indeed, a group might appear due to the &lt;strong&gt;fusion of two pre-existing groups of comparable sizes&lt;/strong&gt; &amp;mdash;like water droplets that merge after overlapping due to surface tension&amp;mdash;, or from a &lt;strong&gt;gradual process&lt;/strong&gt; due to the integration of one individual at a time.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ph-by-leohohohttpsunsplashcomleohoho&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/droplets_hu3d03a01dcc18bc5be0e67db3d8d209a6_6642412_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;Ph by 
+&amp;lt;a href=&amp;#34;https://unsplash.com/@leohoho&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;Leohoho&amp;lt;/a&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/droplets_hu3d03a01dcc18bc5be0e67db3d8d209a6_6642412_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;4000&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Ph by 
+&lt;a href=&#34;https://unsplash.com/@leohoho&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leohoho&lt;/a&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We thus follow the members of each group before the group’s birth and after its break-up, pooling together the results of groups of the same size. For &lt;strong&gt;small group sizes, both group aggregation and disaggregation tend to happen gradually&lt;/strong&gt; from or to groups of similar sizes. The picture for larger groups suggests insted a &lt;strong&gt;partially hierarchical dynamical mechanism&lt;/strong&gt; according to which individuals first engage in relatively small groups that then aggregate and form bigger ones. A symmetric process takes place when large groups dismantle.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-group-dynamics-of-aggregation-and-disaggregation-for-university-a-c-and-preschool-d-e-interactions-that-take-place-during-in-class-out-of-class-or-weekend-time-each-side-of-the-pyramidal-heatmaps-shows-the-probability-distribution-associated-to-the-size-for-the-largest-sub-group-joining-and-the-largest-subgroup-leaving-a-group-of-size-k-the-central-column-reports-the-considered-group-size-k-while-the-probability-distributions-on-its-left-hand-side-and-right-hand-side-respectively-corresponds-to-group-aggregation-and-disaggregation-dashed-lines-refer-to-the-distribution-average&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/Fig3_hucfc8d0de42dc3108db70cccebab7d8b2_140368_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Group dynamics of aggregation and disaggregation for University (&amp;lt;em&amp;gt;A&amp;lt;/em&amp;gt;-&amp;lt;em&amp;gt;C&amp;lt;/em&amp;gt;) and Preschool (&amp;lt;em&amp;gt;D&amp;lt;/em&amp;gt;-&amp;lt;em&amp;gt;E&amp;lt;/em&amp;gt;) interactions that take place during in-class, out-of-class, or weekend time. Each side of the pyramidal heatmaps shows the probability distribution associated to the size for the largest sub-group joining and the largest subgroup leaving a group of size $k$. The central column reports the considered group size $k$, while the probability distributions on its left-hand side and right-hand side respectively corresponds to group aggregation and disaggregation. Dashed lines refer to the distribution average.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/Fig3_hucfc8d0de42dc3108db70cccebab7d8b2_140368_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;1138&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Group dynamics of aggregation and disaggregation for University (&lt;em&gt;A&lt;/em&gt;-&lt;em&gt;C&lt;/em&gt;) and Preschool (&lt;em&gt;D&lt;/em&gt;-&lt;em&gt;E&lt;/em&gt;) interactions that take place during in-class, out-of-class, or weekend time. Each side of the pyramidal heatmaps shows the probability distribution associated to the size for the largest sub-group joining and the largest subgroup leaving a group of size $k$. The central column reports the considered group size $k$, while the probability distributions on its left-hand side and right-hand side respectively corresponds to group aggregation and disaggregation. Dashed lines refer to the distribution average.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Finally, we propose a &lt;strong&gt;synthetic hypergraph model&lt;/strong&gt; describing how nodes form groups and navigate between groups of different sizes. Informed by empirical data, the model reproduces the non-trivial dynamics of group changes, and could be used to generate synthetic substrates for &lt;strong&gt;studying the impact of higher-order temporal interactions on dynamical processes&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-simulated-distribution-of-group-size-node-transition-matrix-and-group-duration-for-different-group-sizes-k-generated-by-the-proposed-temporal-hypergraph-model-fitted-on-the-university-out-of-class-setting&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/Fig5_hub8ae8657e916298b8e44ed43ba5f986e_294682_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Simulated distribution of group size, node transition matrix, and group duration for different group sizes $k$ generated by the proposed temporal hypergraph model (fitted on the University out-of-class setting).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/temporal-dynamics-group-interactions/Fig5_hub8ae8657e916298b8e44ed43ba5f986e_294682_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;1484&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Simulated distribution of group size, node transition matrix, and group duration for different group sizes $k$ generated by the proposed temporal hypergraph model (fitted on the University out-of-class setting).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Taken together, our results hint at common robust mechanisms determining group formation and evolution. Our study represent a further step in &lt;strong&gt;understanding the social dynamics of higher-order interactions&lt;/strong&gt;, stressing the importance of considering their temporal aspect.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>I&#39;m joining the NU Network Science Institute!</title>
       <link>https://iaciac.github.io/post/nul/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
