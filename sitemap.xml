@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iaciac.github.io/tag/group-dynamics/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+    <loc>https://iaciac.github.io/publication-type/3/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/a.-barrat/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/authors/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/higher-order/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/m.-karsai/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/publication_types/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tags/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/publication/temporal-dynamics-group-interactions-higher-order-social-networks/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/group-dynamics/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/post/temp-dyn-groups/</loc>
@@ -44,16 +65,10 @@
     <loc>https://iaciac.github.io/author/a.-schwarze/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/authors/</loc>
-    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/tag/complex-networks/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/g.-petri/</loc>
-    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/l.-torres/</loc>
@@ -65,9 +80,6 @@
     <loc>https://iaciac.github.io/author/n.-w.-landry/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/publication_types/</loc>
-    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/tag/simplicial-complex/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -76,9 +88,6 @@
   </url><url>
     <loc>https://iaciac.github.io/post/xgi/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/author/a.-barrat/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</loc>
     <lastmod>2023-03-23T00:00:00+00:00</lastmod>
@@ -106,9 +115,6 @@
   </url><url>
     <loc>https://iaciac.github.io/tag/success/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/publication-type/3/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/hyper-cores/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
