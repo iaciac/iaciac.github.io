@@ -5,12 +5,20 @@
     <link>https://iaciac.github.io/tag/reinforcement/</link>
       <atom:link href="https://iaciac.github.io/tag/reinforcement/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinforcement</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Reinforcement</title>
       <link>https://iaciac.github.io/tag/reinforcement/</link>
     </image>
+    
+    <item>
+      <title>The dynamics of higher-order novelties</title>
+      <link>https://iaciac.github.io/publication/dynamics-higher-order-novelties/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/dynamics-higher-order-novelties/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interactive discovery processes on complex networks</title>
