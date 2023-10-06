@@ -5,12 +5,20 @@
     <link>https://iaciac.github.io/author/g.-petri/</link>
       <atom:link href="https://iaciac.github.io/author/g.-petri/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Petri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>G. Petri</title>
       <link>https://iaciac.github.io/author/g.-petri/</link>
     </image>
+    
+    <item>
+      <title>Hyper-cores promote localization and efficient seeding in higher-order processes</title>
+      <link>https://iaciac.github.io/publication/hyper-cores/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/hyper-cores/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>XGI: A Python package for higher-order interaction networks</title>
@@ -25,14 +33,6 @@
       <link>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hyper-cores promote localization and efficient seeding in higher-order processes</title>
-      <link>https://iaciac.github.io/publication/hyper-cores/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/hyper-cores/</guid>
       <description></description>
     </item>
     
