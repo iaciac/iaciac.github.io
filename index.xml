@@ -5,12 +5,35 @@
     <link>https://iaciac.github.io/</link>
       <atom:link href="https://iaciac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Iacopo Iacopini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Iacopo Iacopini</title>
       <link>https://iaciac.github.io/</link>
     </image>
+    
+    <item>
+      <title>PhD opening in Network Science!</title>
+      <link>https://iaciac.github.io/post/phd-scholarship2024/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/post/phd-scholarship2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PhD opening in Network Science&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a &lt;strong&gt;fully Funded PhD Scholarship&lt;/strong&gt; in Network Science for UK or international students.
+Come and join me at the 
+&lt;a href=&#34;https://www.networkscienceinstitute.org/hubs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;newly launched hub&lt;/a&gt; of the 
+&lt;a href=&#34;https://www.networkscienceinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Science Institute&lt;/a&gt; at 
+&lt;a href=&#34;https://www.nulondon.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University London&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Subject areas&lt;/strong&gt;: Complex Systems, Network Science, Data Science, Computational Social Science, Animal Behaviour, Social Networks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Application deadline&lt;/strong&gt;: 1 April 2024&lt;br&gt;
+&lt;strong&gt;Expected starting date&lt;/strong&gt;: 1 October 2024&lt;/p&gt;
+&lt;p&gt;More info on how to apply, details of the position, requirements, etc. can be found 
+&lt;a href=&#34;https://www.jobs.ac.uk/job/DGH718/northeastern-university-london-fully-funded-phd-scholarship-network-and-data-science-to-model-the-behaviour-of-complex-systems-of-human-and-non-human-social-animals&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Do not hesitate to &lt;strong&gt;get in touch&lt;/strong&gt; for more info/general enquiries before the application deadline: 
+&lt;a href=&#34;mailto:iacopo.iacopini@nulondon.ac.uk&#34;&gt;iacopo.iacopini@nulondon.ac.uk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=dMnEcz5QUXs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;video_screen.png&#34; alt=&#34;Virtual Campus Tour&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The structural evolution of temporal hypergraphs through the lens of hyper-cores</title>
@@ -86,29 +109,6 @@ Have a look at mine and others&amp;rsquo; projects
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/publication/hyper-cores/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>PhD opening in Network Science!</title>
-      <link>https://iaciac.github.io/post/phd-scholarship/</link>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/phd-scholarship/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;PhD opening in Network Science&lt;/strong&gt;!&lt;/p&gt;
-&lt;p&gt;There&amp;rsquo;s a &lt;strong&gt;fully Funded PhD Scholarship&lt;/strong&gt; in Network Science for UK or international students.
-Come and join me at the 
-&lt;a href=&#34;https://www.networkscienceinstitute.org/hubs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;newly launched hub&lt;/a&gt; of the 
-&lt;a href=&#34;https://www.networkscienceinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Science Institute&lt;/a&gt; at 
-&lt;a href=&#34;https://www.nulondon.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University London&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Subject areas&lt;/strong&gt;: Complex Systems, Network Science, Data Science, Computational Social Science, Animal Behaviour, Social Networks.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Application deadline&lt;/strong&gt;: 31 October 2023&lt;br&gt;
-&lt;strong&gt;Expected starting date&lt;/strong&gt;: 29 January 2024&lt;/p&gt;
-&lt;p&gt;More info on how to apply, details of the position, requirements, etc. can be found 
-&lt;a href=&#34;https://www.jobs.ac.uk/job/DDF321/phd-scholarship-fully-funded-group-dynamics-coordination-and-performance-in-human-and-non-human-social-animals&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Do not hesitate to &lt;strong&gt;get in touch&lt;/strong&gt; for more info/general enquiries before the application deadline: 
-&lt;a href=&#34;mailto:iacopo.iacopini@nulondon.ac.uk&#34;&gt;iacopo.iacopini@nulondon.ac.uk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.youtube.com/watch?v=dMnEcz5QUXs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;video_screen.png&#34; alt=&#34;Virtual Campus Tour&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
