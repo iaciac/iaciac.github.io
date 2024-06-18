@@ -5,12 +5,252 @@
     <link>https://iaciac.github.io/</link>
       <atom:link href="https://iaciac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Iacopo Iacopini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Iacopo Iacopini</title>
       <link>https://iaciac.github.io/</link>
     </image>
+    
+    <item>
+      <title>A SocioPatterns study during the Complexity 72h Workshop</title>
+      <link>https://iaciac.github.io/post/sociopatternsc72h/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/post/sociopatternsc72h/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatternsc72h/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatternsc72h/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;109&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This year, the 
+&lt;a href=&#34;https://complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity 72h&lt;/a&gt; workshop, in association with 
+&lt;a href=&#34;https://www.isi.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;, 
+&lt;a href=&#34;https://www.cnrs.fr/fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNRS&lt;/a&gt;, 
+&lt;a href=&#34;https://www.uc3m.es/mathematics-department/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carlos III University of Madrid&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.nulondon.ac.uk/faculties/network-science-institute-london/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University London&lt;/a&gt;, will host a scientific study that will take place during the workshop itself.&lt;/p&gt;
+&lt;p&gt;Over the last 15 years, the 
+&lt;a href=&#34;www.sociopatterns.org&#34;&gt;SocioPatterns collaboration&lt;/a&gt; led by 
+&lt;a href=&#34;https://www.isi.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt; (Turin, Italy) and the 
+&lt;a href=&#34;https://www.cpt.univ-mrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aix-Marseille University&lt;/a&gt; (Marseille, France) have developed wearable proximity sensors to assess proximity of individuals, carrying out measurements in over 12 countries, engaging more than 50,000 participants, in contexts that spanned hospitals, primary schools, high-schools, social gathering conferences, households, including various environments in low and middle income countries in Africa. The 
+&lt;a href=&#34;http://www.sociopatterns.org/publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data released by the collaboration&lt;/a&gt; have been used in over 2,000 scientific papers in domains that span network science, computational epidemiology, computational social science, and more.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatternsc72h/sociopatterns_hu219a8da4d3b0c7d6d81139fc181d1a3f_1481_2000x2000_fit_lanczos_3.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatternsc72h/sociopatterns_hu219a8da4d3b0c7d6d81139fc181d1a3f_1481_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;51&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The Complexity 72h workshop &lt;strong&gt;will deploy the SocioPatterns setup&lt;/strong&gt; during its 5th edition in Madrid. The goal is to further understand the characteristics and the dynamics of face-to-face interactions between individuals within this unique context. The setup of this study is straightforward and participant-friendly. Each individual who consents to participate will receive a small sensor, which will be attached to their badge for the duration of the workshop. These sensors are designed to detect other nearby sensors, facilitating the anonymous collection of data on face-to-face interactions between participants. It is important to note that no other signals, such as sound, will be recorded. Optionally, participants will be able to share additional information about themselves, including gender, academic title, field of research, nationality, and previously known workshop participants. Such information is extremely valuable as it allows for deeper studies of the mechanisms by which people meet and join forces. Along this line, additional surveys will also be deployed through a web application, specifically designed to gather context-specific information regarding the dynamics and interactions within the team, offering further insights into the mechanisms of collaboration.&lt;/p&gt;
+&lt;p&gt;The data collected will be stored in secured GDPR-compliant servers with access limited to the organizers of the workshop and the experiment. Participants will have early access to aggregated data that will be later released and publicly available. Further details will be available in the Participant Information Sheets.&lt;/p&gt;
+&lt;p&gt;This is the first time that the workshop hosts a SocioPatterns study, and hopefully it will not be the last. Researchers of the SocioPatterns collaboration, the co-founders 
+&lt;a href=&#34;https://www.cirocattuto.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciro Cattuto&lt;/a&gt; (ISI Foundation) and 
+&lt;a href=&#34;https://www.cpt.univ-mrs.fr/~barrat/english.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alain Barrat&lt;/a&gt; (CPT, CNRS), and 
+&lt;a href=&#34;https://lorenzodallamico.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lorenzo Dall’Amico&lt;/a&gt; (ISI Foundation) will be present at the workshop. This study is a very good opportunity to gather valuable data about human interactions, and to present the SocioPatterns setup to the Complexity 72h community. All participants are encouraged to take part in this great pilot study!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;ISI.svg&#34; &gt;
+
+
+  &lt;img src=&#34;ISI.svg&#34; alt=&#34;&#34; width=&#34;350&#34; &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatternsc72h/CPT_hu676b6c9daa0b2e26feec2430692cac6b_96621_2000x2000_fit_lanczos_3.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatternsc72h/CPT_hu676b6c9daa0b2e26feec2430692cac6b_96621_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;869&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatternsc72h/UC3M_hu56aeb9f93215ccab74d3da96fce1c324_43984_2000x2000_fit_q90_h2_lanczos_2.webp&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatternsc72h/UC3M_hu56aeb9f93215ccab74d3da96fce1c324_43984_2000x2000_fit_q90_h2_lanczos_2.webp&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;1000&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatternsc72h/NUL_hubdfdff0c68649c84640310911e51640d_22384_2000x2000_fit_lanczos_3.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatternsc72h/NUL_hubdfdff0c68649c84640310911e51640d_22384_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;601&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Featured story in Northeastern Global News!</title>
