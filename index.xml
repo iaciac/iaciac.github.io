@@ -5,12 +5,20 @@
     <link>https://iaciac.github.io/</link>
       <atom:link href="https://iaciac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Iacopo Iacopini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Iacopo Iacopini</title>
       <link>https://iaciac.github.io/</link>
     </image>
+    
+    <item>
+      <title>Distinguishing mechanisms of social contagion from local network view</title>
+      <link>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A SocioPatterns study during the Complexity 72h Workshop</title>
@@ -475,14 +483,6 @@ Have a look at mine and others&amp;rsquo; projects
       <link>https://iaciac.github.io/publication/dynamics-higher-order-novelties/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/publication/dynamics-higher-order-novelties/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distinguishing mechanisms of social contagion from local network view</title>
-      <link>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</link>
-      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</guid>
       <description></description>
     </item>
     
