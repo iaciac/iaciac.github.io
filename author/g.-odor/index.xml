@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Karsai | Iacopo Iacopini</title>
-    <link>https://iaciac.github.io/author/m.-karsai/</link>
-      <atom:link href="https://iaciac.github.io/author/m.-karsai/index.xml" rel="self" type="application/rss+xml" />
-    <description>M. Karsai</description>
+    <title>G. Odor | Iacopo Iacopini</title>
+    <link>https://iaciac.github.io/author/g.-odor/</link>
+      <atom:link href="https://iaciac.github.io/author/g.-odor/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Odor</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Iacopo Iacopini</copyright><lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>M. Karsai</title>
-      <link>https://iaciac.github.io/author/m.-karsai/</link>
+      <title>G. Odor</title>
+      <link>https://iaciac.github.io/author/g.-odor/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The temporal dynamics of group interactions in higher-order social networks</title>
-      <link>https://iaciac.github.io/publication/temporal-dynamics-group-interactions-higher-order-social-networks/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/temporal-dynamics-group-interactions-higher-order-social-networks/</guid>
       <description></description>
     </item>
     
