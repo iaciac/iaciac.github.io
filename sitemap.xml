@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://iaciac.github.io/tag/group-dynamics/</loc>
+    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/higher-order/</loc>
+    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
+    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tags/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/post/temp-dyn-groups/</loc>
+    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/temporal-networks/</loc>
+    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+  </url><url>
     <loc>https://iaciac.github.io/publication-type/3/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,16 +50,10 @@
     <loc>https://iaciac.github.io/author/i.-iacopini/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/publication_types/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/s.-kulkarni/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tags/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/networks-ingredient-combination/</loc>
@@ -50,16 +68,7 @@
     <loc>https://iaciac.github.io/author/a.-barrat/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/tag/higher-order/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/hypergraphs/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/author/m.-karsai/</loc>
-    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/social-dynamics/</loc>
     <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/temporal-dynamics-group-interactions-higher-order-social-networks/</loc>
@@ -89,10 +98,13 @@
     <loc>https://iaciac.github.io/tag/spreading/</loc>
     <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/sociopatterns-c72h/</loc>
+    <loc>https://iaciac.github.io/news/sociopatterns-c72h/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/ngn-ptrsb/</loc>
+    <loc>https://iaciac.github.io/news/</loc>
+    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/news/ngn-ptrsb/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/animal-behaviour/</loc>
@@ -122,14 +134,14 @@
     <loc>https://iaciac.github.io/tag/simplicial-complex/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/crab2024/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+    <loc>https://iaciac.github.io/news/crab2024/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/phd-scholarship2024/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+    <loc>https://iaciac.github.io/news/phd-scholarship2024/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/complexity72h2024/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+    <loc>https://iaciac.github.io/news/complexity72h2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/i.-z.-kiss/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
@@ -179,23 +191,14 @@
     <loc>https://iaciac.github.io/publication/dynamics-higher-order-novelties/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/tag/group-dynamics/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/post/temp-dyn-groups/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/temporal-networks/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/post/nul/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+    <loc>https://iaciac.github.io/news/nul/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/python/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/simplicial-complexes/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/a.-patania/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
@@ -218,8 +221,8 @@
     <loc>https://iaciac.github.io/publication/xgi/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/xgi/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+    <loc>https://iaciac.github.io/news/xgi/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/simplicially-driven-simple-contagion/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
@@ -287,16 +290,25 @@
     <loc>https://iaciac.github.io/author/y.-moreno/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/author/a.-baronchelli/</loc>
+    <loc>https://iaciac.github.io/tag/critical-mass/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/publication/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</loc>
+    <loc>https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/naming-game/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/social-convention/</loc>
+    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/tag/tipping-points/</loc>
+    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/author/a.-baronchelli/</loc>
+    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/publication/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/tipping-point/</loc>
@@ -347,8 +359,8 @@
     <loc>https://iaciac.github.io/author/m.-m.-murray/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/higher-order-natphys/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
+    <loc>https://iaciac.github.io/news/higher-order-natphys/</loc>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/s.-kefi/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
@@ -428,20 +440,11 @@
     <loc>https://iaciac.github.io/tag/adoption/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/dual/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/publication/dual/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/tag/critical-mass/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/tag/tipping-points/</loc>
-    <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+    <loc>https://iaciac.github.io/post/dual/</loc>
+    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication-type/7/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
@@ -452,20 +455,20 @@
     <loc>https://iaciac.github.io/publication/phd-thesis/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/urnet_natureita/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
+    <loc>https://iaciac.github.io/news/urnet_natureita/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/innovation/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
-  </url><url>
-    <loc>https://iaciac.github.io/publication/urnet/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/post/urnet/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/beyond_physrep/</loc>
-    <lastmod>2020-09-04T11:16:12+02:00</lastmod>
+    <loc>https://iaciac.github.io/publication/urnet/</loc>
+    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/news/beyond_physrep/</loc>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/post/beyond/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
@@ -485,8 +488,8 @@
     <loc>https://iaciac.github.io/tag/structure/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/toponets2020/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
+    <loc>https://iaciac.github.io/news/toponets2020/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/b.-schafer/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
@@ -503,8 +506,8 @@
     <loc>https://iaciac.github.io/tag/multiplex-networks/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/complexrecovery_chaos/</loc>
-    <lastmod>2022-02-11T11:52:50+01:00</lastmod>
+    <loc>https://iaciac.github.io/news/complexrecovery_chaos/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/tag/power-grid/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
@@ -521,11 +524,11 @@
     <loc>https://iaciac.github.io/publication/brokerage/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/brokerage/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
+    <loc>https://iaciac.github.io/news/brokerage/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/simplagion_lemonde/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
+    <loc>https://iaciac.github.io/news/simplagion_lemonde/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication-type/1/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
@@ -551,8 +554,8 @@
     <loc>https://iaciac.github.io/author/n.-zdanowska/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/creative/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
+    <loc>https://iaciac.github.io/news/creative/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/s.-manfredi/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
@@ -566,8 +569,8 @@
     <loc>https://iaciac.github.io/author/v.-s.-torrisi/</loc>
     <lastmod>2022-02-11T11:52:50+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/complexrecovery/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
+    <loc>https://iaciac.github.io/news/complexrecovery/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication-type/0/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
@@ -581,8 +584,8 @@
     <loc>https://iaciac.github.io/publication/prep/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/complexity72h/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
+    <loc>https://iaciac.github.io/news/complexity72h/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/author/p.-casanova/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
@@ -590,8 +593,8 @@
     <loc>https://iaciac.github.io/tag/temporal-network/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/simplagion_natcomm/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
+    <loc>https://iaciac.github.io/news/simplagion_natcomm/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/simplagion/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
@@ -605,11 +608,11 @@
     <loc>https://iaciac.github.io/publication/thofc_rs/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/thofc_rs/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
+    <loc>https://iaciac.github.io/news/thofc_rs/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/simplagion_2_arxiv/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
+    <loc>https://iaciac.github.io/news/simplagion_2_arxiv/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/firmsubabm/</loc>
     <lastmod>2020-09-04T11:16:12+02:00</lastmod>
@@ -638,11 +641,11 @@
     <loc>https://iaciac.github.io/author/mattia-marasti/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
   </url><url>
-    <loc>https://iaciac.github.io/post/</loc>
-    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
-  </url><url>
     <loc>https://iaciac.github.io/author/nicolo-fidelibus/</loc>
     <lastmod>2024-05-08T15:13:33+01:00</lastmod>
+  </url><url>
+    <loc>https://iaciac.github.io/post/</loc>
+    <lastmod>2020-09-03T19:10:51+02:00</lastmod>
   </url><url>
     <loc>https://iaciac.github.io/publication/</loc>
     <lastmod>2020-09-03T19:10:51+02:00</lastmod>

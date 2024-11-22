@@ -5,7 +5,7 @@
     <link>https://iaciac.github.io/tag/temporal-networks/</link>
       <atom:link href="https://iaciac.github.io/tag/temporal-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Temporal networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Iacopo Iacopini - Profile pic by Matthew Modoono/Northeastern University</copyright><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Iacopo Iacopini - Profile pic by Matthew Modoono/Northeastern University</copyright><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Temporal networks</title>
@@ -15,12 +15,13 @@
     <item>
       <title>Temporal group interactions in social systems</title>
       <link>https://iaciac.github.io/post/temp-dyn-groups/</link>
-      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/temp-dyn-groups/</guid>
-      <description>&lt;p&gt;Our new preprint &lt;strong&gt;&amp;ldquo;The temporal dynamics of group interactions in higher-order social networks&amp;rdquo;&lt;/strong&gt;, together with 
+      <description>&lt;p&gt;Our study on &lt;strong&gt;&amp;ldquo;The temporal dynamics of group interactions in higher-order social networks&amp;rdquo;&lt;/strong&gt;, together with 
 &lt;a href=&#34;https://www.martonkarsai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Karsai&lt;/a&gt; and 
-&lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt; is 
-&lt;a href=&#34;https://arxiv.org/abs/2306.09967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;out on the ArXiv&lt;/a&gt;!&lt;/p&gt;
+&lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt;, is out in &lt;em&gt;Nature Communications&lt;/em&gt;! &amp;mdash;-&amp;gt; [
+&lt;a href=&#34;https://arxiv.org/abs/2306.09967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link to arXiv&lt;/a&gt;] - [
+&lt;a href=&#34;https://www.nature.com/articles/s41467-024-50918-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link to Nature Communications&lt;/a&gt;]&lt;/p&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;p&gt;The structure and behaviour of many social systems are shaped by the &lt;strong&gt;interactions among their individuals&lt;/strong&gt;. The typical approach in social network analysis consists in representing individuals as interacting in pairs, while &lt;strong&gt;many human interactions involve groups&lt;/strong&gt; of many different sizes.&lt;/p&gt;
@@ -142,7 +143,7 @@ These complex patterns are &lt;strong&gt;the results of microscopic individual-l
 &lt;p&gt;Understanding these mechanisms &amp;mdash;&lt;strong&gt;how these groups form, evolve&lt;/strong&gt;, and &lt;strong&gt;how people move across groups&lt;/strong&gt;&amp;mdash; is essential to better characterise the emerging group dynamics and to better model biological contagion or transfer of social norms and information.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;In this 
-&lt;a href=&#34;https://arxiv.org/abs/2306.09967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new preprint&lt;/a&gt;, together with 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-024-50918-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new study&lt;/a&gt;, together with 
 &lt;a href=&#34;https://www.martonkarsai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Karsai&lt;/a&gt; and 
 &lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt;, we study the temporal dynamics of groups through empirical traces of social interactions. Leveraging two publicly-available data sets of temporally-resolved human interactions among 
 &lt;a href=&#34;https://www.nature.com/articles/s41597-022-01756-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preschool children&lt;/a&gt; and 

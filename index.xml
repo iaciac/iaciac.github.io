@@ -5,7 +5,7 @@
     <link>https://iaciac.github.io/</link>
       <atom:link href="https://iaciac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Iacopo Iacopini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Iacopo Iacopini - Profile pic by Matthew Modoono/Northeastern University</copyright><lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Iacopo Iacopini - Profile pic by Matthew Modoono/Northeastern University</copyright><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iaciac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Iacopo Iacopini</title>
@@ -13,504 +13,15 @@
     </image>
     
     <item>
-      <title>The networks of ingredient combination in cuisines around the world</title>
-      <link>https://iaciac.github.io/publication/networks-ingredient-combination/</link>
-      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/networks-ingredient-combination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The temporal dynamics of group interactions in higher-order social networks</title>
-      <link>https://iaciac.github.io/publication/temporal-dynamics-group-interactions-higher-order-social-networks/</link>
-      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/temporal-dynamics-group-interactions-higher-order-social-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The structural evolution of temporal hypergraphs through the lens of hyper-cores</title>
-      <link>https://iaciac.github.io/publication/temporal-hyper-cores/</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/temporal-hyper-cores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distinguishing mechanisms of social contagion from local network view</title>
-      <link>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A SocioPatterns study during the Complexity 72h Workshop</title>
-      <link>https://iaciac.github.io/post/sociopatterns-c72h/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/sociopatterns-c72h/</guid>
-      <description>
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatterns-c72h/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatterns-c72h/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;109&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;This year, the 
-&lt;a href=&#34;https://complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity 72h&lt;/a&gt; workshop, in association with 
-&lt;a href=&#34;https://www.isi.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;, 
-&lt;a href=&#34;https://www.cnrs.fr/fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNRS&lt;/a&gt;, 
-&lt;a href=&#34;https://www.uc3m.es/mathematics-department/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carlos III University of Madrid&lt;/a&gt;, and 
-&lt;a href=&#34;https://www.nulondon.ac.uk/faculties/network-science-institute-london/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University London&lt;/a&gt;, will host a scientific study that will take place during the workshop itself.&lt;/p&gt;
-&lt;p&gt;Over the last 15 years, the 
-&lt;a href=&#34;www.sociopatterns.org&#34;&gt;SocioPatterns collaboration&lt;/a&gt; led by 
-&lt;a href=&#34;https://www.isi.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt; (Turin, Italy) and the 
-&lt;a href=&#34;https://www.cpt.univ-mrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aix-Marseille University&lt;/a&gt; (Marseille, France) has developed wearable proximity sensors to assess proximity of individuals, carrying out measurements in over 12 countries, engaging more than 50,000 participants, in contexts that spanned hospitals, primary schools, high-schools, social gathering conferences, households, including various environments in low and middle income countries in Africa. The 
-&lt;a href=&#34;http://www.sociopatterns.org/publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data released by the collaboration&lt;/a&gt; have been used in over 2,000 scientific papers in domains that span network science, computational epidemiology, computational social science, and more.&lt;/p&gt;
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatterns-c72h/sociopatterns_hu219a8da4d3b0c7d6d81139fc181d1a3f_1481_2000x2000_fit_lanczos_3.png&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatterns-c72h/sociopatterns_hu219a8da4d3b0c7d6d81139fc181d1a3f_1481_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;51&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;The Complexity 72h workshop &lt;strong&gt;will deploy the SocioPatterns setup&lt;/strong&gt; during its 5th edition in Madrid. The goal is to further understand the characteristics and the dynamics of face-to-face interactions between individuals within this unique context. The setup of this study is straightforward and participant-friendly. Each individual who consents to participate will receive a small sensor, which will be attached to their badge for the duration of the workshop. These sensors are designed to detect other nearby sensors, facilitating the privacy-conscious collection of data on face-to-face interactions between participants. It is important to note that no other signals, such as sound, will be recorded. Optionally, participants will be able to share additional information about themselves, including gender, academic title, field of research, nationality, and previously known workshop participants. Such information is extremely valuable as it allows for deeper studies of the mechanisms by which people meet and join forces. Along this line, additional surveys will also be deployed through a web application, specifically designed to gather context-specific information regarding the dynamics and interactions within the team, offering further insights into the mechanisms of collaboration.&lt;/p&gt;
-&lt;p&gt;The data collected will be stored in secured GDPR-compliant servers with access limited to the organizers of the workshop and the experiment. Participants will have early access to aggregated data that will be later released and made publicly available. The project has been reviewed and approved by the Northeastern University London Research Ethics Committee and it follows the 
-&lt;a href=&#34;https://www.nulondon.ac.uk/academic-handbook/policies-and-procedures/data-protection/data-protection-policy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NUL data protection policy&lt;/a&gt;. Further details will be available in the Participant Information Sheets.&lt;/p&gt;
-&lt;p&gt;This is the first time that the workshop hosts a SocioPatterns study, and hopefully it will not be the last. Researchers of the SocioPatterns collaboration, the co-founders 
-&lt;a href=&#34;https://www.cirocattuto.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciro Cattuto&lt;/a&gt; (ISI Foundation) and 
-&lt;a href=&#34;https://www.cpt.univ-mrs.fr/~barrat/english.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alain Barrat&lt;/a&gt; (CPT, CNRS), and 
-&lt;a href=&#34;https://lorenzodallamico.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lorenzo Dall’Amico&lt;/a&gt; (ISI Foundation) will be present at the workshop. This study is a very good opportunity to gather valuable data about human interactions, and to present the SocioPatterns setup to the Complexity 72h community. All participants are encouraged to take part in this great pilot study!&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;ISI.svg&#34; &gt;
-
-
-  &lt;img src=&#34;ISI.svg&#34; alt=&#34;&#34; width=&#34;350&#34; &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatterns-c72h/CPT_hu676b6c9daa0b2e26feec2430692cac6b_96621_2000x2000_fit_lanczos_3.png&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatterns-c72h/CPT_hu676b6c9daa0b2e26feec2430692cac6b_96621_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;869&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatterns-c72h/UC3M_hu56aeb9f93215ccab74d3da96fce1c324_43984_2000x2000_fit_q90_h2_lanczos_2.webp&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatterns-c72h/UC3M_hu56aeb9f93215ccab74d3da96fce1c324_43984_2000x2000_fit_q90_h2_lanczos_2.webp&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;1000&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/sociopatterns-c72h/NUL_hubdfdff0c68649c84640310911e51640d_22384_2000x2000_fit_lanczos_3.png&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/sociopatterns-c72h/NUL_hubdfdff0c68649c84640310911e51640d_22384_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;601&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Featured story in Northeastern Global News!</title>
-      <link>https://iaciac.github.io/post/ngn-ptrsb/</link>
-      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/ngn-ptrsb/</guid>
-      <description>
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/ngn-ptrsb/featured_hu4b20dcb1519eb3db03dac5d5f9fb785a_253929_2000x2000_fit_lanczos_3.png&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/ngn-ptrsb/featured_hu4b20dcb1519eb3db03dac5d5f9fb785a_253929_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;1166&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;A news story on the 
-&lt;a href=&#34;https://royalsocietypublishing.org/doi/10.1098/rstb.2023.0190&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recent article&lt;/a&gt; published in &lt;em&gt;Philosophical Transactions of the Royal Society B&lt;/em&gt; was recently covered on 
-&lt;a href=&#34;https://news.northeastern.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern Global News&lt;/a&gt;. Read it 
-&lt;a href=&#34;https://news.northeastern.edu/2024/05/21/how-do-birds-communicate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Not your private tête-à-tête: leveraging the power of higher-order networks to study animal communication</title>
-      <link>https://iaciac.github.io/publication/higher-order-animal-communication/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/higher-order-animal-communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1st edition of CRAB: Complexity Research in Animal Behaviour!</title>
-      <link>https://iaciac.github.io/post/crab2024/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/crab2024/</guid>
-      <description>
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/crab2024/featured_hu9fe31f1b3d3fce3d70356846c3a8795e_1269727_2000x2000_fit_lanczos_3.png&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/crab2024/featured_hu9fe31f1b3d3fce3d70356846c3a8795e_1269727_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;1024&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;I am super excited to announce the 1st edition of &lt;strong&gt;CRAB: Complexity Research in Animal Behaviour&lt;/strong&gt;!&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sites.google.com/view/crab2024/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAB 2024&lt;/a&gt; has been selected as a Satellite event at the 
-&lt;a href=&#34;https://ccs24.cssociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference ComplexSystems 2024&lt;/a&gt; (CCS), which will be held in Exeter, UK, from September 2nd to 6th, 2024, and will be a cross-disciplinary meeting to encourage greater exchange between the fields of &lt;strong&gt;Complexity&lt;/strong&gt; and &lt;strong&gt;Animal Behaviour&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;While massive steps forward have happened in applying complex systems approaches —such as social network analysis— to study animal behaviour, there remains limited exchange between the research fields!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The call for abstracts is 
-&lt;a href=&#34;https://easychair.org/conferences/?conf=crab2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;now open&lt;/a&gt;!&lt;/strong&gt;
-Are you working Animal social networks, Collective animal behaviour, Animal communication, Animal cognition, Disease ecology, Evolutionary biology, or related topics? Send us an abstract to give a contributed presentation!&lt;/p&gt;
-&lt;p&gt;Useful links and info:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://easychair.org/conferences/?conf=crab2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Submission website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Submission deadline: June 17, 2024&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/view/crab2024/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Satellite website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://ccs24.cssociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Main conference website&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PhD opening in Network Science!</title>
-      <link>https://iaciac.github.io/post/phd-scholarship2024/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/phd-scholarship2024/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;PhD opening in Network Science&lt;/strong&gt;!&lt;/p&gt;
-&lt;p&gt;There&amp;rsquo;s a &lt;strong&gt;fully Funded PhD Scholarship&lt;/strong&gt; in Network Science for UK or international students.
-Come and join me at the 
-&lt;a href=&#34;https://www.networkscienceinstitute.org/hubs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;newly launched hub&lt;/a&gt; of the 
-&lt;a href=&#34;https://www.networkscienceinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Science Institute&lt;/a&gt; at 
-&lt;a href=&#34;https://www.nulondon.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University London&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Subject areas&lt;/strong&gt;: Complex Systems, Network Science, Data Science, Computational Social Science, Animal Behaviour, Social Networks.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Application deadline&lt;/strong&gt;: 1 April 2024&lt;br&gt;
-&lt;strong&gt;Expected starting date&lt;/strong&gt;: 1 October 2024&lt;/p&gt;
-&lt;p&gt;More info on how to apply, details of the position, requirements, etc. can be found 
-&lt;a href=&#34;https://www.jobs.ac.uk/job/DGH718/northeastern-university-london-fully-funded-phd-scholarship-network-and-data-science-to-model-the-behaviour-of-complex-systems-of-human-and-non-human-social-animals&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Do not hesitate to &lt;strong&gt;get in touch&lt;/strong&gt; for more info/general enquiries before the application deadline: 
-&lt;a href=&#34;mailto:iacopo.iacopini@nulondon.ac.uk&#34;&gt;iacopo.iacopini@nulondon.ac.uk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.youtube.com/watch?v=dMnEcz5QUXs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;video_screen.png&#34; alt=&#34;Virtual Campus Tour&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New edition of Complexity 72h!</title>
-      <link>https://iaciac.github.io/post/complexity72h2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/complexity72h2024/</guid>
-      <description>
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/complexity72h2024/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/complexity72h2024/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;109&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;Young researchers in Complex Systems, &lt;strong&gt;Complexity72h&lt;/strong&gt; is now 
-&lt;a href=&#34;https://complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open for applications&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;C72h is an interdisciplinary workshop where participants form teams and carry out projects in 72 hours, aiming at producing and publishing online a report of the work done by the end of the 72h.&lt;/p&gt;
-&lt;p&gt;Collaborations born during previous editions led to peer-reviewed publications: 
-&lt;a href=&#34;https://iaciac.github.io/publication/non-selective-distribution-of-infectious-disease-prevention-may-outperform-risk-based-targeting/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this one&lt;/a&gt; is the spillover of a project that we started during the 2019 workshop.&lt;/p&gt;
-&lt;p&gt;This year the workshop will be in *Madrid, Spain, from 24 to 28 June, and &lt;strong&gt;I will be joining as a tutor for a project on social interactions&lt;/strong&gt;.
-Have a look at mine and others&amp;rsquo; projects 
-&lt;a href=&#34;https://complexity72h.com/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Insights from exact social contagion dynamics on networks with higher-order structures</title>
-      <link>https://iaciac.github.io/publication/insights-from-exact-social-contagion-dynamics-on-networks-with-higher-order-interactions/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/insights-from-exact-social-contagion-dynamics-on-networks-with-higher-order-interactions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hyper-cores promote localization and efficient seeding in higher-order processes</title>
-      <link>https://iaciac.github.io/publication/hyper-cores/</link>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/hyper-cores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The dynamics of higher-order novelties</title>
-      <link>https://iaciac.github.io/publication/dynamics-higher-order-novelties/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/dynamics-higher-order-novelties/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Temporal group interactions in social systems</title>
       <link>https://iaciac.github.io/post/temp-dyn-groups/</link>
-      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/temp-dyn-groups/</guid>
-      <description>&lt;p&gt;Our new preprint &lt;strong&gt;&amp;ldquo;The temporal dynamics of group interactions in higher-order social networks&amp;rdquo;&lt;/strong&gt;, together with 
+      <description>&lt;p&gt;Our study on &lt;strong&gt;&amp;ldquo;The temporal dynamics of group interactions in higher-order social networks&amp;rdquo;&lt;/strong&gt;, together with 
 &lt;a href=&#34;https://www.martonkarsai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Karsai&lt;/a&gt; and 
-&lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt; is 
-&lt;a href=&#34;https://arxiv.org/abs/2306.09967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;out on the ArXiv&lt;/a&gt;!&lt;/p&gt;
+&lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt;, is out in &lt;em&gt;Nature Communications&lt;/em&gt;! &amp;mdash;-&amp;gt; [
+&lt;a href=&#34;https://arxiv.org/abs/2306.09967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link to arXiv&lt;/a&gt;] - [
+&lt;a href=&#34;https://www.nature.com/articles/s41467-024-50918-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link to Nature Communications&lt;/a&gt;]&lt;/p&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;p&gt;The structure and behaviour of many social systems are shaped by the &lt;strong&gt;interactions among their individuals&lt;/strong&gt;. The typical approach in social network analysis consists in representing individuals as interacting in pairs, while &lt;strong&gt;many human interactions involve groups&lt;/strong&gt; of many different sizes.&lt;/p&gt;
@@ -632,7 +143,7 @@ These complex patterns are &lt;strong&gt;the results of microscopic individual-l
 &lt;p&gt;Understanding these mechanisms &amp;mdash;&lt;strong&gt;how these groups form, evolve&lt;/strong&gt;, and &lt;strong&gt;how people move across groups&lt;/strong&gt;&amp;mdash; is essential to better characterise the emerging group dynamics and to better model biological contagion or transfer of social norms and information.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;In this 
-&lt;a href=&#34;https://arxiv.org/abs/2306.09967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new preprint&lt;/a&gt;, together with 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-024-50918-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new study&lt;/a&gt;, together with 
 &lt;a href=&#34;https://www.martonkarsai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Karsai&lt;/a&gt; and 
 &lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt;, we study the temporal dynamics of groups through empirical traces of social interactions. Leveraging two publicly-available data sets of temporally-resolved human interactions among 
 &lt;a href=&#34;https://www.nature.com/articles/s41597-022-01756-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preschool children&lt;/a&gt; and 
@@ -861,10 +372,500 @@ elsewhere during the weekend, the distributions of their group interactions depe
     </item>
     
     <item>
+      <title>The networks of ingredient combination in cuisines around the world</title>
+      <link>https://iaciac.github.io/publication/networks-ingredient-combination/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/networks-ingredient-combination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The temporal dynamics of group interactions in higher-order social networks</title>
+      <link>https://iaciac.github.io/publication/temporal-dynamics-group-interactions-higher-order-social-networks/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/temporal-dynamics-group-interactions-higher-order-social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structural evolution of temporal hypergraphs through the lens of hyper-cores</title>
+      <link>https://iaciac.github.io/publication/temporal-hyper-cores/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/temporal-hyper-cores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing mechanisms of social contagion from local network view</title>
+      <link>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/distinguishing-mechanisms-social-contagion-local-network-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A SocioPatterns study during the Complexity 72h Workshop</title>
+      <link>https://iaciac.github.io/news/sociopatterns-c72h/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/news/sociopatterns-c72h/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/sociopatterns-c72h/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/news/sociopatterns-c72h/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;109&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This year, the 
+&lt;a href=&#34;https://complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity 72h&lt;/a&gt; workshop, in association with 
+&lt;a href=&#34;https://www.isi.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;, 
+&lt;a href=&#34;https://www.cnrs.fr/fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNRS&lt;/a&gt;, 
+&lt;a href=&#34;https://www.uc3m.es/mathematics-department/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carlos III University of Madrid&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.nulondon.ac.uk/faculties/network-science-institute-london/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University London&lt;/a&gt;, will host a scientific study that will take place during the workshop itself.&lt;/p&gt;
+&lt;p&gt;Over the last 15 years, the 
+&lt;a href=&#34;www.sociopatterns.org&#34;&gt;SocioPatterns collaboration&lt;/a&gt; led by 
+&lt;a href=&#34;https://www.isi.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt; (Turin, Italy) and the 
+&lt;a href=&#34;https://www.cpt.univ-mrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aix-Marseille University&lt;/a&gt; (Marseille, France) has developed wearable proximity sensors to assess proximity of individuals, carrying out measurements in over 12 countries, engaging more than 50,000 participants, in contexts that spanned hospitals, primary schools, high-schools, social gathering conferences, households, including various environments in low and middle income countries in Africa. The 
+&lt;a href=&#34;http://www.sociopatterns.org/publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data released by the collaboration&lt;/a&gt; have been used in over 2,000 scientific papers in domains that span network science, computational epidemiology, computational social science, and more.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/sociopatterns-c72h/sociopatterns_hu219a8da4d3b0c7d6d81139fc181d1a3f_1481_2000x2000_fit_lanczos_3.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/news/sociopatterns-c72h/sociopatterns_hu219a8da4d3b0c7d6d81139fc181d1a3f_1481_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;51&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The Complexity 72h workshop &lt;strong&gt;will deploy the SocioPatterns setup&lt;/strong&gt; during its 5th edition in Madrid. The goal is to further understand the characteristics and the dynamics of face-to-face interactions between individuals within this unique context. The setup of this study is straightforward and participant-friendly. Each individual who consents to participate will receive a small sensor, which will be attached to their badge for the duration of the workshop. These sensors are designed to detect other nearby sensors, facilitating the privacy-conscious collection of data on face-to-face interactions between participants. It is important to note that no other signals, such as sound, will be recorded. Optionally, participants will be able to share additional information about themselves, including gender, academic title, field of research, nationality, and previously known workshop participants. Such information is extremely valuable as it allows for deeper studies of the mechanisms by which people meet and join forces. Along this line, additional surveys will also be deployed through a web application, specifically designed to gather context-specific information regarding the dynamics and interactions within the team, offering further insights into the mechanisms of collaboration.&lt;/p&gt;
+&lt;p&gt;The data collected will be stored in secured GDPR-compliant servers with access limited to the organizers of the workshop and the experiment. Participants will have early access to aggregated data that will be later released and made publicly available. The project has been reviewed and approved by the Northeastern University London Research Ethics Committee and it follows the 
+&lt;a href=&#34;https://www.nulondon.ac.uk/academic-handbook/policies-and-procedures/data-protection/data-protection-policy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NUL data protection policy&lt;/a&gt;. Further details will be available in the Participant Information Sheets.&lt;/p&gt;
+&lt;p&gt;This is the first time that the workshop hosts a SocioPatterns study, and hopefully it will not be the last. Researchers of the SocioPatterns collaboration, the co-founders 
+&lt;a href=&#34;https://www.cirocattuto.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciro Cattuto&lt;/a&gt; (ISI Foundation) and 
+&lt;a href=&#34;https://www.cpt.univ-mrs.fr/~barrat/english.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alain Barrat&lt;/a&gt; (CPT, CNRS), and 
+&lt;a href=&#34;https://lorenzodallamico.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lorenzo Dall’Amico&lt;/a&gt; (ISI Foundation) will be present at the workshop. This study is a very good opportunity to gather valuable data about human interactions, and to present the SocioPatterns setup to the Complexity 72h community. All participants are encouraged to take part in this great pilot study!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;ISI.svg&#34; &gt;
+
+
+  &lt;img src=&#34;ISI.svg&#34; alt=&#34;&#34; width=&#34;350&#34; &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/sociopatterns-c72h/CPT_hu676b6c9daa0b2e26feec2430692cac6b_96621_2000x2000_fit_lanczos_3.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/news/sociopatterns-c72h/CPT_hu676b6c9daa0b2e26feec2430692cac6b_96621_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;869&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/sociopatterns-c72h/UC3M_hu56aeb9f93215ccab74d3da96fce1c324_43984_2000x2000_fit_q90_h2_lanczos_2.webp&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/news/sociopatterns-c72h/UC3M_hu56aeb9f93215ccab74d3da96fce1c324_43984_2000x2000_fit_q90_h2_lanczos_2.webp&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;350&#34; height=&#34;1000&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/sociopatterns-c72h/NUL_hubdfdff0c68649c84640310911e51640d_22384_2000x2000_fit_lanczos_3.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/news/sociopatterns-c72h/NUL_hubdfdff0c68649c84640310911e51640d_22384_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;601&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Featured story in Northeastern Global News</title>
+      <link>https://iaciac.github.io/news/ngn-ptrsb/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/news/ngn-ptrsb/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/ngn-ptrsb/featured_hu4b20dcb1519eb3db03dac5d5f9fb785a_253929_2000x2000_fit_lanczos_3.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/news/ngn-ptrsb/featured_hu4b20dcb1519eb3db03dac5d5f9fb785a_253929_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;1166&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;A news story on the 
+&lt;a href=&#34;https://royalsocietypublishing.org/doi/10.1098/rstb.2023.0190&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recent article&lt;/a&gt; published in &lt;em&gt;Philosophical Transactions of the Royal Society B&lt;/em&gt; was recently covered on 
+&lt;a href=&#34;https://news.northeastern.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern Global News&lt;/a&gt;. Read it 
+&lt;a href=&#34;https://news.northeastern.edu/2024/05/21/how-do-birds-communicate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Not your private tête-à-tête: leveraging the power of higher-order networks to study animal communication</title>
+      <link>https://iaciac.github.io/publication/higher-order-animal-communication/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/higher-order-animal-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1st edition of CRAB: Complexity Research in Animal Behaviour!</title>
+      <link>https://iaciac.github.io/news/crab2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/news/crab2024/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/crab2024/featured_hu9fe31f1b3d3fce3d70356846c3a8795e_1269727_2000x2000_fit_lanczos_3.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/news/crab2024/featured_hu9fe31f1b3d3fce3d70356846c3a8795e_1269727_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;1024&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I am super excited to announce the 1st edition of &lt;strong&gt;CRAB: Complexity Research in Animal Behaviour&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sites.google.com/view/crab2024/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAB 2024&lt;/a&gt; has been selected as a Satellite event at the 
+&lt;a href=&#34;https://ccs24.cssociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference ComplexSystems 2024&lt;/a&gt; (CCS), which will be held in Exeter, UK, from September 2nd to 6th, 2024, and will be a cross-disciplinary meeting to encourage greater exchange between the fields of &lt;strong&gt;Complexity&lt;/strong&gt; and &lt;strong&gt;Animal Behaviour&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;While massive steps forward have happened in applying complex systems approaches —such as social network analysis— to study animal behaviour, there remains limited exchange between the research fields!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The call for abstracts is 
+&lt;a href=&#34;https://easychair.org/conferences/?conf=crab2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;now open&lt;/a&gt;!&lt;/strong&gt;
+Are you working Animal social networks, Collective animal behaviour, Animal communication, Animal cognition, Disease ecology, Evolutionary biology, or related topics? Send us an abstract to give a contributed presentation!&lt;/p&gt;
+&lt;p&gt;Useful links and info:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://easychair.org/conferences/?conf=crab2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Submission website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Submission deadline: June 17, 2024&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/view/crab2024/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Satellite website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ccs24.cssociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Main conference website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD opening in Network Science!</title>
+      <link>https://iaciac.github.io/news/phd-scholarship2024/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/news/phd-scholarship2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PhD opening in Network Science&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a &lt;strong&gt;fully Funded PhD Scholarship&lt;/strong&gt; in Network Science for UK or international students.
+Come and join me at the 
+&lt;a href=&#34;https://www.networkscienceinstitute.org/hubs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;newly launched hub&lt;/a&gt; of the 
+&lt;a href=&#34;https://www.networkscienceinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Science Institute&lt;/a&gt; at 
+&lt;a href=&#34;https://www.nulondon.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University London&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Subject areas&lt;/strong&gt;: Complex Systems, Network Science, Data Science, Computational Social Science, Animal Behaviour, Social Networks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Application deadline&lt;/strong&gt;: 1 April 2024&lt;br&gt;
+&lt;strong&gt;Expected starting date&lt;/strong&gt;: 1 October 2024&lt;/p&gt;
+&lt;p&gt;More info on how to apply, details of the position, requirements, etc. can be found 
+&lt;a href=&#34;https://www.jobs.ac.uk/job/DGH718/northeastern-university-london-fully-funded-phd-scholarship-network-and-data-science-to-model-the-behaviour-of-complex-systems-of-human-and-non-human-social-animals&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Do not hesitate to &lt;strong&gt;get in touch&lt;/strong&gt; for more info/general enquiries before the application deadline: 
+&lt;a href=&#34;mailto:iacopo.iacopini@nulondon.ac.uk&#34;&gt;iacopo.iacopini@nulondon.ac.uk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=dMnEcz5QUXs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;video_screen.png&#34; alt=&#34;Virtual Campus Tour&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New edition of Complexity 72h!</title>
+      <link>https://iaciac.github.io/news/complexity72h2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/news/complexity72h2024/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/complexity72h2024/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/news/complexity72h2024/featured_huea51d54a99fd68b1848b5fb8b1aa90ca_65723_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;109&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Young researchers in Complex Systems, &lt;strong&gt;Complexity72h&lt;/strong&gt; is now 
+&lt;a href=&#34;https://complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open for applications&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;C72h is an interdisciplinary workshop where participants form teams and carry out projects in 72 hours, aiming at producing and publishing online a report of the work done by the end of the 72h.&lt;/p&gt;
+&lt;p&gt;Collaborations born during previous editions led to peer-reviewed publications: 
+&lt;a href=&#34;https://iaciac.github.io/publication/non-selective-distribution-of-infectious-disease-prevention-may-outperform-risk-based-targeting/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this one&lt;/a&gt; is the spillover of a project that we started during the 2019 workshop.&lt;/p&gt;
+&lt;p&gt;This year the workshop will be in *Madrid, Spain, from 24 to 28 June, and &lt;strong&gt;I will be joining as a tutor for a project on social interactions&lt;/strong&gt;.
+Have a look at mine and others&amp;rsquo; projects 
+&lt;a href=&#34;https://complexity72h.com/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Insights from exact social contagion dynamics on networks with higher-order structures</title>
+      <link>https://iaciac.github.io/publication/insights-from-exact-social-contagion-dynamics-on-networks-with-higher-order-interactions/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/insights-from-exact-social-contagion-dynamics-on-networks-with-higher-order-interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyper-cores promote localization and efficient seeding in higher-order processes</title>
+      <link>https://iaciac.github.io/publication/hyper-cores/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/hyper-cores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of higher-order novelties</title>
+      <link>https://iaciac.github.io/publication/dynamics-higher-order-novelties/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/dynamics-higher-order-novelties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>I&#39;m joining the NU Network Science Institute!</title>
-      <link>https://iaciac.github.io/post/nul/</link>
+      <link>https://iaciac.github.io/news/nul/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/nul/</guid>
+      <guid>https://iaciac.github.io/news/nul/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Back in London&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;Extremely happy to share that I am joining the 
 &lt;a href=&#34;https://www.networkscienceinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Science Institute&lt;/a&gt; at 
@@ -898,10 +899,10 @@ I will be an Assistant Professor at the
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/nul/NetworkScienceInstitute_logo_hu1edcc1966aae37efe4acf96ee48d2b70_774242_2000x2000_fit_lanczos_3.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/nul/NetworkScienceInstitute_logo_hu1edcc1966aae37efe4acf96ee48d2b70_774242_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/nul/NetworkScienceInstitute_logo_hu1edcc1966aae37efe4acf96ee48d2b70_774242_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;570&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/news/nul/NetworkScienceInstitute_logo_hu1edcc1966aae37efe4acf96ee48d2b70_774242_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;570&#34;&gt;
 &lt;/a&gt;
 
 
@@ -934,10 +935,10 @@ I will be an Assistant Professor at the
 &lt;figure id=&#34;figure-view-from-devon-house&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/nul/NULondon_view_hu20634cc0e0311429885caabc810e5841_5784782_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;View from Devon House&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/news/nul/NULondon_view_hu20634cc0e0311429885caabc810e5841_5784782_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;View from Devon House&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://iaciac.github.io/post/nul/NULondon_view_hu20634cc0e0311429885caabc810e5841_5784782_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;4624&#34;&gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/news/nul/NULondon_view_hu20634cc0e0311429885caabc810e5841_5784782_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;4624&#34;&gt;
 &lt;/a&gt;
 
 
@@ -963,9 +964,9 @@ I will be an Assistant Professor at the
     
     <item>
       <title>New Python package for higher-order interactions!</title>
-      <link>https://iaciac.github.io/post/xgi/</link>
+      <link>https://iaciac.github.io/news/xgi/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/xgi/</guid>
+      <guid>https://iaciac.github.io/news/xgi/</guid>
       <description>&lt;p&gt;Comple(X) (G)roup (I)nteractions (XGI) is a new Python package for the representation, study and visualization of complex systems composed by units that interact in groups of arbitrary size (not necessarily in dyads). Strongly inspired by 
 &lt;a href=&#34;https://networkx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetworkX&lt;/a&gt;, 
 &lt;a href=&#34;https://xgi.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XGI&lt;/a&gt; allows the user to encode higher-order interactions into hypergraphs and simplicial complexes (see 
@@ -1031,197 +1032,12 @@ I will be an Assistant Professor at the
     </item>
     
     <item>
-      <title>Group interactions modulate critical mass dynamics in social convention</title>
-      <link>https://iaciac.github.io/publication/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social interactions affect discovery processes</title>
-      <link>https://iaciac.github.io/publication/social-interactions-affect-discovery-processes/</link>
-      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/social-interactions-affect-discovery-processes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs</title>
-      <link>https://iaciac.github.io/publication/influential-groups-hypergraph-contagion/</link>
-      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/influential-groups-hypergraph-contagion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New perspective article beyond pairwise interactions!</title>
-      <link>https://iaciac.github.io/post/higher-order-natphys/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/higher-order-natphys/</guid>
-      <description>&lt;p&gt;Our perspective paper just got published in &lt;strong&gt;Nature Physics&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;👉👉👉
-&lt;a href=&#34;https://www.nature.com/articles/s41567-021-01371-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;The physics of higher-order interactions in complex systems&amp;rdquo;&lt;/strong&gt;&lt;/a&gt; 👈👈👈&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The physics of higher-order interactions in complex systems</title>
-      <link>https://iaciac.github.io/publication/physics-higher-order-interactions/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/physics-higher-order-interactions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The structural architecture of international industry networks in the global economy</title>
-      <link>https://iaciac.github.io/publication/structural-architecture-international-industry-networks/</link>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/structural-architecture-international-industry-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simplicial contagion in temporal higher-order networks</title>
-      <link>https://iaciac.github.io/publication/simplicial-contagion-temporal-networks/</link>
-      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/simplicial-contagion-temporal-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>London in lockdown: Mobility in the Pandemic City</title>
-      <link>https://iaciac.github.io/publication/london/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/london/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New perspective article on adoption processes!</title>
-      <link>https://iaciac.github.io/post/dual/</link>
-      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/dual/</guid>
-      <description>&lt;p&gt;Our new mini-review/perspective paper, written with 
-&lt;a href=&#34;http://www.maths.qmul.ac.uk/~latora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Latora&lt;/a&gt;, just got published in &lt;strong&gt;Frontiers in Physics&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;👉👉👉
-&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fphy.2021.604102/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;On the dual nature of adoption processes in complex networks&amp;rdquo;&lt;/strong&gt;&lt;/a&gt; 👈👈👈&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;abstract.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Adoption processes in socio-technological systems have been widely studied both empirically and theoretically. In this paper, we focus on network approaches that aim at capturing and modeling the fundamental mechanisms behind the social dynamics of &lt;strong&gt;adoption&lt;/strong&gt;. The processes through which humans discover and adopt novel items–where by items we indicate not only artefacts or new technological or commercial products, but also concepts, ideas, social norms and behaviors–can be described in two radically different ways, both involving the presence of a complex network, whose nature is different in the two cases.&lt;/p&gt;
-&lt;p&gt;Indeed, on one hand item adoption can be seen as a &lt;strong&gt;contagion dynamics&lt;/strong&gt; over a social network of individuals influencing each others through their social connections. On the other hand it can be described as an &lt;strong&gt;exploration dynamics&lt;/strong&gt; over a network of similarities among the different possible items that an individual can adopt.&lt;/p&gt;
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-illustration-of-a-contagion-process-the-adoption-of-norms-behaviors-ideas-technological-items-etc-is-typically-modeled-as-a-spreading-process-over-a-network-of-social-contacts-red-and-blue-nodes-of-the-social-network-denote-respectively-the-adopters-or-infected-individuals-and-the-non-adopters-or-susceptible-of-the-item-that-is-spreading-for-example-in-a-a-smoker-transmits-thebadhabit-to-its-neighboring-agents-which-in-turn-can-transmit-it-again-through-their-social-links-b&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Illustration of a contagion process. The adoption of norms, behaviors, ideas, technological items, etc., is typically modeled as a spreading process over a network of social contacts. Red and blue nodes of the social network denote respectively the adopters (or infected individuals) and the non-adopters (or susceptible) of the item that is spreading. For example, in (A) a smoker transmits the—bad—habit to its neighboring agents, which in turn can transmit it again through their social links (B).&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;810&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Illustration of a contagion process. The adoption of norms, behaviors, ideas, technological items, etc., is typically modeled as a spreading process over a network of social contacts. Red and blue nodes of the social network denote respectively the adopters (or infected individuals) and the non-adopters (or susceptible) of the item that is spreading. For example, in (A) a smoker transmits the—bad—habit to its neighboring agents, which in turn can transmit it again through their social links (B).
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;In the first case a single item (a single product, idea, or behavior) is considered at once, and the transmission from one individual to another over a social system is modeled as an 
-&lt;a href=&#34;https://www.nature.com/articles/204225a0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;epidemic-like spreading process&lt;/a&gt; across the links of a social network. Hence, the focus here is on the complex (and sometimes 
-&lt;a href=&#34;https://www.nature.com/articles/s41467-019-10431-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;higher-order&lt;/a&gt;)structure of the underlying social network.&lt;/p&gt;
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-illustration-of-an-exploration-processthe-cognitive-process-through-which-an-individual-agent-explores-the-space-of-possibilities-in-search-of-novel-items-novel-ideas-technological-discoveries-is-usually-modeled-as-a-walk-over-a-network-of-relations-similarities-or-proximity-among-items-for-example-in-a-the-agent-discovers-item-beta-and-then-continues-the-exploration-over-the-links-of-the-network-by-sequentially-moving-to-node-gamma-and-then-to-node-delta-in-b-three-items-have-been-discovered-and-the-exploratory-walk-can-be-seen-as-a-sequence-of-symbols-representing-the-visited-nodes&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Illustration of an exploration process.The cognitive process through which an individual agent explores the space of possibilities in search of novel items (novel ideas, technological discoveries) is usually modeled as a walk over a network of relations similarities or proximity) among items. For example, in (A) the agent discovers item $\beta$ and then continues the exploration over the links of the network by sequentially moving to node $\gamma$ and then to node $\delta$. In (B) three items have been discovered, and the exploratory walk can be seen as a sequence of symbols representing the visited nodes.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;767&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Illustration of an exploration process.The cognitive process through which an individual agent explores the space of possibilities in search of novel items (novel ideas, technological discoveries) is usually modeled as a walk over a network of relations similarities or proximity) among items. For example, in (A) the agent discovers item $\beta$ and then continues the exploration over the links of the network by sequentially moving to node $\gamma$ and then to node $\delta$. In (B) three items have been discovered, and the exploratory walk can be seen as a sequence of symbols representing the visited nodes.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;In the second case, the main focus is instead on the network of existing relations between different items. Hence, the modeling attention is shifted towards the 
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S235215462030142X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cognitive processes&lt;/a&gt; through which single individuals 
-&lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.048301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explore the space of different possibilities&lt;/a&gt; and produce sequences of explored items in search of 
-&lt;a href=&#34;https://www.nature.com/articles/srep05890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;novelties&lt;/a&gt;. In this latter way of interpreting adoption dynamics, different exploration (and innovation) models have been proposed to replicate the (sometimes 
-&lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multi-agent&lt;/a&gt;) processes of exploration according to which one idea, concept or item leads to another, and a discovery can trigger further ones.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fphy.2021.604102/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;, we provide a brief overview of the existing models of social spreading and exploration and of the latest advancements in both directions. We propose to look at them as two complementary aspects of the same adoption process: on one hand there are items spreading over a social network of individuals influencing each others, on the other hand individuals explore a network of similarities among items to adopt. The two-fold nature of the approach proposed opens up new stimulating challenges for the scientific community of network and data scientists. We conclude by outlining some possible directions that we believe may be relevant to explore in the coming years.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the dual nature of adoption processes in complex networks</title>
-      <link>https://iaciac.github.io/publication/dual/</link>
-      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/dual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>How can minorities of regular individuals overturn social conventions?</title>
       <link>https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</link>
-      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</guid>
-      <description>&lt;p&gt;Our new preprint &amp;ldquo;Group interactions modulate critical mass dynamics in social convention&amp;rdquo; is 
-&lt;a href=&#34;https://arxiv.org/abs/2103.10411&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;out on the ArXiv&lt;/a&gt;!&lt;/p&gt;
+      <description>&lt;p&gt;Our study &amp;ldquo;Group interactions modulate critical mass dynamics in social convention&amp;rdquo; is 
+&lt;a href=&#34;https://www.nature.com/articles/s42005-022-00845-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;out on Communications Physics&lt;/a&gt;!&lt;/p&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;How can minorities of regular individuals overturn social conventions?&lt;/strong&gt; The 
@@ -1322,7 +1138,7 @@ I will be an Assistant Professor at the
 So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;In this 
-&lt;a href=&#34;https://arxiv.org/abs/2103.10411&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new preprint&lt;/a&gt;, together with 
+&lt;a href=&#34;https://www.nature.com/articles/s42005-022-00845-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new work&lt;/a&gt;, together with 
 &lt;a href=&#34;https://lordgrilo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Petri&lt;/a&gt;, 
 &lt;a href=&#34;https://sites.google.com/site/andreabaronchelli/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Baronchelli&lt;/a&gt; and 
 &lt;a href=&#34;http://www.cpt.univ-mrs.fr/~barrat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Barrat&lt;/a&gt;, we give a mechanistic explanation of how such small minorities can emerge. In particular, we show that the critical mass required to induce norm change is dramatically reduced when non-committed members of the population are less susceptible to social influence than previously assumed.&lt;/p&gt;
@@ -1504,7 +1320,7 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
 &lt;a href=&#34;https://gking.harvard.edu/files/gking/files/how_the_chinese_government_fabricates_social_media_posts_for_strategic_distraction_not_engaged_argument.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;social media infiltrations by the Chinese government&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;On the other hand, understanding how &lt;strong&gt;policy can create tipping points&lt;/strong&gt; where none exist and how it can push the system past the tipping point are fundamental questions whose answer might change the way in which we address major 
 &lt;a href=&#34;https://science.sciencemag.org/content/354/6308/42&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;societal challenges&lt;/a&gt;, such as 
-&lt;a href=&#34;https://science.sciencemag.org/content/364/6436/132?rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accelerating the post- carbon transition&lt;/a&gt; or 
+&lt;a href=&#34;https://science.sciencemag.org/content/364/6436/132?rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accelerating the post-carbon transition&lt;/a&gt; or 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1364661321000334&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contrasting vaccine-hesitancy&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 
@@ -1553,6 +1369,191 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
     </item>
     
     <item>
+      <title>Group interactions modulate critical mass dynamics in social convention</title>
+      <link>https://iaciac.github.io/publication/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/group-interactions-modulate-critical-mass-dynamics-in-social-convention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social interactions affect discovery processes</title>
+      <link>https://iaciac.github.io/publication/social-interactions-affect-discovery-processes/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/social-interactions-affect-discovery-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs</title>
+      <link>https://iaciac.github.io/publication/influential-groups-hypergraph-contagion/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/influential-groups-hypergraph-contagion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New perspective article beyond pairwise interactions!</title>
+      <link>https://iaciac.github.io/news/higher-order-natphys/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/news/higher-order-natphys/</guid>
+      <description>&lt;p&gt;Our perspective paper just got published in &lt;strong&gt;Nature Physics&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;👉👉👉
+&lt;a href=&#34;https://www.nature.com/articles/s41567-021-01371-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;The physics of higher-order interactions in complex systems&amp;rdquo;&lt;/strong&gt;&lt;/a&gt; 👈👈👈&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The physics of higher-order interactions in complex systems</title>
+      <link>https://iaciac.github.io/publication/physics-higher-order-interactions/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/physics-higher-order-interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structural architecture of international industry networks in the global economy</title>
+      <link>https://iaciac.github.io/publication/structural-architecture-international-industry-networks/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/structural-architecture-international-industry-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplicial contagion in temporal higher-order networks</title>
+      <link>https://iaciac.github.io/publication/simplicial-contagion-temporal-networks/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/simplicial-contagion-temporal-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>London in lockdown: Mobility in the Pandemic City</title>
+      <link>https://iaciac.github.io/publication/london/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the dual nature of adoption processes in complex networks</title>
+      <link>https://iaciac.github.io/publication/dual/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do discovery and contagion processes share?</title>
+      <link>https://iaciac.github.io/post/dual/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/post/dual/</guid>
+      <description>&lt;p&gt;Our new mini-review/perspective paper, written with 
+&lt;a href=&#34;http://www.maths.qmul.ac.uk/~latora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Latora&lt;/a&gt;, just got published in &lt;strong&gt;Frontiers in Physics&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;👉👉👉
+&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fphy.2021.604102/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;On the dual nature of adoption processes in complex networks&amp;rdquo;&lt;/strong&gt;&lt;/a&gt; 👈👈👈&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;abstract.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Adoption processes in socio-technological systems have been widely studied both empirically and theoretically. In this paper, we focus on network approaches that aim at capturing and modeling the fundamental mechanisms behind the social dynamics of &lt;strong&gt;adoption&lt;/strong&gt;. The processes through which humans discover and adopt novel items–where by items we indicate not only artefacts or new technological or commercial products, but also concepts, ideas, social norms and behaviors–can be described in two radically different ways, both involving the presence of a complex network, whose nature is different in the two cases.&lt;/p&gt;
+&lt;p&gt;Indeed, on one hand item adoption can be seen as a &lt;strong&gt;contagion dynamics&lt;/strong&gt; over a social network of individuals influencing each others through their social connections. On the other hand it can be described as an &lt;strong&gt;exploration dynamics&lt;/strong&gt; over a network of similarities among the different possible items that an individual can adopt.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-illustration-of-a-contagion-process-the-adoption-of-norms-behaviors-ideas-technological-items-etc-is-typically-modeled-as-a-spreading-process-over-a-network-of-social-contacts-red-and-blue-nodes-of-the-social-network-denote-respectively-the-adopters-or-infected-individuals-and-the-non-adopters-or-susceptible-of-the-item-that-is-spreading-for-example-in-a-a-smoker-transmits-thebadhabit-to-its-neighboring-agents-which-in-turn-can-transmit-it-again-through-their-social-links-b&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Illustration of a contagion process. The adoption of norms, behaviors, ideas, technological items, etc., is typically modeled as a spreading process over a network of social contacts. Red and blue nodes of the social network denote respectively the adopters (or infected individuals) and the non-adopters (or susceptible) of the item that is spreading. For example, in (A) a smoker transmits the—bad—habit to its neighboring agents, which in turn can transmit it again through their social links (B).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig1_huf1857d3375c130ac24516756fb125b64_332484_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;810&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Illustration of a contagion process. The adoption of norms, behaviors, ideas, technological items, etc., is typically modeled as a spreading process over a network of social contacts. Red and blue nodes of the social network denote respectively the adopters (or infected individuals) and the non-adopters (or susceptible) of the item that is spreading. For example, in (A) a smoker transmits the—bad—habit to its neighboring agents, which in turn can transmit it again through their social links (B).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the first case a single item (a single product, idea, or behavior) is considered at once, and the transmission from one individual to another over a social system is modeled as an 
+&lt;a href=&#34;https://www.nature.com/articles/204225a0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;epidemic-like spreading process&lt;/a&gt; across the links of a social network. Hence, the focus here is on the complex (and sometimes 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-019-10431-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;higher-order&lt;/a&gt;)structure of the underlying social network.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-illustration-of-an-exploration-processthe-cognitive-process-through-which-an-individual-agent-explores-the-space-of-possibilities-in-search-of-novel-items-novel-ideas-technological-discoveries-is-usually-modeled-as-a-walk-over-a-network-of-relations-similarities-or-proximity-among-items-for-example-in-a-the-agent-discovers-item-beta-and-then-continues-the-exploration-over-the-links-of-the-network-by-sequentially-moving-to-node-gamma-and-then-to-node-delta-in-b-three-items-have-been-discovered-and-the-exploratory-walk-can-be-seen-as-a-sequence-of-symbols-representing-the-visited-nodes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Illustration of an exploration process.The cognitive process through which an individual agent explores the space of possibilities in search of novel items (novel ideas, technological discoveries) is usually modeled as a walk over a network of relations similarities or proximity) among items. For example, in (A) the agent discovers item $\beta$ and then continues the exploration over the links of the network by sequentially moving to node $\gamma$ and then to node $\delta$. In (B) three items have been discovered, and the exploratory walk can be seen as a sequence of symbols representing the visited nodes.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://iaciac.github.io/post/dual/Fig2_hu2849fd07e59a2437723c34d95be37c43_163666_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;767&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Illustration of an exploration process.The cognitive process through which an individual agent explores the space of possibilities in search of novel items (novel ideas, technological discoveries) is usually modeled as a walk over a network of relations similarities or proximity) among items. For example, in (A) the agent discovers item $\beta$ and then continues the exploration over the links of the network by sequentially moving to node $\gamma$ and then to node $\delta$. In (B) three items have been discovered, and the exploratory walk can be seen as a sequence of symbols representing the visited nodes.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the second case, the main focus is instead on the network of existing relations between different items. Hence, the modeling attention is shifted towards the 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S235215462030142X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cognitive processes&lt;/a&gt; through which single individuals 
+&lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.048301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explore the space of different possibilities&lt;/a&gt; and produce sequences of explored items in search of 
+&lt;a href=&#34;https://www.nature.com/articles/srep05890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;novelties&lt;/a&gt;. In this latter way of interpreting adoption dynamics, different exploration (and innovation) models have been proposed to replicate the (sometimes 
+&lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multi-agent&lt;/a&gt;) processes of exploration according to which one idea, concept or item leads to another, and a discovery can trigger further ones.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fphy.2021.604102/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;, we provide a brief overview of the existing models of social spreading and exploration and of the latest advancements in both directions. We propose to look at them as two complementary aspects of the same adoption process: on one hand there are items spreading over a social network of individuals influencing each others, on the other hand individuals explore a network of similarities among items to adopt. The two-fold nature of the approach proposed opens up new stimulating challenges for the scientific community of network and data scientists. We conclude by outlining some possible directions that we believe may be relevant to explore in the coming years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Modelling the social dynamics of contagion and discovery using dynamical processes on complex networks</title>
       <link>https://iaciac.github.io/publication/phd-thesis/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
@@ -1562,9 +1563,9 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
     
     <item>
       <title>Our &#39;Interacting discovery processes on complex networks&#39; featured on Nature Italy!</title>
-      <link>https://iaciac.github.io/post/urnet_natureita/</link>
+      <link>https://iaciac.github.io/news/urnet_natureita/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/urnet_natureita/</guid>
+      <guid>https://iaciac.github.io/news/urnet_natureita/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Our 
 &lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Interacting discovery processes on complex networks&amp;rdquo;&lt;/a&gt;, recently published on PRL (see also summary 
@@ -1577,18 +1578,10 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
     
     <item>
       <title>Interactive discovery processes on complex networks</title>
-      <link>https://iaciac.github.io/publication/urnet/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/publication/urnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Out in Physical Review Letters!</title>
       <link>https://iaciac.github.io/post/urnet/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://iaciac.github.io/post/urnet/</guid>
-      <description>&lt;p&gt;New paper &lt;strong&gt;&amp;ldquo;Interactive discovery processes on complex networks&amp;rdquo;&lt;/strong&gt; with 
+      <description>&lt;p&gt;Our paper &lt;strong&gt;&amp;ldquo;Interactive discovery processes on complex networks&amp;rdquo;&lt;/strong&gt; with 
 &lt;a href=&#34;https://www.qmul.ac.uk/maths/profiles/dibonag.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Di Bona&lt;/a&gt;, 
 &lt;a href=&#34;https://csl.sony.fr/team/dr-enrico-ubaldi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E. Ubaldi&lt;/a&gt;, 
 &lt;a href=&#34;http://socialdynamics.it/vittorioloreto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V. Loreto&lt;/a&gt; and 
@@ -1796,10 +1789,18 @@ So&amp;hellip; &lt;strong&gt;where does the critical mass itself come from?&lt;/
     </item>
     
     <item>
+      <title>Interactive discovery processes on complex networks</title>
+      <link>https://iaciac.github.io/publication/urnet/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://iaciac.github.io/publication/urnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Out in Physics Reports!</title>
-      <link>https://iaciac.github.io/post/beyond_physrep/</link>
+      <link>https://iaciac.github.io/news/beyond_physrep/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/beyond_physrep/</guid>
+      <guid>https://iaciac.github.io/news/beyond_physrep/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/beyond_physrep/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Check out the full review 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0370157320302489&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
@@ -1868,9 +1869,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>TopoNets 2020 @ NetSci!</title>
-      <link>https://iaciac.github.io/post/toponets2020/</link>
+      <link>https://iaciac.github.io/news/toponets2020/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/toponets2020/</guid>
+      <guid>https://iaciac.github.io/news/toponets2020/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/toponets2020/featured.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Together with 
 &lt;a href=&#34;http://www.personal.ceu.edu/staff/Federico_Battiston/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;F. Battiston&lt;/a&gt;, 
@@ -1892,9 +1893,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>Out in Chaos!</title>
-      <link>https://iaciac.github.io/post/complexrecovery_chaos/</link>
+      <link>https://iaciac.github.io/news/complexrecovery_chaos/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/complexrecovery_chaos/</guid>
+      <guid>https://iaciac.github.io/news/complexrecovery_chaos/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/complexrecovery_chaos/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;New paper with 
 &lt;a href=&#34;http://www.nld.ds.mpg.de/people/schafer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B. Schäfer&lt;/a&gt;, 
@@ -1917,9 +1918,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>New one out</title>
-      <link>https://iaciac.github.io/post/brokerage/</link>
+      <link>https://iaciac.github.io/news/brokerage/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/brokerage/</guid>
+      <guid>https://iaciac.github.io/news/brokerage/</guid>
       <description>&lt;p&gt;&amp;ldquo;The brokerage role of small states and territories in global corporate networks&amp;rdquo; is now published on &lt;strong&gt;Growth and Change: A Journal of Urban and Regional Policy&lt;/strong&gt;. Another &lt;em&gt;interdisciplinary&lt;/em&gt; collaboration with 
 &lt;a href=&#34;https://research-repository.uwa.edu.au/en/persons/kirsten-martinus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K. Martinus&lt;/a&gt;, 
 &lt;a href=&#34;https://sees.uq.edu.au/profile/9602/thomas-sigler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T. Sigler&lt;/a&gt; and 
@@ -1932,9 +1933,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>Our &#39;Simplicial models of social contagion&#39; featured on Le Monde!</title>
-      <link>https://iaciac.github.io/post/simplagion_lemonde/</link>
+      <link>https://iaciac.github.io/news/simplagion_lemonde/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/simplagion_lemonde/</guid>
+      <guid>https://iaciac.github.io/news/simplagion_lemonde/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/simplagion_lemonde/featured.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Mama, I need to learn French -&amp;gt; our 
 &lt;a href=&#34;http://nature.com/articles/s41467-019-10431-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simplicial models of social contagion&lt;/a&gt; got featured yesterday on 
@@ -1952,9 +1953,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>New paper with The Royal College of Art</title>
-      <link>https://iaciac.github.io/post/creative/</link>
+      <link>https://iaciac.github.io/news/creative/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/creative/</guid>
+      <guid>https://iaciac.github.io/news/creative/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/creative/featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Creative Connectivity Project - A network based approach to understand correlations between interdisciplinary group dynamics and creative performance&amp;rdquo; is now published on &lt;strong&gt;E&amp;amp;PDE 2019&lt;/strong&gt;, Proceedings of the 21st International Conference on Engineering and Product Design Education, University of Strathclyde, Glasgow. 12th -13th September 2019.&lt;/p&gt;
 &lt;p&gt;An &lt;em&gt;interdisciplinary&lt;/em&gt; collaboration with the 
@@ -1978,9 +1979,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>Multilayer contagion with &#39;complex&#39; recovery</title>
-      <link>https://iaciac.github.io/post/complexrecovery/</link>
+      <link>https://iaciac.github.io/news/complexrecovery/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/complexrecovery/</guid>
+      <guid>https://iaciac.github.io/news/complexrecovery/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/complexrecovery/featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;New preprint (
 &lt;a href=&#34;https://arxiv.org/pdf/1907.13096.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt;) with 
@@ -2001,9 +2002,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>On the arXiv after 72h!</title>
-      <link>https://iaciac.github.io/post/complexity72h/</link>
+      <link>https://iaciac.github.io/news/complexity72h/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/complexity72h/</guid>
+      <guid>https://iaciac.github.io/news/complexity72h/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/complexity72h/featured.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Fresh out the arXiv the pre-print we wrote during the 
 &lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity 72h&lt;/a&gt; with 
@@ -2017,9 +2018,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>Out in Nature Communications!</title>
-      <link>https://iaciac.github.io/post/simplagion_natcomm/</link>
+      <link>https://iaciac.github.io/news/simplagion_natcomm/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/simplagion_natcomm/</guid>
+      <guid>https://iaciac.github.io/news/simplagion_natcomm/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/simplagion_natcomm/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;New paper with 
 &lt;a href=&#34;https://lordgrilo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Petri&lt;/a&gt;, 
@@ -2053,9 +2054,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>New paper out!</title>
-      <link>https://iaciac.github.io/post/thofc_rs/</link>
+      <link>https://iaciac.github.io/news/thofc_rs/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/thofc_rs/</guid>
+      <guid>https://iaciac.github.io/news/thofc_rs/</guid>
       <description>&lt;p&gt;&amp;ldquo;The role of tax havens and offshore financial centres in shaping corporate geographies: an industry sector perspective&amp;rdquo; is now published on &lt;strong&gt;Regional Studies&lt;/strong&gt;. Nice &lt;em&gt;interdisciplinary&lt;/em&gt; collaboration with 
 &lt;a href=&#34;https://sees.uq.edu.au/profile/9602/thomas-sigler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T. Sigler&lt;/a&gt;, 
 &lt;a href=&#34;https://research-repository.uwa.edu.au/en/persons/kirsten-martinus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K. Martinus&lt;/a&gt; and 
@@ -2086,8 +2087,8 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Pharma.png&#34; &gt;
-  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Pharma_hu39d6644e0e81fb29b6769d5b6d6aff47_137524_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/news/thofc_rs/gallery/Pharma.png&#34; &gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/news/thofc_rs/gallery/Pharma_hu39d6644e0e81fb29b6769d5b6d6aff47_137524_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2097,8 +2098,8 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Retailing.png&#34; &gt;
-  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Retailing_hu9640c6c1b0d8fb3d3034fce8080ca1c2_45701_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/news/thofc_rs/gallery/Retailing.png&#34; &gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/news/thofc_rs/gallery/Retailing_hu9640c6c1b0d8fb3d3034fce8080ca1c2_45701_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2108,8 +2109,8 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Tech.png&#34; &gt;
-  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Tech_huaa32f91ce2f7716b1608a3bd3238dd42_108887_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/news/thofc_rs/gallery/Tech.png&#34; &gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/news/thofc_rs/gallery/Tech_huaa32f91ce2f7716b1608a3bd3238dd42_108887_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2119,8 +2120,8 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Utilities.png&#34; &gt;
-  &lt;img data-src=&#34;https://iaciac.github.io/post/thofc_rs/gallery/Utilities_hu09c56daca2f97b4df38a5b7efe71d0c0_48273_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://iaciac.github.io/news/thofc_rs/gallery/Utilities.png&#34; &gt;
+  &lt;img data-src=&#34;https://iaciac.github.io/news/thofc_rs/gallery/Utilities_hu09c56daca2f97b4df38a5b7efe71d0c0_48273_0x190_resize_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -2131,9 +2132,9 @@ Finally, we give an overview of real-world applications to systems with higher-o
     
     <item>
       <title>Simplagion 2.0</title>
-      <link>https://iaciac.github.io/post/simplagion_2_arxiv/</link>
+      <link>https://iaciac.github.io/news/simplagion_2_arxiv/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://iaciac.github.io/post/simplagion_2_arxiv/</guid>
+      <guid>https://iaciac.github.io/news/simplagion_2_arxiv/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://iaciac.github.io/post/simplagion_2_arxiv/featured.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;New version (
 &lt;a href=&#34;https://arxiv.org/pdf/1810.07031v5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt;) of our &lt;em&gt;Simplicial models of social contagion&lt;/em&gt; - Now we observe a similar phenomenology in both empirical and synthetic simplicial complexes when high-order interactions are considered.&lt;/p&gt;
