@@ -1,8 +1,8 @@
 ---
 title: Publications
 
-# Listing view
-view: citation
+# Listing view [list, compact, card, citation]
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
