@@ -20,7 +20,9 @@ sections:
       text: |
         <br>
         
-        Welcome! Our group uses an interdisciplinary approach that combines physics, mathematics, data, and network science to provide insights into the complexity of **social systems and behaviors**, particularly in the areas of behavioral contagion, discovery processes, and group dynamics. We are part of the [Network Science Institute](https://www.networkscienceinstitute.org/) at [Northeastern University London](https://www.nulondon.ac.uk/).
+        Welcome! Our group uses an interdisciplinary approach that combines physics, mathematics, data, and network science to provide insights into the complexity of **social systems and behaviors**, particularly in the areas of behavioral contagion, discovery processes, and group dynamics.
+
+        We are part of the [Network Science Institute](https://www.networkscienceinstitute.org/) at [Northeastern University London](https://www.nulondon.ac.uk/).
     design:
       background:
         gradient_end: '#ffffff'
