@@ -99,7 +99,7 @@ I serve as:
 Over the last years I co-organized two focussed satellite events that take place each year:
 
 - [TopoNets](https://sites.google.com/view/toponets2025/home-page) at the annual **Conference on Network Science** (NetSci).
-- [CRAB: Complexity Research in Animal Behaviour](https://sites.google.com/view/crab2024/home) at the annual **Conference on Complex Systems** (CCS).
+- [CRAB: Complexity Research in Animal Behaviour](https://sites.google.com/view/crab2025/home) at the annual **Conference on Complex Systems** (CCS).
 
 ---
 
