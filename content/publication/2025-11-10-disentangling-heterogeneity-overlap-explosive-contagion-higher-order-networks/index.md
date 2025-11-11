@@ -1,33 +1,33 @@
 ---
 title: "Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks"
 authors: ["F. Malizia", "A. Guzmán", admin, "I. Z. Kiss"]
-date: "2025-01-29"
-doi: ""
+date: "2025-11-10"
+doi: "https://doi.org/10.1103/z3d5-94zb"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-29"
+publishDate: "2025-11-10"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv*"
+publication: "*Physical Review Letters*"
 publication_short: ""
 
-abstract: "Higher-order networks are used to model complex contagion processes in social groups of varying sizes, where heterogeneity and microscopic group arrangements can critically influence the dynamics. However, existing frameworks fail to fully capture the interplay between these features. Here, we introduce group-based compartmental modeling (GBCM), a mean-field framework for irreversible contagion that incorporates heterogeneity and captures correlations across group sizes. Validated through numerical simulations, GBCM analytically disentangles the contributions of different interaction orders to global epidemic dynamics. Our results reveal how heterogeneity and inter-order correlations shape epidemic thresholds and demonstrate that high heterogeneity in group membership drives rapid infection growth, leading to abrupt phase transitions. This provides an explanation for the emergence of explosive contagion in higher-order networks."
+abstract: "We introduce group-based compartmental modeling (GBCM), a mean-field framework for irreversible contagion in higher-order networks that captures structural heterogeneity and correlations across group sizes. Validated through numerical simulations, GBCM analytically disentangles the role of each interaction order to the global epidemic dynamics, revealing how heterogeneity and inter-order correlations jointly shape the onset of outbreaks and the emergence of explosive dynamics. Crucially, we show that inter-order correlations drive the system along distinct pathways to explosive contagion—emerging universally across both irreversible and reversible spreading processes."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: ["Higher-order", "Social contagion", "Simplicial complex", "Social dynamics"]
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://arxiv.org/abs/2501.17800"
+url_pdf: "https://journals.aps.org/prl/abstract/10.1103/z3d5-94zb"
 url_code: 
 url_dataset: ''
 url_poster: ''
