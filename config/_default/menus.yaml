@@ -25,6 +25,9 @@ main:
 #  - name: Events
 #    url: event
 #    weight: 50
+  - name: Collaborators
+    url: /collab/
+    weight: 50
   - name: About
     url: about
     weight: 60
