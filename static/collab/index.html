@@ -24,13 +24,17 @@
   }
   #panel.on { opacity:1; pointer-events:all; }
   #panel h2  { font-size:13px; color:#e0eaff; margin-bottom:3px; line-height:1.4; }
+  #panel h2 a { color:#e0eaff; text-decoration:underline; text-decoration-color:rgba(255,255,255,0.25); text-underline-offset:2px; }
+  #panel h2 a:hover { color:#aad4ff; }
   .psub  { font-size:11px; color:#6080b0; margin-bottom:10px; }
   .pbadge { display:inline-block; font-size:10px; padding:2px 8px; border-radius:20px; margin-bottom:10px; }
   .pcount { font-size:22px; font-weight:bold; color:#7ab4ff; margin-bottom:2px; }
   .pcount-label { font-size:10px; color:#4060a0; margin-bottom:10px; }
   .paper-list { font-size:11px; }
   .paper-item { padding:5px 0; border-bottom:1px solid rgba(100,150,255,0.1); color:#8090b0; line-height:1.4; }
-  .paper-item span { color:#5070b0; font-size:10px; }
+  .paper-item a { color:#8090b0; text-decoration:underline; text-decoration-color:rgba(255,255,255,0.15); text-underline-offset:2px; }
+  .paper-item a:hover { color:#aad4ff; }
+  .paper-item .meta { color:#4060a0; font-size:10px; margin-top:2px; }
   .x { position:absolute; top:10px; right:13px; cursor:pointer; color:#334; font-size:15px; }
   .x:hover { color:#7ab4ff; }
 
@@ -59,11 +63,11 @@
 <svg id="cv"></svg>
 
 <div id="title-bar">
-  <a href="https://iaciac.github.io/" target="_blank">I. Iacopini</a> – Co-authorship Network
+  <a href="https://iaciac.github.io/publication/" target="_blank">Iacopo Iacopini</a> – Co-authorship Network
 </div>
 
 <div id="panel">
-  <span class="x" id="xbtn">✕</span>
+  <span class="x" id="xbtn">&#x2715;</span>
   <h2 id="pt"></h2>
   <div class="psub" id="ps"></div>
   <div id="pb" class="pbadge"></div>
@@ -81,21 +85,21 @@
   <div class="li"><div class="ld" style="background:#4a90d9"></div>Other</div>
 </div>
 
-<div id="hint">Drag · Click · Scroll to zoom</div>
+<div id="hint">Drag &middot; Click &middot; Scroll to zoom</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script>
-const CLUSTERS = {
+var CLUSTERS = {
   contagion:  { label:"Higher-order networks & contagion", color:"#9b5de5" },
   innovation: { label:"Innovation & discovery",           color:"#e8a020" },
   urban:      { label:"Urban & economic geography",       color:"#2a9d8f" },
   epidemio:   { label:"Epidemiology & health",            color:"#e05c5c" },
   other:      { label:"Other",                            color:"#4a90d9" },
-  ego:        { label:"I. Iacopini",                  color:"#c8c8c8" },
+  ego:        { label:"I. Iacopini",                      color:"#c8c8c8" },
 };
 
-const AUTHORS = [
-  { id:0,  name:"I. Iacopini",    cluster:"ego"        },
+var AUTHORS = [
+  { id:0,  name:"I. Iacopini",        cluster:"ego"        },
   { id:1,  name:"E. Valdano",         cluster:"epidemio"   },
   { id:2,  name:"M. Wardynski",       cluster:"contagion"  },
   { id:3,  name:"G. Petri",           cluster:"contagion"  },
@@ -106,13 +110,13 @@ const AUTHORS = [
   { id:8,  name:"F. Battiston",       cluster:"contagion"  },
   { id:9,  name:"A. Santoro",         cluster:"other"      },
   { id:10, name:"F. Malizia",         cluster:"contagion"  },
-  { id:11, name:"A. Guzmán",          cluster:"contagion"  },
+  { id:11, name:"A. Guzman",          cluster:"contagion"  },
   { id:12, name:"I. Z. Kiss",         cluster:"contagion"  },
   { id:13, name:"M. Baratto",         cluster:"other"      },
   { id:14, name:"I. Casanovas",       cluster:"other"      },
   { id:15, name:"I. Decostanzi",      cluster:"other"      },
   { id:16, name:"H. M. Borges",       cluster:"other"      },
-  { id:17, name:"S. M. Alcalá",       cluster:"other"      },
+  { id:17, name:"S. M. Alcala",       cluster:"other"      },
   { id:18, name:"I. Stanzani",        cluster:"other"      },
   { id:19, name:"A. Antonioni",       cluster:"epidemio"   },
   { id:20, name:"M. Re Fiorentin",    cluster:"other"      },
@@ -143,11 +147,11 @@ const AUTHORS = [
   { id:45, name:"A. Baronchelli",     cluster:"contagion"  },
   { id:46, name:"G. St-Onge",         cluster:"contagion"  },
   { id:47, name:"A. Allard",          cluster:"contagion"  },
-  { id:48, name:"L. Hébert-Dufresne", cluster:"contagion"  },
+  { id:48, name:"L. Hebert-Dufresne", cluster:"contagion"  },
   { id:49, name:"G. Bianconi",        cluster:"contagion"  },
   { id:50, name:"E. Amico",           cluster:"contagion"  },
   { id:51, name:"B. Franceschiello",  cluster:"contagion"  },
-  { id:52, name:"S. Kéfi",            cluster:"contagion"  },
+  { id:52, name:"S. Kefi",            cluster:"contagion"  },
   { id:53, name:"M. M. Murray",       cluster:"contagion"  },
   { id:54, name:"T. P. Peixoto",      cluster:"contagion"  },
   { id:55, name:"F. Vaccarino",       cluster:"contagion"  },
@@ -168,66 +172,82 @@ const AUTHORS = [
   { id:70, name:"A. Schwarze",        cluster:"contagion"  },
   { id:71, name:"A. Patania",         cluster:"contagion"  },
   { id:72, name:"L. Torres",          cluster:"contagion"  },
-  { id:73, name:"B. Schäfer",         cluster:"urban"      },
+  { id:73, name:"B. Schafer",         cluster:"urban"      },
   { id:74, name:"E. Arcaute",         cluster:"urban"      },
   { id:75, name:"C. Beck",            cluster:"urban"      },
   { id:76, name:"A. Godoy-Lorite",    cluster:"urban"      },
   { id:77, name:"N. Zdanowska",       cluster:"urban"      },
   { id:78, name:"J. Raimbault",       cluster:"urban"      },
-  { id:79, name:"V. S. Torrisi",      cluster:"other"      },
-  { id:80, name:"S. Manfredi",        cluster:"other"      },
+  { id:79, name:"V. S. Torrisi",      cluster:"innovation" },
+  { id:80, name:"S. Manfredi",        cluster:"innovation" },
   { id:81, name:"A. Bernini",         cluster:"epidemio"   },
   { id:82, name:"E. Blouzard",        cluster:"epidemio"   },
   { id:83, name:"P. Casanova",        cluster:"epidemio"   },
-  { id:84, name:"S. Milojević",       cluster:"innovation" },
+  { id:84, name:"S. Milojevic",       cluster:"innovation" },
   { id:85, name:"J.-G. Young",        cluster:"contagion"  },
 ];
 
-const PAPERS = [
-  { title:"Discovering the laws behind complex networked systems",                                    year:2026, authors:[0,1] },
-  { title:"Modeling the Spread of Misfolded Proteins in Alzheimer's Disease",                        year:2025, authors:[0,2,3,4,5] },
-  { title:"Networks of ingredient combinations as culinary fingerprints of world cuisines",           year:2025, authors:[0,6,7,8,9,4] },
-  { title:"Disentangling heterogeneity and hyperedge overlap in explosive contagion",                 year:2025, authors:[0,10,11,12] },
-  { title:"Episcopal genealogy and ideology in the Roman Catholic Church",                            year:2025, authors:[0,13,14,15,16,17,18,19,20,1] },
-  { title:"Distinguishing mechanisms of social contagion from local network view",                    year:2025, authors:[0,21,22,23] },
-  { title:"The dynamics of higher-order novelties",                                                   year:2025, authors:[0,24,25,26,27,4] },
-  { title:"Temporal dynamics of group interactions in higher-order social networks",                  year:2024, authors:[0,23,28] },
-  { title:"Structural evolution of temporal hypergraphs through hyper-cores",                         year:2024, authors:[0,29,3,28] },
-  { title:"Higher-order networks to study animal communication",                                      year:2024, authors:[0,30,31,32,33] },
-  { title:"Insights from exact social contagion dynamics on higher-order structures",                 year:2023, authors:[0,12,34,35] },
-  { title:"Hyper-cores promote localization and efficient seeding",                                   year:2023, authors:[0,29,3,28] },
-  { title:"XGI: A Python package for higher-order interaction networks",                             year:2023, authors:[0,69,36,3,70,71,72] },
-  { title:"Simplicially driven simple contagion",                                                    year:2023, authors:[0,36,37,28,3] },
-  { title:"Quantifying human performance in chess",                                                  year:2023, authors:[0,38,8] },
-  { title:"Non-selective distribution of infectious disease prevention",                             year:2022, authors:[0,39,40,41,42,19,1] },
-  { title:"Social contagion on higher-order structures",                                             year:2022, authors:[0,28,43,44] },
-  { title:"Group interactions modulate critical mass dynamics in social convention",                  year:2022, authors:[0,3,45,28] },
-  { title:"Social interactions affect discovery processes",                                          year:2022, authors:[0,24,66,68,4,67] },
-  { title:"Influential groups for seeding nonlinear contagion in hypergraphs",                       year:2022, authors:[0,46,4,28,3,47,48] },
-  { title:"The physics of higher-order interactions in complex systems",                             year:2021, authors:[0,8,28,49,50,43,51,4,52,44,53,54,55,3] },
-  { title:"Structural architecture of international industry networks",                              year:2021, authors:[0,56,57,58,59] },
-  { title:"Simplicial contagion in temporal higher-order networks",                                  year:2021, authors:[0,38,60,61,8] },
-  { title:"London in lockdown: Mobility in the Pandemic City",                                      year:2021, authors:[0,62,63,64,65] },
-  { title:"On the dual nature of adoption processes in complex networks",                            year:2021, authors:[0,4] },
-  { title:"Interactive discovery processes on complex networks",                                     year:2020, authors:[0,24,66,67,4] },
-  { title:"Networks beyond pairwise interactions: structure and dynamics",                           year:2020, authors:[0,8,61,4,36,71,85,3] },
-  { title:"Multilayer modeling of adoption dynamics in energy demand management",                    year:2020, authors:[0,73,74,75,4] },
-  { title:"The brokerage role of small states in global corporate networks",                         year:2019, authors:[0,57,56,58] },
-  { title:"Using Foursquare data to reveal spatial and temporal patterns in London",                 year:2019, authors:[0,64,76,63,77,78,65,74,62] },
-  { title:"Creative Connectivity Project – group dynamics and creative performance",                 year:2019, authors:[0,79,80,4] },
-  { title:"Evaluating the impact of PrEP on HIV and gonorrhea on a networked population",           year:2019, authors:[0,81,82,41,83,39,40,19,1] },
-  { title:"Simplicial models of social contagion",                                                  year:2019, authors:[0,3,28,4] },
-  { title:"Tax havens and offshore financial centres: an industry sector perspective",              year:2019, authors:[0,56,57,58] },
-  { title:"Tax havens and offshore financial centers in Asia-Pacific networks",                     year:2018, authors:[0,57,56,58] },
-  { title:"Network dynamics of innovation processes",                                               year:2018, authors:[0,84,4] },
+var PAPERS = [
+  { title:"Discovering the laws behind complex networked systems",                                    journal:"Nat. Comput. Sci.", year:2026, url:"https://doi.org/10.1038/s43588-025-00929-z",                          authors:[0,1] },
+  { title:"Modeling the Spread of Misfolded Proteins in Alzheimer's Disease",                        journal:"EMBC",             year:2025, url:"https://doi.org/10.1109/EMBC58623.2025.11253716",                    authors:[0,2,3,4,5] },
+  { title:"Networks of ingredient combinations as culinary fingerprints of world cuisines",           journal:"npj Sci. Food",    year:2025, url:"https://doi.org/10.1038/s41538-025-00588-4",                         authors:[0,6,7,8,9,4] },
+  { title:"Disentangling heterogeneity and hyperedge overlap in explosive contagion",                 journal:"PRL",              year:2025, url:"https://doi.org/10.1103/z3d5-94zb",                                  authors:[0,10,11,12] },
+  { title:"Episcopal genealogy and ideology in the Roman Catholic Church",                            journal:"arXiv",            year:2025, url:"https://doi.org/10.48550/arXiv.2506.22108",                          authors:[0,13,14,15,16,17,18,19,20,1] },
+  { title:"Distinguishing mechanisms of social contagion from local network view",                    journal:"npj Complexity",   year:2025, url:"https://doi.org/10.1038/s44260-025-00034-2",                         authors:[0,21,22,23] },
+  { title:"The dynamics of higher-order novelties",                                                   journal:"Nat. Commun.",     year:2025, url:"https://doi.org/10.1038/s41467-024-55115-y",                         authors:[0,24,25,26,27,4] },
+  { title:"Temporal dynamics of group interactions in higher-order social networks",                  journal:"Nat. Commun.",     year:2024, url:"https://doi.org/10.1038/s41467-024-50918-5",                         authors:[0,23,28] },
+  { title:"Structural evolution of temporal hypergraphs through hyper-cores",                         journal:"EPJ Data Sci.",    year:2024, url:"https://doi.org/10.1140/epjds/s13688-024-00490-1",                   authors:[0,29,3,28] },
+  { title:"Higher-order networks to study animal communication",                                      journal:"Phil. Trans. B",   year:2024, url:"https://doi.org/10.1098/rstb.2023.0190",                             authors:[0,30,31,32,33] },
+  { title:"Insights from exact social contagion dynamics on higher-order structures",                 journal:"J. Complex Netw.", year:2023, url:"https://doi.org/10.1093/comnet/cnad044",                             authors:[0,12,34,35] },
+  { title:"Hyper-cores promote localization and efficient seeding",                                   journal:"Nat. Commun.",     year:2023, url:"https://doi.org/10.1038/s41467-023-41887-2",                         authors:[0,29,3,28] },
+  { title:"XGI: A Python package for higher-order interaction networks",                             journal:"JOSS",             year:2023, url:"https://doi.org/10.21105/joss.05162",                                authors:[0,69,36,3,70,71,72] },
+  { title:"Simplicially driven simple contagion",                                                    journal:"Phys. Rev. Res.",  year:2023, url:"https://doi.org/10.1103/PhysRevResearch.5.013201",                   authors:[0,36,37,28,3] },
+  { title:"Quantifying human performance in chess",                                                  journal:"Sci. Rep.",        year:2023, url:"https://doi.org/10.1038/s41598-023-27735-9",                         authors:[0,38,8] },
+  { title:"Non-selective distribution of infectious disease prevention",                             journal:"Nat. Commun.",     year:2022, url:"https://doi.org/10.1038/s41467-022-30639-3",                         authors:[0,39,40,41,42,19,1] },
+  { title:"Social contagion on higher-order structures",                                             journal:"Book Chapter",     year:2022, url:"https://doi.org/10.1007/978-3-030-91374-8_13",                       authors:[0,28,43,44] },
+  { title:"Group interactions modulate critical mass dynamics in social convention",                  journal:"Commun. Phys.",    year:2022, url:"https://doi.org/10.1038/s42005-022-00845-y",                         authors:[0,3,45,28] },
+  { title:"Social interactions affect discovery processes",                                          journal:"arXiv",            year:2022, url:"https://arxiv.org/abs/2202.05099",                                   authors:[0,24,66,68,4,67] },
+  { title:"Influential groups for seeding nonlinear contagion in hypergraphs",                       journal:"Commun. Phys.",    year:2022, url:"https://doi.org/10.1038/s42005-021-00788-w",                         authors:[0,46,4,28,3,47,48] },
+  { title:"The physics of higher-order interactions in complex systems",                             journal:"Nat. Phys.",       year:2021, url:"https://doi.org/10.1038/s41567-021-01371-4",                         authors:[0,8,28,49,50,43,51,4,52,44,53,54,55,3] },
+  { title:"Structural architecture of international industry networks",                              journal:"PLOS ONE",         year:2021, url:"https://doi.org/10.1371/journal.pone.0255450",                       authors:[0,56,57,58,59] },
+  { title:"Simplicial contagion in temporal higher-order networks",                                  journal:"J. Phys. Complex.",year:2021, url:"https://doi.org/10.1088/2632-072X/ac12bd",                           authors:[0,38,60,61,8] },
+  { title:"London in lockdown: Mobility in the Pandemic City",                                      journal:"Book Chapter",     year:2021, url:"http://spatialcomplexity.blogweb.casa.ucl.ac.uk/files/2021/07/London-in-Lockdown.pdf", authors:[0,62,63,64,65] },
+  { title:"On the dual nature of adoption processes in complex networks",                            journal:"Front. Phys.",     year:2021, url:"https://doi.org/10.3389/fphy.2021.604102",                            authors:[0,4] },
+  { title:"Interactive discovery processes on complex networks",                                     journal:"PRL",              year:2020, url:"https://doi.org/10.1103/PhysRevLett.125.248301",                     authors:[0,24,66,67,4] },
+  { title:"Networks beyond pairwise interactions: structure and dynamics",                           journal:"Phys. Rep.",       year:2020, url:"https://doi.org/10.1016/j.physrep.2020.05.004",                      authors:[0,8,61,4,36,71,85,3] },
+  { title:"Multilayer modeling of adoption dynamics in energy demand management",                    journal:"Chaos",            year:2020, url:"https://doi.org/10.1063/1.5122313",                                  authors:[0,73,74,75,4] },
+  { title:"The brokerage role of small states in global corporate networks",                         journal:"Growth & Change",  year:2019, url:"https://doi.org/10.1111/grow.12336",                                 authors:[0,57,56,58] },
+  { title:"Using Foursquare data to reveal spatial and temporal patterns in London",                 journal:"Preprint",         year:2019, url:"https://halshs.archives-ouvertes.fr/halshs-02284843/document",        authors:[0,64,76,63,77,78,65,74,62] },
+  { title:"Creative Connectivity Project",                                                           journal:"Conf. Proc.",      year:2019, url:"https://doi.org/10.35199/epde2019.24",                               authors:[0,79,80,4] },
+  { title:"Evaluating the impact of PrEP on HIV and gonorrhea on a networked population",           journal:"arXiv",            year:2019, url:"https://arxiv.org/abs/1906.09085",                                   authors:[0,81,82,41,83,39,40,19,1] },
+  { title:"Simplicial models of social contagion",                                                  journal:"Nat. Commun.",     year:2019, url:"https://doi.org/10.1038/s41467-019-10431-6",                         authors:[0,3,28,4] },
+  { title:"Tax havens and offshore financial centres: an industry sector perspective",              journal:"Reg. Stud.",       year:2019, url:"https://doi.org/10.1080/00343404.2019.1602257",                       authors:[0,56,57,58] },
+  { title:"Tax havens and offshore financial centers in Asia-Pacific networks",                     journal:"Asia Pac. Bus. Rev.", year:2018, url:"https://doi.org/10.1057/s41291-018-00051-1",                      authors:[0,57,56,58] },
+  { title:"Network dynamics of innovation processes",                                               journal:"PRL",              year:2018, url:"https://doi.org/10.1103/PhysRevLett.120.048301",                     authors:[0,84,4] },
 ];
 
-// ─── Data processing ────────────────────────────────────────────────
-const egoId = 0, egoNid = "a0";
+// ─── Helpers ────────────────────────────────────────────────────────
+var egoId = 0, egoNid = "a0";
 
-const coauthorMap = {};
-PAPERS.forEach(p => {
-  p.authors.forEach(aid => {
+function paperLink(p) {
+  var label = p.url
+    ? '<a href="' + p.url + '" target="_blank">' + p.title + '</a>'
+    : p.title;
+  return label;
+}
+
+function paperMeta(p) {
+  return '<span class="meta">' + p.journal + ' &middot; ' + p.year + '</span>';
+}
+
+function paperItem(p) {
+  return '<div class="paper-item">' + paperLink(p) + '<br>' + paperMeta(p) + '</div>';
+}
+
+// ─── Data processing ────────────────────────────────────────────────
+var coauthorMap = {};
+PAPERS.forEach(function(p) {
+  p.authors.forEach(function(aid) {
     if (aid === egoId) return;
     if (!coauthorMap[aid]) coauthorMap[aid] = { count:0, papers:[] };
     coauthorMap[aid].count++;
@@ -236,237 +256,244 @@ PAPERS.forEach(p => {
 });
 
 function inferCluster(p) {
-  const cnt = {};
-  p.authors.forEach(aid => {
+  var cnt = {};
+  p.authors.forEach(function(aid) {
     if (aid === egoId) return;
-    const a = AUTHORS.find(x => x.id === aid);
-    if (a) cnt[a.cluster] = (cnt[a.cluster]||0) + 1;
+    var a = AUTHORS.find(function(x) { return x.id === aid; });
+    if (a && a.cluster !== 'ego') cnt[a.cluster] = (cnt[a.cluster] || 0) + 1;
   });
-  const e = Object.entries(cnt);
-  return e.length ? e.sort((a,b) => b[1]-a[1])[0][0] : 'other';
+  var e = Object.entries(cnt);
+  return e.length ? e.sort(function(a,b) { return b[1]-a[1]; })[0][0] : 'other';
 }
 
-const authorNodes = AUTHORS
-  .filter(a => a.id === egoId || coauthorMap[a.id])
-  .map(a => ({
-    ...a, type:'author', nid:`a${a.id}`,
-    count: a.id===egoId ? PAPERS.length : coauthorMap[a.id].count,
-  }));
+var authorNodes = AUTHORS
+  .filter(function(a) { return a.id === egoId || coauthorMap[a.id]; })
+  .map(function(a) {
+    return Object.assign({}, a, {
+      type: 'author',
+      nid: 'a' + a.id,
+      count: a.id === egoId ? PAPERS.length : coauthorMap[a.id].count,
+    });
+  });
 
-const paperNodes = PAPERS.map((p,i) => ({
-  type:'paper', nid:`p${i}`, pidx:i,
-  title:p.title, year:p.year, authors:p.authors,
-  cluster: inferCluster(p),
-}));
+var paperNodes = PAPERS.map(function(p, i) {
+  return {
+    type:'paper', nid:'p'+i, pidx:i,
+    title:p.title, year:p.year, journal:p.journal, authors:p.authors, url:p.url,
+    cluster:inferCluster(p),
+  };
+});
 
-const nodes = [...authorNodes, ...paperNodes];
-const byNid = {};
-nodes.forEach(n => byNid[n.nid] = n);
+var nodes = authorNodes.concat(paperNodes);
+var byNid = {};
+nodes.forEach(function(n) { byNid[n.nid] = n; });
 
-const maxCount = d3.max(authorNodes.filter(n => n.id !== egoId), n => n.count) || 1;
-const nodeColor = n => CLUSTERS[n.cluster].color;
+var maxCount = d3.max(authorNodes.filter(function(n) { return n.id !== egoId; }), function(n) { return n.count; }) || 1;
+
+function nodeColor(n) { return CLUSTERS[n.cluster].color; }
 function nodeR(n) {
   if (n.nid === egoNid)   return 26;
   if (n.type === 'paper') return 7;
   return 6 + (n.count / maxCount) * 13;
 }
-const diamondPath = r => `M 0,${-r} L ${r*0.7},0 L 0,${r} L ${-r*0.7},0 Z`;
+function diamondPath(r) {
+  return 'M 0,' + (-r) + ' L ' + (r*0.7) + ',0 L 0,' + r + ' L ' + (-r*0.7) + ',0 Z';
+}
 
-const rawLinks = [];
-PAPERS.forEach((p,i) => {
-  rawLinks.push({ source:egoNid, target:`p${i}`, lt:'ep' });
-  p.authors.forEach(aid => {
-    if (aid !== egoId && coauthorMap[aid])
-      rawLinks.push({ source:`p${i}`, target:`a${aid}`, lt:'pa' });
+var rawLinks = [];
+PAPERS.forEach(function(p, i) {
+  rawLinks.push({ source:egoNid, target:'p'+i, lt:'ep' });
+  p.authors.forEach(function(aid) {
+    if (aid !== egoId && coauthorMap[aid]) {
+      rawLinks.push({ source:'p'+i, target:'a'+aid, lt:'pa' });
+    }
   });
 });
-const links = rawLinks.map(l => ({...l}));
+var links = rawLinks.map(function(l) { return Object.assign({}, l); });
 
 // ─── Layout ─────────────────────────────────────────────────────────
-const W = innerWidth, H = innerHeight;
-const svg = d3.select("#cv").attr("viewBox", `0 0 ${W} ${H}`);
-const g = svg.append("g");
-const zoom = d3.zoom().scaleExtent([0.2,4]).on("zoom", e => g.attr("transform", e.transform));
+var W = innerWidth, H = innerHeight;
+var svg = d3.select("#cv").attr("viewBox", "0 0 " + W + " " + H);
+var g = svg.append("g");
+
+var zoom = d3.zoom().scaleExtent([0.2, 4]).on("zoom", function(e) { g.attr("transform", e.transform); });
 svg.call(zoom);
 svg.call(zoom.transform, d3.zoomIdentity.translate(W * 0.05, H * 0.05).scale(0.75));
 
-const RING_R = Math.min(W, H) * 0.42;
-const clusterKeys = Object.keys(CLUSTERS);
-const cCount = {};
-clusterKeys.forEach(k => cCount[k] = 0);
-authorNodes.forEach(n => { if (n.id !== egoId) cCount[n.cluster]++; });
-const totalA = authorNodes.length - 1;
-let a0 = -Math.PI / 2;
-const cAngle = {};
-clusterKeys.forEach(k => {
+var RING_R = Math.min(W, H) * 0.42;
+var clusterKeys = ['contagion','innovation','urban','epidemio','other'];
+var cCount = {};
+clusterKeys.forEach(function(k) { cCount[k] = 0; });
+authorNodes.forEach(function(n) { if (n.id !== egoId && cCount[n.cluster] !== undefined) cCount[n.cluster]++; });
+var totalA = authorNodes.length - 1;
+var a0 = -Math.PI / 2;
+var cAngle = {};
+clusterKeys.forEach(function(k) {
   cAngle[k] = a0 + (cCount[k] / totalA) * Math.PI;
   a0 += (cCount[k] / totalA) * 2 * Math.PI;
 });
-const centroid = k => ({
-  x: W/2 + RING_R * Math.cos(cAngle[k]),
-  y: H/2 + RING_R * Math.sin(cAngle[k]),
-});
+function centroid(k) {
+  var key = cAngle[k] !== undefined ? k : 'other';
+  return { x: W/2 + RING_R * Math.cos(cAngle[key]), y: H/2 + RING_R * Math.sin(cAngle[key]) };
+}
 
-nodes.forEach(n => {
+nodes.forEach(function(n) {
   if (n.nid === egoNid) { n.x = W/2; n.y = H/2; return; }
   if (n.type === 'paper') {
-    const ang = (n.pidx / PAPERS.length) * 2 * Math.PI;
-    n.x = W/2 + 110*Math.cos(ang) + (Math.random()-.5)*30;
-    n.y = H/2 + 110*Math.sin(ang) + (Math.random()-.5)*30;
+    var ang = (n.pidx / PAPERS.length) * 2 * Math.PI;
+    n.x = W/2 + 110 * Math.cos(ang) + (Math.random() - 0.5) * 30;
+    n.y = H/2 + 110 * Math.sin(ang) + (Math.random() - 0.5) * 30;
   } else {
-    const c = centroid(n.cluster);
-    n.x = c.x + (Math.random()-.5)*70;
-    n.y = c.y + (Math.random()-.5)*70;
+    var c = centroid(n.cluster);
+    n.x = c.x + (Math.random() - 0.5) * 70;
+    n.y = c.y + (Math.random() - 0.5) * 70;
   }
 });
 
 function clusterForce(alpha) {
-  nodes.forEach(n => {
+  nodes.forEach(function(n) {
     if (n.type !== 'author' || n.nid === egoNid) return;
-    const c = centroid(n.cluster);
+    var c = centroid(n.cluster);
     n.vx += (c.x - n.x) * 0.1 * alpha;
     n.vy += (c.y - n.y) * 0.1 * alpha;
   });
 }
 
-const sim = d3.forceSimulation(nodes)
-  .force("link", d3.forceLink(links).id(d => d.nid)
-    .distance(d => d.lt==='ep' ? 120 : 65)
-    .strength(d => d.lt==='ep' ? 0.06 : 0.55))
-  .force("charge", d3.forceManyBody().strength(d => {
+var sim = d3.forceSimulation(nodes)
+  .force("link", d3.forceLink(links).id(function(d) { return d.nid; })
+    .distance(function(d) { return d.lt === 'ep' ? 120 : 65; })
+    .strength(function(d) { return d.lt === 'ep' ? 0.06 : 0.55; }))
+  .force("charge", d3.forceManyBody().strength(function(d) {
     if (d.nid === egoNid)   return -2000;
     if (d.type === 'paper') return -60;
     return -170;
   }))
   .force("cluster", clusterForce)
-  .force("collision", d3.forceCollide(d => {
+  .force("collision", d3.forceCollide(function(d) {
     if (d.nid === egoNid)   return 32;
     if (d.type === 'paper') return 16;
     return nodeR(d) + 26;
   }));
 
 // ─── Drawing ────────────────────────────────────────────────────────
-const linkSel = g.append("g").selectAll("line")
+var linkSel = g.append("g").selectAll("line")
   .data(links).join("line")
   .attr("stroke-linecap", "round")
-  .attr("stroke", d => nodeColor(byNid[d.target] || byNid[d.target.nid]))
-  .attr("stroke-opacity", d => d.lt==='ep' ? 0.12 : 0.35)
-  .attr("stroke-width",   d => d.lt==='ep' ? 1 : 1.5)
-  .attr("stroke-dasharray", d => d.lt==='ep' ? '3,5' : null);
+  .attr("stroke", function(d) {
+    var t = byNid[d.target] || byNid[d.target.nid];
+    return t ? nodeColor(t) : "#555";
+  })
+  .attr("stroke-opacity", function(d) { return d.lt === 'ep' ? 0.12 : 0.35; })
+  .attr("stroke-width",   function(d) { return d.lt === 'ep' ? 1 : 1.5; })
+  .attr("stroke-dasharray", function(d) { return d.lt === 'ep' ? '3,5' : null; });
 
-const nodeSel = g.append("g").selectAll(".node")
+var nodeSel = g.append("g").selectAll(".node")
   .data(nodes).join("g")
-  .attr("class", d => `node ${d.type}${d.nid===egoNid?' ego':''}`)
+  .attr("class", function(d) { return "node " + d.type + (d.nid === egoNid ? " ego" : ""); })
   .call(d3.drag()
-    .on("start", (e,d) => { if(!e.active) sim.alphaTarget(0.3).restart(); d.fx=d.x; d.fy=d.y; })
-    .on("drag",  (e,d) => { d.fx=e.x; d.fy=e.y; })
-    .on("end",   (e,d) => { if(!e.active) sim.alphaTarget(0); d.fx=null; d.fy=null; })
+    .on("start", function(e,d) { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx=d.x; d.fy=d.y; })
+    .on("drag",  function(e,d) { d.fx=e.x; d.fy=e.y; })
+    .on("end",   function(e,d) { if (!e.active) sim.alphaTarget(0); d.fx=null; d.fy=null; })
   )
-  .on("click", (e,d) => showPanel(d));
+  .on("click", function(e,d) { showPanel(d); });
 
-nodeSel.filter(d => d.type==='author')
+nodeSel.filter(function(d) { return d.type === 'author'; })
   .append("circle")
-  .attr("r", d => nodeR(d))
-  .attr("fill",   d => d3.color(nodeColor(d)).darker(d.nid===egoNid ? 0 : 1.6))
-  .attr("stroke", d => nodeColor(d))
-  .attr("stroke-width", d => d.nid===egoNid ? 3 : 2);
+  .attr("r", nodeR)
+  .attr("fill",   function(d) { return d3.color(nodeColor(d)).darker(d.nid === egoNid ? 0 : 1.6); })
+  .attr("stroke", nodeColor)
+  .attr("stroke-width", function(d) { return d.nid === egoNid ? 3 : 2; });
 
-nodeSel.filter(d => d.type==='paper')
+nodeSel.filter(function(d) { return d.type === 'paper'; })
   .append("path")
-  .attr("d", d => diamondPath(nodeR(d)))
-  .attr("fill",   d => d3.color(nodeColor(d)).darker(2.2))
-  .attr("stroke", d => nodeColor(d))
+  .attr("d", function(d) { return diamondPath(nodeR(d)); })
+  .attr("fill",   function(d) { return d3.color(nodeColor(d)).darker(2.2); })
+  .attr("stroke", nodeColor)
   .attr("stroke-width", 1.5);
 
-nodeSel.filter(d => d.type==='author')
+nodeSel.filter(function(d) { return d.type === 'author'; })
   .append("text")
-  .attr("dy", d => nodeR(d) + 12)
+  .attr("dy", function(d) { return nodeR(d) + 12; })
   .attr("text-anchor", "middle")
-  .text(d => {
-    const nm = d.nid===egoNid ? "I. Iacopini" : d.name;
-    return nm.length > 18 ? nm.slice(0,17)+"…" : nm;
+  .text(function(d) {
+    return d.name.length > 18 ? d.name.slice(0, 17) + "..." : d.name;
   });
 
-sim.on("tick", () => {
-  const ego = nodes.find(n => n.nid===egoNid);
+sim.on("tick", function() {
+  var ego = nodes.find(function(n) { return n.nid === egoNid; });
   ego.fx = W/2; ego.fy = H/2;
   linkSel
-    .attr("x1", d => d.source.x).attr("y1", d => d.source.y)
-    .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
-  nodeSel.attr("transform", d => `translate(${d.x},${d.y})`);
+    .attr("x1", function(d) { return d.source.x; }).attr("y1", function(d) { return d.source.y; })
+    .attr("x2", function(d) { return d.target.x; }).attr("y2", function(d) { return d.target.y; });
+  nodeSel.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 });
 
 // ─── Panel ──────────────────────────────────────────────────────────
-function showPanel(d) {
-  const setBadge = cluster => {
-    const cl = CLUSTERS[cluster], pb = document.getElementById("pb");
-    pb.style.cssText = `display:inline-block;background:${d3.color(cl.color).darker(1.5)};color:${cl.color};border:1px solid ${cl.color}`;
-    pb.textContent = cl.label;
-  };
+function setBadge(cluster) {
+  var cl = CLUSTERS[cluster], pb = document.getElementById("pb");
+  pb.style.cssText = "display:inline-block;background:" + d3.color(cl.color).darker(1.5) + ";color:" + cl.color + ";border:1px solid " + cl.color;
+  pb.textContent = cl.label;
+}
 
+function showPanel(d) {
   if (d.nid === egoNid) {
     document.getElementById("pt").textContent   = "I. Iacopini";
     document.getElementById("ps").textContent   = "Ego node · all papers";
     document.getElementById("pb").style.display = "none";
     document.getElementById("pc").textContent   = PAPERS.length;
     document.getElementById("pcl").textContent  = "publications";
-    document.getElementById("pn").innerHTML     = PAPERS.map(p =>
-      `<div class="paper-item">${p.title} <span>(${p.year})</span></div>`
-    ).join("");
+    document.getElementById("pn").innerHTML = PAPERS.map(paperItem).join("");
   } else if (d.type === 'paper') {
-    document.getElementById("pt").textContent  = d.title;
-    document.getElementById("ps").textContent  = `${d.year} · ${d.authors.length} authors`;
+    document.getElementById("pt").innerHTML    = paperLink(d);
+    document.getElementById("ps").textContent  = d.journal + " · " + d.year + " · " + d.authors.length + " authors";
     setBadge(d.cluster);
     document.getElementById("pc").textContent  = d.authors.length;
     document.getElementById("pcl").textContent = "authors";
-    document.getElementById("pn").innerHTML    = d.authors.map(aid => {
-      const a = AUTHORS.find(x => x.id === aid);
+    document.getElementById("pn").innerHTML = d.authors.map(function(aid) {
+      var a = AUTHORS.find(function(x) { return x.id === aid; });
       if (!a) return '';
-      const col = CLUSTERS[a.cluster].color;
-      const lbl = aid===egoId
-        ? `<strong style="color:#e0eaff">I. Iacopini</strong>`
+      var col = CLUSTERS[a.cluster].color;
+      var lbl = aid === egoId
+        ? '<strong style="color:#e0eaff">I. Iacopini</strong>'
         : a.name;
-      return `<div class="paper-item"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:${col};margin-right:5px;vertical-align:middle"></span>${lbl}</div>`;
+      return '<div class="paper-item"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:' + col + ';margin-right:5px;vertical-align:middle"></span>' + lbl + '</div>';
     }).join("");
   } else {
-    const data = coauthorMap[d.id];
+    var data = coauthorMap[d.id];
     document.getElementById("pt").textContent  = d.name;
     document.getElementById("ps").textContent  = CLUSTERS[d.cluster].label;
     setBadge(d.cluster);
     document.getElementById("pc").textContent  = data.count;
-    document.getElementById("pcl").textContent = `paper${data.count>1?'s':''} with Iacopo`;
-    document.getElementById("pn").innerHTML    = data.papers.map(p =>
-      `<div class="paper-item">${p.title} <span>(${p.year})</span></div>`
-    ).join("");
+    document.getElementById("pcl").textContent = "paper" + (data.count > 1 ? "s" : "") + " with I. Iacopini";
+    document.getElementById("pn").innerHTML = data.papers.map(paperItem).join("");
   }
 
-  // Highlight neighbours
-  const hi = new Set([egoNid]);
+  var hi = new Set([egoNid]);
   if (d.nid === egoNid) {
-    nodes.forEach(n => hi.add(n.nid));
+    nodes.forEach(function(n) { hi.add(n.nid); });
   } else if (d.type === 'paper') {
     hi.add(d.nid);
-    d.authors.forEach(aid => hi.add(`a${aid}`));
+    d.authors.forEach(function(aid) { hi.add('a' + aid); });
   } else {
     hi.add(d.nid);
-    coauthorMap[d.id].papers.forEach(p => {
-      hi.add(`p${PAPERS.indexOf(p)}`);
-      p.authors.forEach(aid => hi.add(`a${aid}`));
+    coauthorMap[d.id].papers.forEach(function(p) {
+      hi.add('p' + PAPERS.indexOf(p));
+      p.authors.forEach(function(aid) { hi.add('a' + aid); });
     });
   }
 
-  nodeSel.attr("opacity", n => hi.has(n.nid) ? 1 : 0.1);
-  linkSel.attr("stroke-opacity", l => {
-    const s = l.source.nid, t = l.target.nid;
-    return hi.has(s) && hi.has(t) ? (l.lt==='ep' ? 0.35 : 0.85) : 0.03;
+  nodeSel.attr("opacity", function(n) { return hi.has(n.nid) ? 1 : 0.1; });
+  linkSel.attr("stroke-opacity", function(l) {
+    var s = l.source.nid, t = l.target.nid;
+    return (hi.has(s) && hi.has(t)) ? (l.lt === 'ep' ? 0.35 : 0.85) : 0.03;
   });
   document.getElementById("panel").classList.add("on");
 }
 
-document.getElementById("xbtn").addEventListener("click", () => {
+document.getElementById("xbtn").addEventListener("click", function() {
   document.getElementById("panel").classList.remove("on");
   nodeSel.attr("opacity", 1);
-  linkSel.attr("stroke-opacity", l => l.lt==='ep' ? 0.12 : 0.35);
+  linkSel.attr("stroke-opacity", function(l) { return l.lt === 'ep' ? 0.12 : 0.35; });
 });
 </script>
 </body>
