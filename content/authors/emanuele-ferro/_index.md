@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Mattia Marasti
+title: Emanuele Ferro
 
 # Full name (for SEO)
-first_name: Mattia
-last_name: Marasti
+first_name: Emanuele
+last_name: Ferro
 
 # Username (this should match the folder name)
 authors:
-  - mattia-marasti
+  - emanuele-ferro
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,8 +18,8 @@ role: Master's Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Modena and Reggio Emilia
-  url: "https://international.unimore.it/"
+- name: University of Turin, Italy
+  url: "https://www.physics.unito.it/do/home.pl"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,5 +70,5 @@ organizations:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Researchers
 ---
