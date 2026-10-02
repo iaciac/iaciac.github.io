@@ -15,10 +15,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    description: 'Iacopo Iacopini, Associate Professor of Network Science at Northeastern University London. Research on social contagion, discovery processes and group dynamics.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
