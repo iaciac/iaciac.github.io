@@ -1,1 +1,38 @@
-{{- /* Tells search engines who this site belongs to. Details are read from content/authors/admin/_index.md */ -}} {{- if .IsHome -}} {{- with site.GetPage "authors/admin" -}} {{- $person := dict "@context" "https://schema.org" "@type" "Person" "@id" (printf "%s#person" site.BaseURL) "name" .Title "givenName" (trim .Params.first_name " ") "familyName" (trim .Params.last_name " ") "url" site.BaseURL "jobTitle" .Params.role -}} {{- with .Resources.GetMatch "avatar*" -}} {{- $person = merge $person (dict "image" (.Fill "400x400 Center").Permalink) -}} {{- end -}} {{- $orgs := slice -}} {{- range .Params.organizations -}} {{- $orgs = $orgs | append (dict "@type" "Organization" "name" .name "url" .url) -}} {{- end -}} {{- with $orgs -}}{{- $person = merge $person (dict "affiliation" .) -}}{{- end -}} {{- $schools := slice -}} {{- range .Params.education.courses -}} {{- $schools = $schools | append (dict "@type" "CollegeOrUniversity" "name" .institution) -}} {{- end -}} {{- with $schools -}}{{- $person = merge $person (dict "alumniOf" .) -}}{{- end -}} {{- with .Params.interests -}}{{- $person = merge $person (dict "knowsAbout" .) -}}{{- end -}} {{- $links := slice -}} {{- range .Params.social -}} {{- if not (hasPrefix .link "mailto:") -}} {{- $link := cond (hasPrefix .link "//") (printf "https:%s" .link) .link -}} {{- $links = $links | append $link -}} {{- end -}} {{- end -}} {{- with $links -}}{{- $person = merge $person (dict "sameAs" .) -}}{{- end -}} {{- end -}} {{- end -}}
+{{- /* Tells search engines who this site belongs to. Details are read from content/authors/admin/_index.md */ -}}
+{{- if .IsHome -}}
+{{- with site.GetPage "authors/admin" -}}
+{{- $person := dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "@id" (printf "%s#person" site.BaseURL)
+  "name" .Title
+  "givenName" (trim .Params.first_name " ")
+  "familyName" (trim .Params.last_name " ")
+  "url" site.BaseURL
+  "jobTitle" .Params.role
+-}}
+{{- with .Resources.GetMatch "avatar*" -}}
+  {{- $person = merge $person (dict "image" (.Fill "400x400 Center").Permalink) -}}
+{{- end -}}
+{{- $orgs := slice -}}
+{{- range .Params.organizations -}}
+  {{- $orgs = $orgs | append (dict "@type" "Organization" "name" .name "url" .url) -}}
+{{- end -}}
+{{- with $orgs -}}{{- $person = merge $person (dict "affiliation" .) -}}{{- end -}}
+{{- $schools := slice -}}
+{{- range .Params.education.courses -}}
+  {{- $schools = $schools | append (dict "@type" "CollegeOrUniversity" "name" .institution) -}}
+{{- end -}}
+{{- with $schools -}}{{- $person = merge $person (dict "alumniOf" .) -}}{{- end -}}
+{{- with .Params.interests -}}{{- $person = merge $person (dict "knowsAbout" .) -}}{{- end -}}
+{{- $links := slice -}}
+{{- range .Params.social -}}
+  {{- if not (hasPrefix .link "mailto:") -}}
+    {{- $link := cond (hasPrefix .link "//") (printf "https:%s" .link) .link -}}
+    {{- $links = $links | append $link -}}
+  {{- end -}}
+{{- end -}}
+{{- with $links -}}{{- $person = merge $person (dict "sameAs" .) -}}{{- end -}}
+<script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
+{{- end -}}
+{{- end -}}
