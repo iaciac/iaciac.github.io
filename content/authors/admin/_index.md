@@ -23,10 +23,12 @@ organizations:
 bio: My research interests include complex networks, social systems, and cities.
 
 interests:
-  - Complex Networks
-  - Complex Systems
-  - Science of Cities
-  - Computational Social Science
+  - Network Science
+  - Higher-Order Networks
+  - Social & Ecological Systems
+  - Behavioral Contagion
+  - Group Dynamics
+  - Discovery & Innovation Dynamics
 
 education:
   courses:
